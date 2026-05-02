@@ -54,7 +54,7 @@ A production-grade web scraper for the **Connecticut Judicial Branch Appellate C
 
 > *Click to watch: full scraper run, Excel output walkthrough, and monitor in action*
 
-![Monitor Progress](demo2.gif)
+![Monitor Progress](demo.gif)
 
 ## 🧠 Technical Challenges Solved
 
