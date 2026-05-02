@@ -27,6 +27,23 @@
 
 ---
 
+## 📹 Demo
+
+<div align="center">
+  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="thumbnail.png" width="860" alt="Watch full demo on YouTube" />
+  </a>
+  <p><i>Click thumbnail to watch: full scraper run, monitor in action, Excel output walkthrough</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="demo.gif" width="860" alt="Scraper progress monitor — 56K cases, 5 parallel workers" />
+</div>
+
+---
+
 ## ⚡ Overview
 
 A production-grade web scraper for the **Connecticut Judicial Branch Appellate Court** public database — one of the most technically complex government scraping projects due to ASP.NET WebForms stateful architecture and TLS-level bot detection.
@@ -47,14 +64,6 @@ A production-grade web scraper for the **Connecticut Judicial Branch Appellate C
 | Runtime (5 workers) | **~11 hours** |
 
 ---
-
-## 📹 Demo
-
-[![Watch Demo](thumbnail.png)]([https://youtube.com/watch?v=-kWFCRtUua8])
-
-> *Click to watch: full scraper run, Excel output walkthrough, and monitor in action*
-
-![Monitor Progress](demo.gif)
 
 ## 🧠 Technical Challenges Solved
 
