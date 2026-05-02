@@ -1,0 +1,19 @@
+
+# COLUMN HEADER PATCH — paste ke phase3_build_excel.py
+# Replace q6, q7, q8 functions dengan yang di bawah:
+
+def q6_transcripts(conn):
+    h = ['Description', 'Date', 'Date', 'Date', 'Notes']
+    return pd.read_sql(f"""
+        SELECT
+            ci.ac_number  AS "Docket Number",
+            t.col1        AS "Description",
+            t.col2        AS "Date",
+            t.col3        AS "Date",
+            t.col4        AS "Date",
+            t.col5        AS "Notes",
+            t.link_url    AS "Document Link"
+        FROM transcripts_exhibits t
+        JOIN case_information ci ON t.crn = ci.crn
+        ORDER BY ci.ac_number
+    """, conn)

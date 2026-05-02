@@ -1,0 +1,55 @@
+2026-04-30 17:28:45,526 [INFO] ============================================================
+2026-04-30 17:28:45,526 [INFO] CLEAN & REBUILD — Pre-delivery data cleanup
+2026-04-30 17:28:45,527 [INFO] ============================================================
+2026-04-30 17:28:45,528 [INFO] Fixing &nbsp; and HTML entities in all tables...
+2026-04-30 17:28:51,696 [INFO]   case_information: 0 rows fixed
+2026-04-30 17:28:52,997 [INFO]   cases: 3 rows fixed
+2026-04-30 17:28:56,234 [INFO]   appeal_case_info: 0 rows fixed
+2026-04-30 17:29:05,605 [INFO]   trial_court_info: 0 rows fixed
+2026-04-30 17:29:12,434 [INFO]   party_attorney: 0 rows fixed
+2026-04-30 17:29:17,253 [INFO]   case_activity: 0 rows fixed
+2026-04-30 17:29:18,139 [INFO]   transcripts_exhibits: 0 rows fixed
+2026-04-30 17:29:19,595 [INFO]   preliminary_papers: 0 rows fixed
+2026-04-30 17:29:23,645 [INFO]   briefs_record: 0 rows fixed
+2026-04-30 17:29:23,977 [INFO] 
+Detecting actual column headers for tabs 6/7/8...
+2026-04-30 17:29:23,978 [INFO] 
+  Tab 6 Transcripts samples:
+2026-04-30 17:29:23,981 [INFO]     Row 1: ['JODY P. FELLOWS,GARY W. FELLOW', '02/06/1991', '04/01/1991', '06/10/1991', '163']
+2026-04-30 17:29:23,983 [INFO]     Row 2: ['Amended', '05/22/1991', '06/20/1991', '', '']
+2026-04-30 17:29:23,984 [INFO]     Row 3: ['MICHAEL GUIDA', '02/05/1991', '02/20/1991', '02/21/1991', '91']
+2026-04-30 17:29:23,984 [INFO]     Row 4: ['COMMISSIONER OF CORRECTION', '03/12/1991', '03/07/1991', '03/07/1991', '27']
+2026-04-30 17:29:23,985 [INFO]     Row 5: ['WARDEN', '', '', '02/04/1991', '']
+2026-04-30 17:29:23,986 [INFO]   Detected headers: ['Description', 'Date', 'Date', 'Date', 'Notes']
+2026-04-30 17:29:23,986 [INFO] 
+  Tab 7 Prelim Papers samples:
+2026-04-30 17:29:23,987 [INFO]     Row 1: ['JODY P. FELLOWS,GARY W. FELLOW', '02/08/1991', '02/08/1991', '02/08/1991', '02/08/1991']
+2026-04-30 17:29:23,987 [INFO]     Row 2: ['MICHAEL GUIDA', '02/07/1991', '02/07/1991', '02/07/1991', '02/07/1991']
+2026-04-30 17:29:23,988 [INFO]     Row 3: ['COMMISSIONER OF CORRECTION', '02/20/1991', '02/20/1991', '02/20/1991', '02/20/1991']
+2026-04-30 17:29:23,988 [INFO]     Row 4: ['WARDEN', '02/08/1991', '02/08/1991', '02/08/1991', '02/08/1991']
+2026-04-30 17:29:23,989 [INFO]     Row 5: ['RONALD TUTSKY', '02/06/1991', '02/06/1991', '', '02/06/1991']
+2026-04-30 17:29:23,989 [INFO]   Detected headers: ['Description', 'Date', 'Date', 'Date', 'Date']
+2026-04-30 17:29:23,990 [INFO] 
+  Tab 8 Briefs samples:
+2026-04-30 17:29:23,990 [INFO]     Row 1: ['JODY P. FELLOWS,GARY W. FELLOW', 'Brief', '07/25/1991', '07/25/1991', '']
+2026-04-30 17:29:23,991 [INFO]     Row 2: ['MICHAEL GUIDA Appellant', 'Brief', '04/08/1991', '04/29/1991', '']
+2026-04-30 17:29:23,992 [INFO]     Row 3: ['WARDEN Appellant', 'Brief', '03/21/1991', '03/21/1991', '']
+2026-04-30 17:29:23,992 [INFO]     Row 4: ['RONALD TUTSKY Appellant', 'Brief', '03/22/1991', '12/16/1991', '12/02/1991']
+2026-04-30 17:29:23,993 [INFO]     Row 5: ['RONALD TUTSKY Appellant', 'Reply Brief', '02/13/1992', '02/21/1992', '02/21/1992']
+2026-04-30 17:29:23,993 [INFO]   Detected headers: ['Description', 'Info 2', 'Date', 'Date', 'Date']
+2026-04-30 17:29:23,994 [INFO] 
+============================================================
+2026-04-30 17:29:23,994 [INFO] CLEANUP COMPLETE
+2026-04-30 17:29:23,995 [INFO] Detected column headers:
+2026-04-30 17:29:23,995 [INFO]   transcripts_exhibits: ['Description', 'Date', 'Date', 'Date', 'Notes']
+2026-04-30 17:29:23,995 [INFO]   preliminary_papers: ['Description', 'Date', 'Date', 'Date', 'Date']
+2026-04-30 17:29:23,996 [INFO]   briefs_record: ['Description', 'Info 2', 'Date', 'Date', 'Date']
+2026-04-30 17:29:23,997 [INFO] ============================================================
+2026-04-30 17:29:24,001 [INFO] 
+Generating column rename patch for phase3_build_excel.py...
+2026-04-30 17:29:24,014 [INFO] Column patch saved to: logs/column_patch.txt
+2026-04-30 17:29:24,014 [INFO] 
+Next steps:
+2026-04-30 17:29:24,017 [INFO]   1. python phase3_build_excel.py  (rebuild dengan data bersih)
+2026-04-30 17:29:24,017 [INFO]   2. python phase4_validate.py     (validasi ulang)
+2026-04-30 17:29:24,018 [INFO]   3. Deliver ke klien!

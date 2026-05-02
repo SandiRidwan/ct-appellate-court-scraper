@@ -1,0 +1,52 @@
+2026-04-27 17:14:55,855 [INFO] ============================================================
+2026-04-27 17:14:55,855 [INFO] PHASE 1 — Collecting CRNs from SearchResults
+2026-04-27 17:14:55,856 [INFO] ============================================================
+2026-04-27 17:14:55,857 [INFO] Loading page 1...
+2026-04-27 17:15:01,088 [INFO] Max page visible: 11 (will update as we paginate)
+2026-04-27 17:17:56,526 [INFO] ============================================================
+2026-04-27 17:17:56,529 [INFO] PHASE 1 — Collecting CRNs from SearchResults
+2026-04-27 17:17:56,530 [INFO] ============================================================
+2026-04-27 17:17:56,533 [INFO] Loading page 1...
+2026-04-27 17:18:01,952 [INFO] Max page visible: 11 (will update as we paginate)
+2026-04-27 17:18:02,013 [INFO] Page 1: 15 rows | Total CRNs: 0
+2026-04-27 17:18:09,674 [INFO] Page 2: 15 rows | Total CRNs: 15
+2026-04-27 17:18:16,845 [INFO] Page 3: 15 rows | Total CRNs: 30
+2026-04-27 17:18:23,577 [INFO] Page 4: 15 rows | Total CRNs: 45
+2026-04-27 17:18:29,663 [INFO] Page 5: 15 rows | Total CRNs: 60
+2026-04-27 17:18:35,730 [INFO] Page 6: 15 rows | Total CRNs: 75
+2026-04-27 17:18:41,092 [INFO] Page 7: 15 rows | Total CRNs: 90
+2026-04-27 17:18:47,523 [INFO] Page 8: 15 rows | Total CRNs: 105
+2026-04-27 17:18:53,723 [INFO] Page 9: 15 rows | Total CRNs: 120
+2026-04-27 17:19:00,265 [INFO] Page 10: 15 rows | Total CRNs: 135
+2026-04-27 17:19:06,416 [INFO] Page 11: 15 rows | Total CRNs: 150
+2026-04-27 17:19:06,545 [INFO] Max page updated: 21
+2026-04-27 17:19:11,848 [INFO] Page 12: 15 rows | Total CRNs: 165
+2026-04-27 17:19:18,571 [INFO] Page 13: 15 rows | Total CRNs: 180
+2026-04-27 17:19:26,135 [INFO] Page 14: 15 rows | Total CRNs: 195
+2026-04-27 17:19:33,990 [INFO] Page 15: 15 rows | Total CRNs: 210
+2026-04-27 17:19:39,120 [INFO] Page 16: 15 rows | Total CRNs: 225
+2026-04-27 17:19:44,904 [INFO] Page 17: 15 rows | Total CRNs: 240
+2026-04-27 17:19:50,324 [INFO] Page 18: 15 rows | Total CRNs: 255
+2026-04-27 17:19:55,784 [INFO] Page 19: 15 rows | Total CRNs: 270
+2026-04-27 17:20:01,534 [INFO] Page 20: 15 rows | Total CRNs: 285
+2026-04-27 17:20:10,226 [INFO] Page 21: 15 rows | Total CRNs: 300
+2026-04-27 17:20:10,683 [INFO] Max page updated: 31
+2026-04-27 17:20:16,492 [INFO] Page 22: 15 rows | Total CRNs: 315
+2026-04-27 17:20:23,966 [INFO] Page 23: 15 rows | Total CRNs: 330
+2026-04-27 17:20:31,346 [INFO] Page 24: 15 rows | Total CRNs: 345
+2026-04-27 17:20:38,464 [INFO] Page 25: 15 rows | Total CRNs: 360
+2026-04-27 17:20:46,516 [INFO] Page 26: 15 rows | Total CRNs: 375
+2026-04-27 17:20:52,572 [INFO] Page 27: 15 rows | Total CRNs: 390
+2026-04-27 17:20:59,042 [INFO] Page 28: 15 rows | Total CRNs: 405
+2026-04-27 17:21:06,056 [INFO] Page 29: 15 rows | Total CRNs: 420
+2026-04-27 17:21:14,419 [INFO] Page 30: 15 rows | Total CRNs: 435
+2026-04-27 17:21:20,696 [INFO] Page 31: 15 rows | Total CRNs: 450
+2026-04-27 17:21:20,827 [INFO] Max page updated: 41
+2026-04-27 17:21:26,412 [INFO] Page 32: 15 rows | Total CRNs: 465
+2026-04-27 17:21:31,383 [INFO] Page 33: 15 rows | Total CRNs: 480
+2026-04-27 17:21:34,438 [WARNING] Table 'gridResultsCounsel' not found on page!
+2026-04-27 17:21:34,438 [INFO] Page 34: 0 rows | Total CRNs: 495
+2026-04-27 17:21:34,459 [INFO] No more pages after page 34. Done.
+2026-04-27 17:21:34,822 [INFO] ============================================================
+2026-04-27 17:21:34,922 [INFO] PHASE 1 DONE. Total CRNs collected: 190
+2026-04-27 17:21:34,975 [INFO] Next: python phase2_scrape_details.py

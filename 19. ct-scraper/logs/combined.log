@@ -1,0 +1,1522 @@
+2026-04-28 06:45:12,152 [INFO] ============================================================
+2026-04-28 06:45:12,153 [INFO] COMBINED SCRAPER — CRN 1 to 95,000
+2026-04-28 06:45:12,176 [INFO] Range: 95,000 | Workers: 3 | ETA: 11.4h
+2026-04-28 06:45:12,176 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 06:45:12,176 [INFO] ============================================================
+2026-04-28 06:49:56,508 [INFO] ============================================================
+2026-04-28 06:49:56,509 [INFO] COMBINED SCRAPER — CRN 1 to 95,000
+2026-04-28 06:49:56,635 [INFO] Range: 95,000 | Workers: 3 | ETA: 11.4h
+2026-04-28 06:49:56,635 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 06:49:56,686 [INFO] ============================================================
+2026-04-28 11:08:49,616 [INFO] ============================================================
+2026-04-28 11:08:49,635 [INFO] COMBINED SCRAPER — CRN 1 to 95,000
+2026-04-28 11:08:49,636 [INFO] Range: 95,000 | Workers: 3 | ETA: 11.4h
+2026-04-28 11:08:49,636 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 11:08:49,637 [INFO] ============================================================
+2026-04-28 11:12:03,280 [INFO] ============================================================
+2026-04-28 11:12:03,310 [INFO] COMBINED SCRAPER — CRN 1 to 95,000
+2026-04-28 11:12:03,310 [INFO] Range: 95,000 | Workers: 3 | ETA: 11.4h
+2026-04-28 11:12:03,310 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 11:12:03,311 [INFO] ============================================================
+2026-04-28 11:17:22,748 [INFO] ============================================================
+2026-04-28 11:17:22,749 [INFO] COMBINED SCRAPER — CRN 1 to 95,000
+2026-04-28 11:17:22,749 [INFO] Range: 95,000 | Workers: 3 | ETA: 11.4h
+2026-04-28 11:17:22,749 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 11:17:22,750 [INFO] ============================================================
+2026-04-28 11:18:57,926 [INFO] [0.1%] Processed:50/95,000 | Valid:50 | Sealed:0 | Errors:0 | DB:50
+2026-04-28 11:23:57,712 [INFO] [0.2%] Processed:200/95,000 | Valid:200 | Sealed:0 | Errors:0 | DB:200
+2026-04-28 11:30:34,067 [INFO] [0.4%] Processed:400/95,000 | Valid:400 | Sealed:0 | Errors:0 | DB:400
+2026-04-28 11:35:51,516 [INFO] [0.6%] Processed:550/95,000 | Valid:550 | Sealed:0 | Errors:0 | DB:550
+2026-04-28 11:37:28,638 [INFO] [0.6%] Processed:600/95,000 | Valid:600 | Sealed:0 | Errors:0 | DB:600
+2026-04-28 11:44:11,436 [INFO] [0.8%] Processed:800/95,000 | Valid:800 | Sealed:0 | Errors:0 | DB:800
+2026-04-28 11:50:50,240 [INFO] [1.1%] Processed:1,000/95,000 | Valid:1,000 | Sealed:0 | Errors:0 | DB:1,000
+2026-04-28 11:52:40,753 [INFO] [1.1%] Processed:1,050/95,000 | Valid:1,050 | Sealed:0 | Errors:0 | DB:1,050
+2026-04-28 11:58:00,084 [INFO] [1.3%] Processed:1,200/95,000 | Valid:1,200 | Sealed:0 | Errors:0 | DB:1,200
+2026-04-28 12:04:45,751 [INFO] [1.5%] Processed:1,400/95,000 | Valid:1,400 | Sealed:0 | Errors:0 | DB:1,400
+2026-04-28 12:10:03,054 [INFO] [1.6%] Processed:1,550/95,000 | Valid:1,550 | Sealed:0 | Errors:0 | DB:1,550
+2026-04-28 12:11:40,092 [INFO] [1.7%] Processed:1,600/95,000 | Valid:1,600 | Sealed:0 | Errors:0 | DB:1,600
+2026-04-28 12:18:12,057 [INFO] [1.9%] Processed:1,800/95,000 | Valid:1,800 | Sealed:0 | Errors:0 | DB:1,800
+2026-04-28 12:25:52,652 [INFO] [2.1%] Processed:2,000/95,000 | Valid:2,000 | Sealed:0 | Errors:0 | DB:2,000
+2026-04-28 12:27:42,647 [INFO] [2.2%] Processed:2,050/95,000 | Valid:2,050 | Sealed:0 | Errors:0 | DB:2,050
+2026-04-28 12:32:41,895 [INFO] [2.3%] Processed:2,200/95,000 | Valid:2,200 | Sealed:0 | Errors:0 | DB:2,200
+2026-04-28 12:39:39,175 [INFO] [2.5%] Processed:2,400/95,000 | Valid:2,400 | Sealed:0 | Errors:0 | DB:2,400
+2026-04-28 12:44:58,100 [INFO] [2.7%] Processed:2,550/95,000 | Valid:2,550 | Sealed:0 | Errors:0 | DB:2,550
+2026-04-28 12:46:44,883 [INFO] [2.7%] Processed:2,600/95,000 | Valid:2,600 | Sealed:0 | Errors:0 | DB:2,600
+2026-04-28 12:53:35,215 [INFO] [2.9%] Processed:2,800/95,000 | Valid:2,800 | Sealed:0 | Errors:0 | DB:2,800
+2026-04-28 13:00:24,792 [INFO] [3.2%] Processed:3,000/95,000 | Valid:3,000 | Sealed:0 | Errors:0 | DB:3,000
+2026-04-28 13:02:08,450 [INFO] [3.2%] Processed:3,050/95,000 | Valid:3,050 | Sealed:0 | Errors:0 | DB:3,050
+2026-04-28 13:07:32,943 [INFO] [3.4%] Processed:3,200/95,000 | Valid:3,200 | Sealed:0 | Errors:0 | DB:3,200
+2026-04-28 13:14:39,251 [INFO] [3.6%] Processed:3,400/95,000 | Valid:3,400 | Sealed:0 | Errors:0 | DB:3,400
+2026-04-28 13:19:50,605 [INFO] [3.7%] Processed:3,550/95,000 | Valid:3,550 | Sealed:0 | Errors:0 | DB:3,550
+2026-04-28 13:21:34,667 [INFO] [3.8%] Processed:3,600/95,000 | Valid:3,600 | Sealed:0 | Errors:0 | DB:3,600
+2026-04-28 13:28:29,067 [INFO] [4.0%] Processed:3,800/95,000 | Valid:3,800 | Sealed:0 | Errors:0 | DB:3,800
+2026-04-28 13:35:26,363 [INFO] [4.2%] Processed:4,000/95,000 | Valid:4,000 | Sealed:0 | Errors:0 | DB:4,000
+2026-04-28 13:37:07,812 [INFO] [4.3%] Processed:4,050/95,000 | Valid:4,050 | Sealed:0 | Errors:0 | DB:4,050
+2026-04-28 13:42:13,492 [INFO] [4.4%] Processed:4,200/95,000 | Valid:4,200 | Sealed:0 | Errors:0 | DB:4,200
+2026-04-28 13:48:51,136 [INFO] [4.6%] Processed:4,400/95,000 | Valid:4,400 | Sealed:0 | Errors:0 | DB:4,400
+2026-04-28 13:53:52,492 [INFO] [4.8%] Processed:4,550/95,000 | Valid:4,550 | Sealed:0 | Errors:0 | DB:4,550
+2026-04-28 13:55:35,623 [INFO] [4.8%] Processed:4,600/95,000 | Valid:4,600 | Sealed:0 | Errors:0 | DB:4,600
+2026-04-28 14:02:40,857 [INFO] [5.1%] Processed:4,800/95,000 | Valid:4,800 | Sealed:0 | Errors:0 | DB:4,800
+2026-04-28 14:09:41,740 [INFO] [5.3%] Processed:5,000/95,000 | Valid:5,000 | Sealed:0 | Errors:0 | DB:5,000
+2026-04-28 14:11:18,722 [INFO] [5.3%] Processed:5,050/95,000 | Valid:5,050 | Sealed:0 | Errors:0 | DB:5,050
+2026-04-28 14:16:16,666 [INFO] [5.5%] Processed:5,200/95,000 | Valid:5,200 | Sealed:0 | Errors:0 | DB:5,200
+2026-04-28 14:22:39,545 [INFO] [5.7%] Processed:5,400/95,000 | Valid:5,400 | Sealed:0 | Errors:0 | DB:5,400
+2026-04-28 14:27:42,586 [INFO] [5.8%] Processed:5,550/95,000 | Valid:5,550 | Sealed:0 | Errors:0 | DB:5,550
+2026-04-28 14:29:17,522 [INFO] [5.9%] Processed:5,600/95,000 | Valid:5,600 | Sealed:0 | Errors:0 | DB:5,600
+2026-04-28 14:35:56,885 [INFO] [6.1%] Processed:5,800/95,000 | Valid:5,800 | Sealed:0 | Errors:0 | DB:5,800
+2026-04-28 14:42:34,286 [INFO] [6.3%] Processed:6,000/95,000 | Valid:6,000 | Sealed:0 | Errors:0 | DB:6,000
+2026-04-28 14:44:10,986 [INFO] [6.4%] Processed:6,050/95,000 | Valid:6,050 | Sealed:0 | Errors:0 | DB:6,050
+2026-04-28 14:49:06,342 [INFO] [6.5%] Processed:6,200/95,000 | Valid:6,200 | Sealed:0 | Errors:0 | DB:6,200
+2026-04-28 14:55:47,553 [INFO] [6.7%] Processed:6,400/95,000 | Valid:6,400 | Sealed:0 | Errors:0 | DB:6,400
+2026-04-28 15:00:39,805 [INFO] [6.9%] Processed:6,550/95,000 | Valid:6,550 | Sealed:0 | Errors:0 | DB:6,550
+2026-04-28 15:02:20,155 [INFO] [6.9%] Processed:6,600/95,000 | Valid:6,600 | Sealed:0 | Errors:0 | DB:6,600
+2026-04-28 15:08:54,280 [INFO] [7.2%] Processed:6,800/95,000 | Valid:6,800 | Sealed:0 | Errors:0 | DB:6,800
+2026-04-28 15:15:31,993 [INFO] [7.4%] Processed:7,000/95,000 | Valid:7,000 | Sealed:0 | Errors:0 | DB:7,000
+2026-04-28 15:17:08,956 [INFO] [7.4%] Processed:7,050/95,000 | Valid:7,050 | Sealed:0 | Errors:0 | DB:7,050
+2026-04-28 15:22:00,426 [INFO] [7.6%] Processed:7,200/95,000 | Valid:7,200 | Sealed:0 | Errors:0 | DB:7,200
+2026-04-28 15:28:33,267 [INFO] [7.8%] Processed:7,400/95,000 | Valid:7,400 | Sealed:0 | Errors:0 | DB:7,400
+2026-04-28 15:33:37,297 [INFO] [7.9%] Processed:7,550/95,000 | Valid:7,550 | Sealed:0 | Errors:0 | DB:7,550
+2026-04-28 15:35:17,107 [INFO] [8.0%] Processed:7,600/95,000 | Valid:7,600 | Sealed:0 | Errors:0 | DB:7,600
+2026-04-28 15:41:57,557 [INFO] [8.2%] Processed:7,800/95,000 | Valid:7,800 | Sealed:0 | Errors:0 | DB:7,800
+2026-04-28 15:48:41,711 [INFO] [8.4%] Processed:8,000/95,000 | Valid:8,000 | Sealed:0 | Errors:0 | DB:8,000
+2026-04-28 15:50:23,124 [INFO] [8.5%] Processed:8,050/95,000 | Valid:8,050 | Sealed:0 | Errors:0 | DB:8,050
+2026-04-28 15:55:30,114 [INFO] [8.6%] Processed:8,200/95,000 | Valid:8,200 | Sealed:0 | Errors:0 | DB:8,200
+2026-04-28 16:02:14,504 [INFO] [8.8%] Processed:8,400/95,000 | Valid:8,400 | Sealed:0 | Errors:0 | DB:8,400
+2026-04-28 16:07:15,439 [INFO] [9.0%] Processed:8,550/95,000 | Valid:8,550 | Sealed:0 | Errors:0 | DB:8,550
+2026-04-28 16:08:52,287 [INFO] [9.1%] Processed:8,600/95,000 | Valid:8,600 | Sealed:0 | Errors:0 | DB:8,600
+2026-04-28 16:15:25,197 [INFO] [9.3%] Processed:8,800/95,000 | Valid:8,800 | Sealed:0 | Errors:0 | DB:8,800
+2026-04-28 16:21:56,318 [INFO] [9.5%] Processed:9,000/95,000 | Valid:9,000 | Sealed:0 | Errors:0 | DB:9,000
+2026-04-28 16:23:38,621 [INFO] [9.5%] Processed:9,050/95,000 | Valid:9,050 | Sealed:0 | Errors:0 | DB:9,050
+2026-04-28 16:28:38,658 [INFO] [9.7%] Processed:9,200/95,000 | Valid:9,200 | Sealed:0 | Errors:0 | DB:9,200
+2026-04-28 16:35:12,597 [INFO] [9.9%] Processed:9,400/95,000 | Valid:9,400 | Sealed:0 | Errors:0 | DB:9,400
+2026-04-28 16:40:02,220 [INFO] [10.1%] Processed:9,550/95,000 | Valid:9,550 | Sealed:0 | Errors:0 | DB:9,550
+2026-04-28 16:41:44,293 [INFO] [10.1%] Processed:9,600/95,000 | Valid:9,600 | Sealed:0 | Errors:0 | DB:9,600
+2026-04-28 16:48:27,718 [INFO] [10.3%] Processed:9,800/95,000 | Valid:9,800 | Sealed:0 | Errors:0 | DB:9,800
+2026-04-28 16:55:00,458 [INFO] [10.5%] Processed:10,000/95,000 | Valid:10,000 | Sealed:0 | Errors:0 | DB:10,000
+2026-04-28 16:56:44,410 [INFO] [10.6%] Processed:10,050/95,000 | Valid:10,050 | Sealed:0 | Errors:0 | DB:10,050
+2026-04-28 17:01:48,460 [INFO] [10.7%] Processed:10,200/95,000 | Valid:10,200 | Sealed:0 | Errors:0 | DB:10,200
+2026-04-28 17:08:38,420 [INFO] [10.9%] Processed:10,400/95,000 | Valid:10,400 | Sealed:0 | Errors:0 | DB:10,400
+2026-04-28 17:13:56,789 [INFO] [11.1%] Processed:10,550/95,000 | Valid:10,550 | Sealed:0 | Errors:0 | DB:10,550
+2026-04-28 17:15:49,167 [INFO] [11.2%] Processed:10,600/95,000 | Valid:10,600 | Sealed:0 | Errors:0 | DB:10,600
+2026-04-28 17:22:49,992 [INFO] [11.4%] Processed:10,800/95,000 | Valid:10,774 | Sealed:0 | Errors:26 | DB:10,774
+2026-04-28 17:30:01,917 [INFO] [11.6%] Processed:11,000/95,000 | Valid:10,974 | Sealed:0 | Errors:26 | DB:10,974
+2026-04-28 17:31:47,620 [INFO] [11.6%] Processed:11,050/95,000 | Valid:11,024 | Sealed:0 | Errors:26 | DB:11,024
+2026-04-28 17:34:58,467 [INFO] Stopped. Run again to resume from last CRN.
+2026-04-28 17:34:58,468 [INFO] ============================================================
+2026-04-28 17:34:58,469 [INFO] DONE. Valid:11,122 | Sealed:0 | Errors:26
+2026-04-28 17:34:58,469 [INFO] Total in DB: 11,122
+2026-04-28 17:34:58,469 [INFO] Next: python phase3_build_excel.py
+2026-04-28 17:38:57,551 [INFO] ============================================================
+2026-04-28 17:38:57,575 [INFO] COMBINED SCRAPER — CRN 11,149 to 96,470
+2026-04-28 17:38:57,575 [INFO] Range: 85,322 | Workers: 5 | ETA: 6.2h
+2026-04-28 17:38:57,577 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-28 17:38:57,577 [INFO] ============================================================
+2026-04-28 17:40:08,060 [INFO] [0.1%] Processed:50/85,322 | Valid:50 | Sealed:0 | Errors:0 | DB:11,172
+2026-04-28 17:43:39,525 [INFO] [0.2%] Processed:200/85,322 | Valid:200 | Sealed:0 | Errors:0 | DB:11,322
+2026-04-28 17:48:12,008 [INFO] [0.5%] Processed:400/85,322 | Valid:400 | Sealed:0 | Errors:0 | DB:11,522
+2026-04-28 17:51:23,449 [INFO] [0.6%] Processed:550/85,322 | Valid:550 | Sealed:0 | Errors:0 | DB:11,672
+2026-04-28 17:52:30,541 [INFO] [0.7%] Processed:600/85,322 | Valid:600 | Sealed:0 | Errors:0 | DB:11,722
+2026-04-28 17:56:50,699 [INFO] [0.9%] Processed:800/85,322 | Valid:800 | Sealed:0 | Errors:0 | DB:11,922
+2026-04-28 18:01:27,333 [INFO] [1.2%] Processed:1,000/85,322 | Valid:1,000 | Sealed:0 | Errors:0 | DB:12,122
+2026-04-28 18:02:32,368 [INFO] [1.2%] Processed:1,050/85,322 | Valid:1,050 | Sealed:0 | Errors:0 | DB:12,172
+2026-04-28 18:06:13,746 [INFO] [1.4%] Processed:1,200/85,322 | Valid:1,200 | Sealed:0 | Errors:0 | DB:12,322
+2026-04-28 18:10:54,586 [INFO] [1.6%] Processed:1,400/85,322 | Valid:1,400 | Sealed:0 | Errors:0 | DB:12,522
+2026-04-28 18:14:11,922 [INFO] [1.8%] Processed:1,550/85,322 | Valid:1,550 | Sealed:0 | Errors:0 | DB:12,672
+2026-04-28 18:15:31,102 [INFO] [1.9%] Processed:1,600/85,322 | Valid:1,600 | Sealed:0 | Errors:0 | DB:12,722
+2026-04-28 18:20:21,175 [INFO] [2.1%] Processed:1,800/85,322 | Valid:1,800 | Sealed:0 | Errors:0 | DB:12,922
+2026-04-28 18:25:06,304 [INFO] [2.3%] Processed:2,000/85,322 | Valid:2,000 | Sealed:0 | Errors:0 | DB:13,122
+2026-04-28 18:26:14,010 [INFO] [2.4%] Processed:2,050/85,322 | Valid:2,050 | Sealed:0 | Errors:0 | DB:13,172
+2026-04-28 18:29:58,137 [INFO] [2.6%] Processed:2,200/85,322 | Valid:2,200 | Sealed:0 | Errors:0 | DB:13,322
+2026-04-28 18:35:02,294 [INFO] [2.8%] Processed:2,400/85,322 | Valid:2,400 | Sealed:0 | Errors:0 | DB:13,522
+2026-04-28 18:38:45,195 [INFO] [3.0%] Processed:2,550/85,322 | Valid:2,550 | Sealed:0 | Errors:0 | DB:13,672
+2026-04-28 18:40:10,294 [INFO] [3.0%] Processed:2,600/85,322 | Valid:2,600 | Sealed:0 | Errors:0 | DB:13,722
+2026-04-28 18:45:15,749 [INFO] [3.3%] Processed:2,800/85,322 | Valid:2,800 | Sealed:0 | Errors:0 | DB:13,922
+2026-04-28 18:50:18,568 [INFO] [3.5%] Processed:3,000/85,322 | Valid:3,000 | Sealed:0 | Errors:0 | DB:14,122
+2026-04-28 18:51:26,593 [INFO] [3.6%] Processed:3,050/85,322 | Valid:3,050 | Sealed:0 | Errors:0 | DB:14,172
+2026-04-28 18:55:01,510 [INFO] [3.8%] Processed:3,200/85,322 | Valid:3,200 | Sealed:0 | Errors:0 | DB:14,322
+2026-04-28 19:00:19,491 [INFO] [4.0%] Processed:3,400/85,322 | Valid:3,400 | Sealed:0 | Errors:0 | DB:14,522
+2026-04-28 19:04:19,199 [INFO] [4.2%] Processed:3,550/85,322 | Valid:3,550 | Sealed:0 | Errors:0 | DB:14,672
+2026-04-28 19:05:34,494 [INFO] [4.2%] Processed:3,600/85,322 | Valid:3,600 | Sealed:0 | Errors:0 | DB:14,722
+2026-04-28 19:10:40,525 [INFO] [4.5%] Processed:3,800/85,322 | Valid:3,800 | Sealed:0 | Errors:0 | DB:14,922
+2026-04-28 19:15:58,055 [INFO] [4.7%] Processed:4,000/85,322 | Valid:4,000 | Sealed:0 | Errors:0 | DB:15,122
+2026-04-28 19:17:12,743 [INFO] [4.7%] Processed:4,050/85,322 | Valid:4,050 | Sealed:0 | Errors:0 | DB:15,172
+2026-04-28 19:20:36,903 [INFO] [4.9%] Processed:4,200/85,322 | Valid:4,200 | Sealed:0 | Errors:0 | DB:15,322
+2026-04-28 19:25:15,135 [INFO] [5.2%] Processed:4,400/85,322 | Valid:4,400 | Sealed:0 | Errors:0 | DB:15,522
+2026-04-28 19:28:43,547 [INFO] [5.3%] Processed:4,550/85,322 | Valid:4,550 | Sealed:0 | Errors:0 | DB:15,672
+2026-04-28 19:29:48,737 [INFO] [5.4%] Processed:4,600/85,322 | Valid:4,600 | Sealed:0 | Errors:0 | DB:15,722
+2026-04-28 19:34:30,067 [INFO] [5.6%] Processed:4,800/85,322 | Valid:4,800 | Sealed:0 | Errors:0 | DB:15,922
+2026-04-28 19:39:05,728 [INFO] [5.9%] Processed:5,000/85,322 | Valid:5,000 | Sealed:0 | Errors:0 | DB:16,122
+2026-04-28 19:40:21,838 [INFO] [5.9%] Processed:5,050/85,322 | Valid:5,050 | Sealed:0 | Errors:0 | DB:16,172
+2026-04-28 19:43:41,930 [INFO] [6.1%] Processed:5,200/85,322 | Valid:5,200 | Sealed:0 | Errors:0 | DB:16,322
+2026-04-28 19:48:39,353 [INFO] [6.3%] Processed:5,400/85,322 | Valid:5,400 | Sealed:0 | Errors:0 | DB:16,522
+2026-04-28 19:52:38,958 [INFO] [6.5%] Processed:5,550/85,322 | Valid:5,550 | Sealed:0 | Errors:0 | DB:16,672
+2026-04-28 19:53:51,320 [INFO] [6.6%] Processed:5,600/85,322 | Valid:5,600 | Sealed:0 | Errors:0 | DB:16,722
+2026-04-28 19:58:50,696 [INFO] [6.8%] Processed:5,800/85,322 | Valid:5,800 | Sealed:0 | Errors:0 | DB:16,922
+2026-04-28 20:03:44,986 [INFO] [7.0%] Processed:6,000/85,322 | Valid:6,000 | Sealed:0 | Errors:0 | DB:17,122
+2026-04-28 20:05:05,129 [INFO] [7.1%] Processed:6,050/85,322 | Valid:6,050 | Sealed:0 | Errors:0 | DB:17,172
+2026-04-28 20:08:49,689 [INFO] [7.3%] Processed:6,200/85,322 | Valid:6,200 | Sealed:0 | Errors:0 | DB:17,322
+2026-04-28 20:13:39,017 [INFO] [7.5%] Processed:6,400/85,322 | Valid:6,400 | Sealed:0 | Errors:0 | DB:17,522
+2026-04-28 20:17:43,083 [INFO] [7.7%] Processed:6,550/85,322 | Valid:6,550 | Sealed:0 | Errors:0 | DB:17,672
+2026-04-28 20:19:10,519 [INFO] [7.7%] Processed:6,600/85,322 | Valid:6,600 | Sealed:0 | Errors:0 | DB:17,722
+2026-04-28 20:24:16,845 [INFO] [8.0%] Processed:6,800/85,322 | Valid:6,800 | Sealed:0 | Errors:0 | DB:17,922
+2026-04-28 20:29:09,965 [INFO] [8.2%] Processed:7,000/85,322 | Valid:7,000 | Sealed:0 | Errors:0 | DB:18,122
+2026-04-28 20:30:31,328 [INFO] [8.3%] Processed:7,050/85,322 | Valid:7,050 | Sealed:0 | Errors:0 | DB:18,172
+2026-04-28 20:33:59,655 [INFO] [8.4%] Processed:7,200/85,322 | Valid:7,200 | Sealed:0 | Errors:0 | DB:18,322
+2026-04-28 20:39:11,686 [INFO] [8.7%] Processed:7,400/85,322 | Valid:7,400 | Sealed:0 | Errors:0 | DB:18,522
+2026-04-28 20:43:22,242 [INFO] [8.8%] Processed:7,550/85,322 | Valid:7,550 | Sealed:0 | Errors:0 | DB:18,672
+2026-04-28 20:44:32,974 [INFO] [8.9%] Processed:7,600/85,322 | Valid:7,600 | Sealed:0 | Errors:0 | DB:18,722
+2026-04-28 20:49:47,142 [INFO] [9.1%] Processed:7,800/85,322 | Valid:7,800 | Sealed:0 | Errors:0 | DB:18,922
+2026-04-28 20:54:58,832 [INFO] [9.4%] Processed:8,000/85,322 | Valid:8,000 | Sealed:0 | Errors:0 | DB:19,122
+2026-04-28 20:56:27,303 [INFO] [9.4%] Processed:8,050/85,322 | Valid:8,050 | Sealed:0 | Errors:0 | DB:19,172
+2026-04-28 21:00:31,280 [INFO] [9.6%] Processed:8,200/85,322 | Valid:8,200 | Sealed:0 | Errors:0 | DB:19,322
+2026-04-28 21:05:56,060 [INFO] [9.8%] Processed:8,400/85,322 | Valid:8,400 | Sealed:0 | Errors:0 | DB:19,522
+2026-04-28 21:09:48,362 [INFO] [10.0%] Processed:8,550/85,322 | Valid:8,550 | Sealed:0 | Errors:0 | DB:19,672
+2026-04-28 21:11:08,645 [INFO] [10.1%] Processed:8,600/85,322 | Valid:8,600 | Sealed:0 | Errors:0 | DB:19,722
+2026-04-28 21:16:03,985 [INFO] [10.3%] Processed:8,800/85,322 | Valid:8,800 | Sealed:0 | Errors:0 | DB:19,922
+2026-04-28 21:20:52,902 [INFO] [10.5%] Processed:9,000/85,322 | Valid:9,000 | Sealed:0 | Errors:0 | DB:20,122
+2026-04-28 21:22:01,254 [INFO] [10.6%] Processed:9,050/85,322 | Valid:9,050 | Sealed:0 | Errors:0 | DB:20,172
+2026-04-28 21:25:13,602 [INFO] [10.8%] Processed:9,200/85,322 | Valid:9,200 | Sealed:0 | Errors:0 | DB:20,322
+2026-04-28 21:30:19,819 [INFO] [11.0%] Processed:9,400/85,322 | Valid:9,400 | Sealed:0 | Errors:0 | DB:20,522
+2026-04-28 21:34:01,510 [INFO] [11.2%] Processed:9,550/85,322 | Valid:9,550 | Sealed:0 | Errors:0 | DB:20,672
+2026-04-28 21:35:09,242 [INFO] [11.3%] Processed:9,600/85,322 | Valid:9,600 | Sealed:0 | Errors:0 | DB:20,722
+2026-04-28 21:39:37,829 [INFO] [11.5%] Processed:9,800/85,322 | Valid:9,800 | Sealed:0 | Errors:0 | DB:20,922
+2026-04-28 21:44:09,744 [INFO] [11.7%] Processed:10,000/85,322 | Valid:10,000 | Sealed:0 | Errors:0 | DB:21,122
+2026-04-28 21:45:24,379 [INFO] [11.8%] Processed:10,050/85,322 | Valid:10,050 | Sealed:0 | Errors:0 | DB:21,172
+2026-04-28 21:48:59,581 [INFO] [12.0%] Processed:10,200/85,322 | Valid:10,200 | Sealed:0 | Errors:0 | DB:21,322
+2026-04-28 21:53:59,309 [INFO] [12.2%] Processed:10,400/85,322 | Valid:10,400 | Sealed:0 | Errors:0 | DB:21,522
+2026-04-28 21:57:27,447 [INFO] [12.4%] Processed:10,550/85,322 | Valid:10,550 | Sealed:0 | Errors:0 | DB:21,672
+2026-04-28 21:58:36,984 [INFO] [12.4%] Processed:10,600/85,322 | Valid:10,600 | Sealed:0 | Errors:0 | DB:21,722
+2026-04-28 22:03:13,357 [INFO] [12.7%] Processed:10,800/85,322 | Valid:10,800 | Sealed:0 | Errors:0 | DB:21,922
+2026-04-28 22:07:53,485 [INFO] [12.9%] Processed:11,000/85,322 | Valid:11,000 | Sealed:0 | Errors:0 | DB:22,122
+2026-04-28 22:09:07,478 [INFO] [13.0%] Processed:11,050/85,322 | Valid:11,050 | Sealed:0 | Errors:0 | DB:22,172
+2026-04-28 22:12:42,061 [INFO] [13.1%] Processed:11,200/85,322 | Valid:11,200 | Sealed:0 | Errors:0 | DB:22,322
+2026-04-28 22:17:46,679 [INFO] [13.4%] Processed:11,400/85,322 | Valid:11,400 | Sealed:0 | Errors:0 | DB:22,522
+2026-04-28 22:21:23,821 [INFO] [13.5%] Processed:11,550/85,322 | Valid:11,550 | Sealed:0 | Errors:0 | DB:22,672
+2026-04-28 22:22:35,581 [INFO] [13.6%] Processed:11,600/85,322 | Valid:11,600 | Sealed:0 | Errors:0 | DB:22,722
+2026-04-28 22:27:02,793 [INFO] [13.8%] Processed:11,800/85,322 | Valid:11,800 | Sealed:0 | Errors:0 | DB:22,922
+2026-04-28 22:31:45,515 [INFO] [14.1%] Processed:12,000/85,322 | Valid:12,000 | Sealed:0 | Errors:0 | DB:23,122
+2026-04-28 22:33:01,372 [INFO] [14.1%] Processed:12,050/85,322 | Valid:12,050 | Sealed:0 | Errors:0 | DB:23,172
+2026-04-28 22:36:35,720 [INFO] [14.3%] Processed:12,200/85,322 | Valid:12,200 | Sealed:0 | Errors:0 | DB:23,322
+2026-04-28 22:41:41,886 [INFO] [14.5%] Processed:12,400/85,322 | Valid:12,400 | Sealed:0 | Errors:0 | DB:23,522
+2026-04-28 22:44:59,163 [INFO] [14.7%] Processed:12,550/85,322 | Valid:12,550 | Sealed:0 | Errors:0 | DB:23,672
+2026-04-28 22:46:04,019 [INFO] [14.8%] Processed:12,600/85,322 | Valid:12,600 | Sealed:0 | Errors:0 | DB:23,722
+2026-04-28 22:50:41,801 [INFO] [15.0%] Processed:12,800/85,322 | Valid:12,800 | Sealed:0 | Errors:0 | DB:23,922
+2026-04-28 22:55:28,808 [INFO] [15.2%] Processed:13,000/85,322 | Valid:13,000 | Sealed:0 | Errors:0 | DB:24,122
+2026-04-28 22:56:36,920 [INFO] [15.3%] Processed:13,050/85,322 | Valid:13,050 | Sealed:0 | Errors:0 | DB:24,172
+2026-04-28 22:59:55,785 [INFO] [15.5%] Processed:13,200/85,322 | Valid:13,200 | Sealed:0 | Errors:0 | DB:24,322
+2026-04-28 23:04:33,874 [INFO] [15.7%] Processed:13,400/85,322 | Valid:13,400 | Sealed:0 | Errors:0 | DB:24,522
+2026-04-28 23:08:22,531 [INFO] [15.9%] Processed:13,550/85,322 | Valid:13,550 | Sealed:0 | Errors:0 | DB:24,672
+2026-04-28 23:09:43,950 [INFO] [15.9%] Processed:13,600/85,322 | Valid:13,600 | Sealed:0 | Errors:0 | DB:24,722
+2026-04-28 23:15:25,704 [INFO] [16.2%] Processed:13,800/85,322 | Valid:13,800 | Sealed:0 | Errors:0 | DB:24,922
+2026-04-28 23:20:09,926 [INFO] [16.4%] Processed:14,000/85,322 | Valid:14,000 | Sealed:0 | Errors:0 | DB:25,122
+2026-04-28 23:21:16,429 [INFO] [16.5%] Processed:14,050/85,322 | Valid:14,050 | Sealed:0 | Errors:0 | DB:25,172
+2026-04-28 23:24:50,461 [INFO] [16.6%] Processed:14,200/85,322 | Valid:14,200 | Sealed:0 | Errors:0 | DB:25,322
+2026-04-28 23:29:19,398 [INFO] [16.9%] Processed:14,400/85,322 | Valid:14,400 | Sealed:0 | Errors:0 | DB:25,522
+2026-04-28 23:32:49,568 [INFO] [17.1%] Processed:14,550/85,322 | Valid:14,550 | Sealed:0 | Errors:0 | DB:25,672
+2026-04-28 23:33:53,987 [INFO] [17.1%] Processed:14,600/85,322 | Valid:14,600 | Sealed:0 | Errors:0 | DB:25,722
+2026-04-28 23:38:12,783 [INFO] [17.3%] Processed:14,800/85,322 | Valid:14,800 | Sealed:0 | Errors:0 | DB:25,922
+2026-04-28 23:42:43,645 [INFO] [17.6%] Processed:15,000/85,322 | Valid:15,000 | Sealed:0 | Errors:0 | DB:26,122
+2026-04-28 23:43:51,161 [INFO] [17.6%] Processed:15,050/85,322 | Valid:15,050 | Sealed:0 | Errors:0 | DB:26,172
+2026-04-28 23:47:09,361 [INFO] [17.8%] Processed:15,200/85,322 | Valid:15,200 | Sealed:0 | Errors:0 | DB:26,322
+2026-04-28 23:51:25,976 [INFO] [18.0%] Processed:15,400/85,322 | Valid:15,400 | Sealed:0 | Errors:0 | DB:26,522
+2026-04-28 23:54:59,495 [INFO] [18.2%] Processed:15,550/85,322 | Valid:15,550 | Sealed:0 | Errors:0 | DB:26,672
+2026-04-28 23:56:08,743 [INFO] [18.3%] Processed:15,600/85,322 | Valid:15,600 | Sealed:0 | Errors:0 | DB:26,722
+2026-04-29 00:01:42,033 [INFO] [18.5%] Processed:15,800/85,322 | Valid:15,800 | Sealed:0 | Errors:0 | DB:26,922
+2026-04-29 00:07:16,856 [INFO] [18.8%] Processed:16,000/85,322 | Valid:16,000 | Sealed:0 | Errors:0 | DB:27,122
+2026-04-29 00:08:36,069 [INFO] [18.8%] Processed:16,050/85,322 | Valid:16,050 | Sealed:0 | Errors:0 | DB:27,172
+2026-04-29 00:12:10,071 [INFO] [19.0%] Processed:16,200/85,322 | Valid:16,200 | Sealed:0 | Errors:0 | DB:27,322
+2026-04-29 00:16:55,269 [INFO] [19.2%] Processed:16,400/85,322 | Valid:16,400 | Sealed:0 | Errors:0 | DB:27,522
+2026-04-29 00:20:40,392 [INFO] [19.4%] Processed:16,550/85,322 | Valid:16,550 | Sealed:0 | Errors:0 | DB:27,672
+2026-04-29 00:21:53,292 [INFO] [19.5%] Processed:16,600/85,322 | Valid:16,600 | Sealed:0 | Errors:0 | DB:27,722
+2026-04-29 00:26:43,032 [INFO] [19.7%] Processed:16,800/85,322 | Valid:16,800 | Sealed:0 | Errors:0 | DB:27,922
+2026-04-29 00:31:32,838 [INFO] [19.9%] Processed:17,000/85,322 | Valid:17,000 | Sealed:0 | Errors:0 | DB:28,122
+2026-04-29 00:32:38,991 [INFO] [20.0%] Processed:17,050/85,322 | Valid:17,050 | Sealed:0 | Errors:0 | DB:28,172
+2026-04-29 00:36:03,310 [INFO] [20.2%] Processed:17,200/85,322 | Valid:17,200 | Sealed:0 | Errors:0 | DB:28,322
+2026-04-29 00:40:40,300 [INFO] [20.4%] Processed:17,400/85,322 | Valid:17,400 | Sealed:0 | Errors:0 | DB:28,522
+2026-04-29 00:42:21,539 [INFO] [20.6%] Processed:17,550/85,322 | Valid:17,403 | Sealed:146 | Errors:1 | DB:28,525
+2026-04-29 00:42:53,310 [INFO] [20.6%] Processed:17,600/85,322 | Valid:17,404 | Sealed:195 | Errors:1 | DB:28,526
+2026-04-29 00:45:05,208 [INFO] [20.9%] Processed:17,800/85,322 | Valid:17,404 | Sealed:395 | Errors:1 | DB:28,526
+2026-04-29 00:47:21,385 [INFO] [21.1%] Processed:18,000/85,322 | Valid:17,407 | Sealed:592 | Errors:1 | DB:28,529
+2026-04-29 00:47:55,882 [INFO] [21.2%] Processed:18,050/85,322 | Valid:17,407 | Sealed:642 | Errors:1 | DB:28,529
+2026-04-29 00:49:36,514 [INFO] [21.3%] Processed:18,200/85,322 | Valid:17,409 | Sealed:790 | Errors:1 | DB:28,531
+2026-04-29 00:51:51,259 [INFO] [21.6%] Processed:18,400/85,322 | Valid:17,410 | Sealed:989 | Errors:1 | DB:28,532
+2026-04-29 00:53:31,469 [INFO] [21.7%] Processed:18,550/85,322 | Valid:17,410 | Sealed:1,139 | Errors:1 | DB:28,532
+2026-04-29 00:54:04,093 [INFO] [21.8%] Processed:18,600/85,322 | Valid:17,410 | Sealed:1,189 | Errors:1 | DB:28,532
+2026-04-29 00:56:17,253 [INFO] [22.0%] Processed:18,800/85,322 | Valid:17,413 | Sealed:1,386 | Errors:1 | DB:28,535
+2026-04-29 00:58:29,253 [INFO] [22.3%] Processed:19,000/85,322 | Valid:17,415 | Sealed:1,584 | Errors:1 | DB:28,537
+2026-04-29 00:59:02,438 [INFO] [22.3%] Processed:19,050/85,322 | Valid:17,415 | Sealed:1,634 | Errors:1 | DB:28,537
+2026-04-29 01:00:46,019 [INFO] [22.5%] Processed:19,200/85,322 | Valid:17,415 | Sealed:1,784 | Errors:1 | DB:28,537
+2026-04-29 01:02:58,488 [INFO] [22.7%] Processed:19,400/85,322 | Valid:17,415 | Sealed:1,984 | Errors:1 | DB:28,537
+2026-04-29 01:04:38,414 [INFO] [22.9%] Processed:19,550/85,322 | Valid:17,415 | Sealed:2,134 | Errors:1 | DB:28,537
+2026-04-29 01:05:11,512 [INFO] [23.0%] Processed:19,600/85,322 | Valid:17,415 | Sealed:2,184 | Errors:1 | DB:28,537
+2026-04-29 01:07:25,281 [INFO] [23.2%] Processed:19,800/85,322 | Valid:17,416 | Sealed:2,383 | Errors:1 | DB:28,538
+2026-04-29 01:09:40,482 [INFO] [23.4%] Processed:20,000/85,322 | Valid:17,416 | Sealed:2,583 | Errors:1 | DB:28,538
+2026-04-29 01:10:17,591 [INFO] [23.5%] Processed:20,050/85,322 | Valid:17,416 | Sealed:2,633 | Errors:1 | DB:28,538
+2026-04-29 01:11:57,029 [INFO] [23.7%] Processed:20,200/85,322 | Valid:17,416 | Sealed:2,783 | Errors:1 | DB:28,538
+2026-04-29 01:14:09,911 [INFO] [23.9%] Processed:20,400/85,322 | Valid:17,417 | Sealed:2,982 | Errors:1 | DB:28,539
+2026-04-29 01:15:49,119 [INFO] [24.1%] Processed:20,550/85,322 | Valid:17,417 | Sealed:3,132 | Errors:1 | DB:28,539
+2026-04-29 01:16:22,473 [INFO] [24.1%] Processed:20,600/85,322 | Valid:17,417 | Sealed:3,182 | Errors:1 | DB:28,539
+2026-04-29 01:18:38,043 [INFO] [24.4%] Processed:20,800/85,322 | Valid:17,419 | Sealed:3,380 | Errors:1 | DB:28,541
+2026-04-29 01:20:53,432 [INFO] [24.6%] Processed:21,000/85,322 | Valid:17,421 | Sealed:3,578 | Errors:1 | DB:28,543
+2026-04-29 01:21:25,712 [INFO] [24.7%] Processed:21,050/85,322 | Valid:17,421 | Sealed:3,628 | Errors:1 | DB:28,543
+2026-04-29 01:23:07,166 [INFO] [24.8%] Processed:21,200/85,322 | Valid:17,422 | Sealed:3,777 | Errors:1 | DB:28,544
+2026-04-29 01:25:18,236 [INFO] [25.1%] Processed:21,400/85,322 | Valid:17,424 | Sealed:3,975 | Errors:1 | DB:28,546
+2026-04-29 01:26:57,163 [INFO] [25.3%] Processed:21,550/85,322 | Valid:17,424 | Sealed:4,125 | Errors:1 | DB:28,546
+2026-04-29 01:27:29,713 [INFO] [25.3%] Processed:21,600/85,322 | Valid:17,425 | Sealed:4,174 | Errors:1 | DB:28,547
+2026-04-29 01:29:45,923 [INFO] Stopped. Run again to resume from last CRN.
+2026-04-29 01:29:45,923 [INFO] ============================================================
+2026-04-29 01:29:45,923 [INFO] DONE. Valid:17,425 | Sealed:4,323 | Errors:1
+2026-04-29 01:29:45,923 [INFO] Total in DB: 28,547
+2026-04-29 01:29:45,923 [INFO] Next: python phase3_build_excel.py
+2026-04-29 01:32:15,253 [INFO] ============================================================
+2026-04-29 01:32:15,253 [INFO] COMBINED SCRAPER — CRN 32,898 to 96,470
+2026-04-29 01:32:15,254 [INFO] Range: 63,573 | Workers: 5 | ETA: 4.6h
+2026-04-29 01:32:15,255 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-29 01:32:15,256 [INFO] ============================================================
+2026-04-29 01:32:59,592 [INFO] [0.1%] Processed:50/63,573 | Valid:1 | Sealed:49 | Errors:0 | DB:28,548
+2026-04-29 01:35:24,808 [INFO] [0.3%] Processed:200/63,573 | Valid:2 | Sealed:198 | Errors:0 | DB:28,549
+2026-04-29 01:39:08,827 [INFO] [0.6%] Processed:400/63,573 | Valid:4 | Sealed:396 | Errors:0 | DB:28,551
+2026-04-29 01:39:48,998 [INFO] Stopped. Run again to resume from last CRN.
+2026-04-29 01:39:48,999 [INFO] ============================================================
+2026-04-29 01:39:49,000 [INFO] DONE. Valid:4 | Sealed:396 | Errors:0
+2026-04-29 01:39:49,001 [INFO] Total in DB: 28,551
+2026-04-29 01:39:49,001 [INFO] Next: python phase3_build_excel.py
+2026-04-29 01:40:00,691 [INFO] ============================================================
+2026-04-29 01:40:00,691 [INFO] COMBINED SCRAPER — CRN 33,298 to 96,470
+2026-04-29 01:40:00,691 [INFO] Range: 63,173 | Workers: 5 | ETA: 4.6h
+2026-04-29 01:40:00,692 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-29 01:40:00,692 [INFO] ============================================================
+2026-04-29 01:40:40,787 [INFO] [0.1%] Processed:50/63,173 | Valid:0 | Sealed:50 | Errors:0 | DB:28,551
+2026-04-29 01:42:52,859 [INFO] [0.3%] Processed:200/63,173 | Valid:0 | Sealed:200 | Errors:0 | DB:28,551
+2026-04-29 01:45:43,541 [INFO] [0.6%] Processed:400/63,173 | Valid:3 | Sealed:397 | Errors:0 | DB:28,554
+2026-04-29 01:47:53,375 [INFO] [0.9%] Processed:550/63,173 | Valid:3 | Sealed:546 | Errors:1 | DB:28,554
+2026-04-29 01:48:34,511 [INFO] [0.9%] Processed:600/63,173 | Valid:3 | Sealed:596 | Errors:1 | DB:28,554
+2026-04-29 01:51:22,830 [INFO] [1.3%] Processed:800/63,173 | Valid:3 | Sealed:796 | Errors:1 | DB:28,554
+2026-04-29 01:54:11,799 [INFO] [1.6%] Processed:1,000/63,173 | Valid:3 | Sealed:996 | Errors:1 | DB:28,554
+2026-04-29 01:54:50,134 [INFO] [1.7%] Processed:1,050/63,173 | Valid:3 | Sealed:1,046 | Errors:1 | DB:28,554
+2026-04-29 01:56:46,214 [INFO] [1.9%] Processed:1,200/63,173 | Valid:3 | Sealed:1,196 | Errors:1 | DB:28,554
+2026-04-29 01:59:23,543 [INFO] [2.2%] Processed:1,400/63,173 | Valid:3 | Sealed:1,396 | Errors:1 | DB:28,554
+2026-04-29 02:01:25,992 [INFO] [2.5%] Processed:1,550/63,173 | Valid:3 | Sealed:1,546 | Errors:1 | DB:28,554
+2026-04-29 02:02:05,147 [INFO] [2.5%] Processed:1,600/63,173 | Valid:3 | Sealed:1,596 | Errors:1 | DB:28,554
+2026-04-29 02:04:47,699 [INFO] [2.8%] Processed:1,800/63,173 | Valid:3 | Sealed:1,796 | Errors:1 | DB:28,554
+2026-04-29 02:07:37,594 [INFO] [3.2%] Processed:2,000/63,173 | Valid:4 | Sealed:1,995 | Errors:1 | DB:28,555
+2026-04-29 02:08:19,009 [INFO] [3.2%] Processed:2,050/63,173 | Valid:4 | Sealed:2,045 | Errors:1 | DB:28,555
+2026-04-29 02:10:13,869 [INFO] [3.5%] Processed:2,200/63,173 | Valid:4 | Sealed:2,195 | Errors:1 | DB:28,555
+2026-04-29 02:12:51,340 [INFO] [3.8%] Processed:2,400/63,173 | Valid:4 | Sealed:2,395 | Errors:1 | DB:28,555
+2026-04-29 02:14:47,985 [INFO] [4.0%] Processed:2,550/63,173 | Valid:4 | Sealed:2,545 | Errors:1 | DB:28,555
+2026-04-29 02:15:24,654 [INFO] [4.1%] Processed:2,600/63,173 | Valid:4 | Sealed:2,595 | Errors:1 | DB:28,555
+2026-04-29 02:17:56,991 [INFO] [4.4%] Processed:2,800/63,173 | Valid:4 | Sealed:2,795 | Errors:1 | DB:28,555
+2026-04-29 02:20:32,002 [INFO] [4.7%] Processed:3,000/63,173 | Valid:4 | Sealed:2,995 | Errors:1 | DB:28,555
+2026-04-29 02:21:10,924 [INFO] [4.8%] Processed:3,050/63,173 | Valid:4 | Sealed:3,045 | Errors:1 | DB:28,555
+2026-04-29 02:23:10,658 [INFO] [5.1%] Processed:3,200/63,173 | Valid:4 | Sealed:3,195 | Errors:1 | DB:28,555
+2026-04-29 02:25:46,782 [INFO] [5.4%] Processed:3,400/63,173 | Valid:5 | Sealed:3,394 | Errors:1 | DB:28,556
+2026-04-29 02:27:47,138 [INFO] [5.6%] Processed:3,550/63,173 | Valid:5 | Sealed:3,544 | Errors:1 | DB:28,556
+2026-04-29 02:28:25,264 [INFO] [5.7%] Processed:3,600/63,173 | Valid:5 | Sealed:3,594 | Errors:1 | DB:28,556
+2026-04-29 02:31:00,380 [INFO] [6.0%] Processed:3,800/63,173 | Valid:5 | Sealed:3,794 | Errors:1 | DB:28,556
+2026-04-29 02:33:36,536 [INFO] [6.3%] Processed:4,000/63,173 | Valid:5 | Sealed:3,994 | Errors:1 | DB:28,556
+2026-04-29 02:34:13,803 [INFO] [6.4%] Processed:4,050/63,173 | Valid:5 | Sealed:4,044 | Errors:1 | DB:28,556
+2026-04-29 02:36:08,213 [INFO] [6.6%] Processed:4,200/63,173 | Valid:5 | Sealed:4,194 | Errors:1 | DB:28,556
+2026-04-29 02:38:43,846 [INFO] [7.0%] Processed:4,400/63,173 | Valid:5 | Sealed:4,394 | Errors:1 | DB:28,556
+2026-04-29 02:40:39,943 [INFO] [7.2%] Processed:4,550/63,173 | Valid:5 | Sealed:4,544 | Errors:1 | DB:28,556
+2026-04-29 02:41:20,744 [INFO] [7.3%] Processed:4,600/63,173 | Valid:5 | Sealed:4,594 | Errors:1 | DB:28,556
+2026-04-29 02:43:54,788 [INFO] [7.6%] Processed:4,800/63,173 | Valid:5 | Sealed:4,794 | Errors:1 | DB:28,556
+2026-04-29 02:46:31,503 [INFO] [7.9%] Processed:5,000/63,173 | Valid:5 | Sealed:4,994 | Errors:1 | DB:28,556
+2026-04-29 02:47:10,918 [INFO] [8.0%] Processed:5,050/63,173 | Valid:5 | Sealed:5,044 | Errors:1 | DB:28,556
+2026-04-29 02:49:10,248 [INFO] [8.2%] Processed:5,200/63,173 | Valid:5 | Sealed:5,194 | Errors:1 | DB:28,556
+2026-04-29 02:51:45,868 [INFO] [8.5%] Processed:5,400/63,173 | Valid:5 | Sealed:5,394 | Errors:1 | DB:28,556
+2026-04-29 02:53:46,579 [INFO] [8.8%] Processed:5,550/63,173 | Valid:5 | Sealed:5,544 | Errors:1 | DB:28,556
+2026-04-29 02:54:24,685 [INFO] [8.9%] Processed:5,600/63,173 | Valid:5 | Sealed:5,594 | Errors:1 | DB:28,556
+2026-04-29 02:57:01,371 [INFO] [9.2%] Processed:5,800/63,173 | Valid:5 | Sealed:5,794 | Errors:1 | DB:28,556
+2026-04-29 02:59:39,577 [INFO] [9.5%] Processed:6,000/63,173 | Valid:5 | Sealed:5,994 | Errors:1 | DB:28,556
+2026-04-29 03:00:18,765 [INFO] [9.6%] Processed:6,050/63,173 | Valid:5 | Sealed:6,044 | Errors:1 | DB:28,556
+2026-04-29 03:02:16,188 [INFO] [9.8%] Processed:6,200/63,173 | Valid:5 | Sealed:6,194 | Errors:1 | DB:28,556
+2026-04-29 03:04:50,200 [INFO] [10.1%] Processed:6,400/63,173 | Valid:5 | Sealed:6,394 | Errors:1 | DB:28,556
+2026-04-29 03:06:49,703 [INFO] [10.4%] Processed:6,550/63,173 | Valid:6 | Sealed:6,543 | Errors:1 | DB:28,557
+2026-04-29 03:07:29,064 [INFO] [10.4%] Processed:6,600/63,173 | Valid:6 | Sealed:6,593 | Errors:1 | DB:28,557
+2026-04-29 03:10:02,986 [INFO] [10.8%] Processed:6,800/63,173 | Valid:6 | Sealed:6,793 | Errors:1 | DB:28,557
+2026-04-29 03:12:37,087 [INFO] [11.1%] Processed:7,000/63,173 | Valid:6 | Sealed:6,993 | Errors:1 | DB:28,557
+2026-04-29 03:13:15,733 [INFO] [11.2%] Processed:7,050/63,173 | Valid:6 | Sealed:7,043 | Errors:1 | DB:28,557
+2026-04-29 03:15:14,246 [INFO] [11.4%] Processed:7,200/63,173 | Valid:6 | Sealed:7,193 | Errors:1 | DB:28,557
+2026-04-29 03:19:16,358 [INFO] [11.7%] Processed:7,400/63,173 | Valid:82 | Sealed:7,308 | Errors:10 | DB:28,633
+2026-04-29 03:22:55,099 [INFO] [12.0%] Processed:7,550/63,173 | Valid:189 | Sealed:7,350 | Errors:11 | DB:28,740
+2026-04-29 03:23:56,543 [INFO] [12.0%] Processed:7,600/63,173 | Valid:208 | Sealed:7,381 | Errors:11 | DB:28,759
+2026-04-29 03:28:21,713 [INFO] [12.3%] Processed:7,800/63,173 | Valid:317 | Sealed:7,471 | Errors:12 | DB:28,868
+2026-04-29 03:33:12,352 [INFO] [12.7%] Processed:8,000/63,173 | Valid:453 | Sealed:7,533 | Errors:14 | DB:29,004
+2026-04-29 03:34:14,860 [INFO] [12.7%] Processed:8,050/63,173 | Valid:487 | Sealed:7,549 | Errors:14 | DB:29,038
+2026-04-29 03:37:38,367 [INFO] [13.0%] Processed:8,200/63,173 | Valid:576 | Sealed:7,607 | Errors:17 | DB:29,127
+2026-04-29 03:42:10,506 [INFO] [13.3%] Processed:8,400/63,173 | Valid:710 | Sealed:7,670 | Errors:20 | DB:29,261
+2026-04-29 03:45:21,731 [INFO] [13.5%] Processed:8,550/63,173 | Valid:796 | Sealed:7,733 | Errors:21 | DB:29,347
+2026-04-29 03:46:26,204 [INFO] [13.6%] Processed:8,600/63,173 | Valid:832 | Sealed:7,747 | Errors:21 | DB:29,383
+2026-04-29 03:50:32,057 [INFO] [13.9%] Processed:8,800/63,173 | Valid:952 | Sealed:7,826 | Errors:22 | DB:29,503
+2026-04-29 03:54:39,500 [INFO] [14.2%] Processed:9,000/63,173 | Valid:1,080 | Sealed:7,893 | Errors:27 | DB:29,631
+2026-04-29 03:55:44,837 [INFO] [14.3%] Processed:9,050/63,173 | Valid:1,117 | Sealed:7,906 | Errors:27 | DB:29,668
+2026-04-29 03:58:57,230 [INFO] [14.6%] Processed:9,200/63,173 | Valid:1,229 | Sealed:7,944 | Errors:27 | DB:29,780
+2026-04-29 04:03:09,913 [INFO] [14.9%] Processed:9,400/63,173 | Valid:1,369 | Sealed:8,004 | Errors:27 | DB:29,920
+2026-04-29 04:06:16,564 [INFO] [15.1%] Processed:9,550/63,173 | Valid:1,452 | Sealed:8,071 | Errors:27 | DB:30,003
+2026-04-29 04:07:12,509 [INFO] [15.2%] Processed:9,600/63,173 | Valid:1,478 | Sealed:8,095 | Errors:27 | DB:30,029
+2026-04-29 04:11:07,564 [INFO] [15.5%] Processed:9,800/63,173 | Valid:1,598 | Sealed:8,175 | Errors:27 | DB:30,149
+2026-04-29 04:15:26,750 [INFO] [15.8%] Processed:10,000/63,173 | Valid:1,731 | Sealed:8,242 | Errors:27 | DB:30,282
+2026-04-29 04:16:34,696 [INFO] [15.9%] Processed:10,050/63,173 | Valid:1,769 | Sealed:8,254 | Errors:27 | DB:30,320
+2026-04-29 04:19:49,211 [INFO] [16.1%] Processed:10,200/63,173 | Valid:1,865 | Sealed:8,308 | Errors:27 | DB:30,416
+2026-04-29 04:23:49,166 [INFO] [16.5%] Processed:10,400/63,173 | Valid:1,986 | Sealed:8,386 | Errors:28 | DB:30,537
+2026-04-29 04:26:49,734 [INFO] [16.7%] Processed:10,550/63,173 | Valid:2,076 | Sealed:8,443 | Errors:31 | DB:30,627
+2026-04-29 04:27:45,903 [INFO] [16.8%] Processed:10,600/63,173 | Valid:2,107 | Sealed:8,462 | Errors:31 | DB:30,658
+2026-04-29 04:31:52,811 [INFO] [17.1%] Processed:10,800/63,173 | Valid:2,221 | Sealed:8,544 | Errors:35 | DB:30,772
+2026-04-29 04:36:25,342 [INFO] [17.4%] Processed:11,000/63,173 | Valid:2,344 | Sealed:8,607 | Errors:49 | DB:30,895
+2026-04-29 04:37:29,441 [INFO] [17.5%] Processed:11,050/63,173 | Valid:2,375 | Sealed:8,622 | Errors:53 | DB:30,926
+2026-04-29 04:40:33,813 [INFO] [17.7%] Processed:11,200/63,173 | Valid:2,468 | Sealed:8,679 | Errors:53 | DB:31,019
+2026-04-29 04:44:26,264 [INFO] [18.0%] Processed:11,400/63,173 | Valid:2,583 | Sealed:8,764 | Errors:53 | DB:31,134
+2026-04-29 04:47:43,578 [INFO] [18.3%] Processed:11,550/63,173 | Valid:2,683 | Sealed:8,814 | Errors:53 | DB:31,234
+2026-04-29 04:48:44,069 [INFO] [18.4%] Processed:11,600/63,173 | Valid:2,711 | Sealed:8,836 | Errors:53 | DB:31,262
+2026-04-29 04:53:24,740 [INFO] [18.7%] Processed:11,800/63,173 | Valid:2,841 | Sealed:8,899 | Errors:60 | DB:31,392
+2026-04-29 04:58:12,142 [INFO] [19.0%] Processed:12,000/63,173 | Valid:2,986 | Sealed:8,954 | Errors:60 | DB:31,537
+2026-04-29 04:59:14,407 [INFO] [19.1%] Processed:12,050/63,173 | Valid:3,010 | Sealed:8,973 | Errors:67 | DB:31,561
+2026-04-29 05:02:23,169 [INFO] [19.3%] Processed:12,200/63,173 | Valid:3,117 | Sealed:9,010 | Errors:73 | DB:31,668
+2026-04-29 05:06:25,165 [INFO] [19.6%] Processed:12,400/63,173 | Valid:3,252 | Sealed:9,074 | Errors:74 | DB:31,803
+2026-04-29 05:09:23,409 [INFO] [19.9%] Processed:12,550/63,173 | Valid:3,345 | Sealed:9,131 | Errors:74 | DB:31,896
+2026-04-29 05:10:19,870 [INFO] [19.9%] Processed:12,600/63,173 | Valid:3,370 | Sealed:9,156 | Errors:74 | DB:31,921
+2026-04-29 05:14:16,794 [INFO] [20.3%] Processed:12,800/63,173 | Valid:3,488 | Sealed:9,237 | Errors:75 | DB:32,039
+2026-04-29 05:18:14,362 [INFO] [20.6%] Processed:13,000/63,173 | Valid:3,602 | Sealed:9,316 | Errors:82 | DB:32,153
+2026-04-29 05:19:19,782 [INFO] [20.7%] Processed:13,050/63,173 | Valid:3,639 | Sealed:9,329 | Errors:82 | DB:32,190
+2026-04-29 05:22:09,652 [INFO] [20.9%] Processed:13,200/63,173 | Valid:3,710 | Sealed:9,402 | Errors:88 | DB:32,261
+2026-04-29 05:26:28,970 [INFO] [21.2%] Processed:13,400/63,173 | Valid:3,829 | Sealed:9,480 | Errors:91 | DB:32,380
+2026-04-29 05:29:46,686 [INFO] [21.4%] Processed:13,550/63,173 | Valid:3,935 | Sealed:9,524 | Errors:91 | DB:32,486
+2026-04-29 05:30:51,204 [INFO] [21.5%] Processed:13,600/63,173 | Valid:3,964 | Sealed:9,545 | Errors:91 | DB:32,515
+2026-04-29 05:35:05,289 [INFO] [21.8%] Processed:13,800/63,173 | Valid:4,083 | Sealed:9,626 | Errors:91 | DB:32,634
+2026-04-29 05:39:32,608 [INFO] [22.2%] Processed:14,000/63,173 | Valid:4,213 | Sealed:9,692 | Errors:95 | DB:32,764
+2026-04-29 05:40:36,482 [INFO] [22.2%] Processed:14,050/63,173 | Valid:4,246 | Sealed:9,709 | Errors:95 | DB:32,797
+2026-04-29 05:43:43,028 [INFO] [22.5%] Processed:14,200/63,173 | Valid:4,335 | Sealed:9,765 | Errors:100 | DB:32,886
+2026-04-29 05:47:28,814 [INFO] [22.8%] Processed:14,400/63,173 | Valid:4,433 | Sealed:9,860 | Errors:107 | DB:32,984
+2026-04-29 05:50:40,677 [INFO] [23.0%] Processed:14,550/63,173 | Valid:4,531 | Sealed:9,911 | Errors:108 | DB:33,082
+2026-04-29 05:51:42,847 [INFO] [23.1%] Processed:14,600/63,173 | Valid:4,559 | Sealed:9,933 | Errors:108 | DB:33,110
+2026-04-29 05:56:02,789 [INFO] [23.4%] Processed:14,800/63,173 | Valid:4,685 | Sealed:10,004 | Errors:111 | DB:33,236
+2026-04-29 06:00:03,937 [INFO] [23.7%] Processed:15,000/63,173 | Valid:4,816 | Sealed:10,073 | Errors:111 | DB:33,367
+2026-04-29 06:01:10,251 [INFO] [23.8%] Processed:15,050/63,173 | Valid:4,852 | Sealed:10,087 | Errors:111 | DB:33,403
+2026-04-29 06:04:27,425 [INFO] [24.1%] Processed:15,200/63,173 | Valid:4,960 | Sealed:10,127 | Errors:113 | DB:33,511
+2026-04-29 06:08:53,949 [INFO] [24.4%] Processed:15,400/63,173 | Valid:5,105 | Sealed:10,178 | Errors:117 | DB:33,656
+2026-04-29 06:12:23,497 [INFO] [24.6%] Processed:15,550/63,173 | Valid:5,221 | Sealed:10,210 | Errors:119 | DB:33,772
+2026-04-29 06:13:30,855 [INFO] [24.7%] Processed:15,600/63,173 | Valid:5,263 | Sealed:10,218 | Errors:119 | DB:33,814
+2026-04-29 06:17:45,527 [INFO] [25.0%] Processed:15,800/63,173 | Valid:5,402 | Sealed:10,279 | Errors:119 | DB:33,953
+2026-04-29 06:22:15,225 [INFO] [25.3%] Processed:16,000/63,173 | Valid:5,526 | Sealed:10,355 | Errors:119 | DB:34,077
+2026-04-29 06:23:19,244 [INFO] [25.4%] Processed:16,050/63,173 | Valid:5,551 | Sealed:10,379 | Errors:120 | DB:34,102
+2026-04-29 06:26:55,988 [INFO] [25.6%] Processed:16,200/63,173 | Valid:5,653 | Sealed:10,425 | Errors:122 | DB:34,204
+2026-04-29 06:31:34,298 [INFO] [26.0%] Processed:16,400/63,173 | Valid:5,778 | Sealed:10,497 | Errors:125 | DB:34,329
+2026-04-29 06:34:57,366 [INFO] [26.2%] Processed:16,550/63,173 | Valid:5,873 | Sealed:10,549 | Errors:128 | DB:34,424
+2026-04-29 06:35:55,326 [INFO] [26.3%] Processed:16,600/63,173 | Valid:5,892 | Sealed:10,580 | Errors:128 | DB:34,443
+2026-04-29 06:40:05,534 [INFO] [26.6%] Processed:16,800/63,173 | Valid:6,003 | Sealed:10,647 | Errors:150 | DB:34,554
+2026-04-29 06:44:18,770 [INFO] [26.9%] Processed:17,000/63,173 | Valid:6,135 | Sealed:10,712 | Errors:153 | DB:34,686
+2026-04-29 06:45:27,347 [INFO] [27.0%] Processed:17,050/63,173 | Valid:6,165 | Sealed:10,732 | Errors:153 | DB:34,716
+2026-04-29 06:48:42,394 [INFO] [27.2%] Processed:17,200/63,173 | Valid:6,276 | Sealed:10,771 | Errors:153 | DB:34,827
+2026-04-29 06:52:28,937 [INFO] [27.5%] Processed:17,400/63,173 | Valid:6,413 | Sealed:10,834 | Errors:153 | DB:34,964
+2026-04-29 06:55:13,077 [INFO] [27.8%] Processed:17,550/63,173 | Valid:6,505 | Sealed:10,892 | Errors:153 | DB:35,056
+2026-04-29 06:56:14,963 [INFO] [27.9%] Processed:17,600/63,173 | Valid:6,543 | Sealed:10,904 | Errors:153 | DB:35,094
+2026-04-29 07:00:21,056 [INFO] [28.2%] Processed:17,800/63,173 | Valid:6,703 | Sealed:10,943 | Errors:154 | DB:35,254
+2026-04-29 07:04:44,059 [INFO] [28.5%] Processed:18,000/63,173 | Valid:6,857 | Sealed:10,987 | Errors:156 | DB:35,408
+2026-04-29 07:05:41,768 [INFO] [28.6%] Processed:18,050/63,173 | Valid:6,888 | Sealed:11,005 | Errors:157 | DB:35,439
+2026-04-29 07:08:29,186 [INFO] [28.8%] Processed:18,200/63,173 | Valid:6,989 | Sealed:11,054 | Errors:157 | DB:35,540
+2026-04-29 07:12:19,837 [INFO] [29.1%] Processed:18,400/63,173 | Valid:7,135 | Sealed:11,108 | Errors:157 | DB:35,686
+2026-04-29 07:15:04,543 [INFO] [29.4%] Processed:18,550/63,173 | Valid:7,239 | Sealed:11,154 | Errors:157 | DB:35,790
+2026-04-29 07:15:59,377 [INFO] [29.4%] Processed:18,600/63,173 | Valid:7,270 | Sealed:11,173 | Errors:157 | DB:35,821
+2026-04-29 07:19:48,765 [INFO] [29.8%] Processed:18,800/63,173 | Valid:7,411 | Sealed:11,232 | Errors:157 | DB:35,962
+2026-04-29 07:23:54,137 [INFO] [30.1%] Processed:19,000/63,173 | Valid:7,571 | Sealed:11,272 | Errors:157 | DB:36,122
+2026-04-29 07:24:55,617 [INFO] [30.2%] Processed:19,050/63,173 | Valid:7,610 | Sealed:11,283 | Errors:157 | DB:36,161
+2026-04-29 07:27:51,059 [INFO] [30.4%] Processed:19,200/63,173 | Valid:7,726 | Sealed:11,317 | Errors:157 | DB:36,277
+2026-04-29 07:31:59,029 [INFO] [30.7%] Processed:19,400/63,173 | Valid:7,892 | Sealed:11,351 | Errors:157 | DB:36,443
+2026-04-29 07:35:12,597 [INFO] [30.9%] Processed:19,550/63,173 | Valid:8,042 | Sealed:11,351 | Errors:157 | DB:36,593
+2026-04-29 07:36:15,176 [INFO] [31.0%] Processed:19,600/63,173 | Valid:8,092 | Sealed:11,351 | Errors:157 | DB:36,643
+2026-04-29 07:40:42,669 [INFO] [31.3%] Processed:19,800/63,173 | Valid:8,286 | Sealed:11,355 | Errors:159 | DB:36,837
+2026-04-29 07:45:08,617 [INFO] [31.7%] Processed:20,000/63,173 | Valid:8,481 | Sealed:11,359 | Errors:160 | DB:37,032
+2026-04-29 07:46:10,989 [INFO] [31.7%] Processed:20,050/63,173 | Valid:8,530 | Sealed:11,360 | Errors:160 | DB:37,081
+2026-04-29 07:49:17,367 [INFO] [32.0%] Processed:20,200/63,173 | Valid:8,676 | Sealed:11,364 | Errors:160 | DB:37,227
+2026-04-29 07:53:37,075 [INFO] [32.3%] Processed:20,400/63,173 | Valid:8,872 | Sealed:11,368 | Errors:160 | DB:37,423
+2026-04-29 07:56:52,374 [INFO] [32.5%] Processed:20,550/63,173 | Valid:9,017 | Sealed:11,373 | Errors:160 | DB:37,568
+2026-04-29 07:57:53,377 [INFO] [32.6%] Processed:20,600/63,173 | Valid:9,067 | Sealed:11,373 | Errors:160 | DB:37,618
+2026-04-29 08:02:07,949 [INFO] [32.9%] Processed:20,800/63,173 | Valid:9,261 | Sealed:11,379 | Errors:160 | DB:37,812
+2026-04-29 08:06:31,741 [INFO] [33.2%] Processed:21,000/63,173 | Valid:9,459 | Sealed:11,381 | Errors:160 | DB:38,010
+2026-04-29 08:07:34,963 [INFO] [33.3%] Processed:21,050/63,173 | Valid:9,506 | Sealed:11,383 | Errors:161 | DB:38,057
+2026-04-29 08:10:48,634 [INFO] [33.6%] Processed:21,200/63,173 | Valid:9,651 | Sealed:11,388 | Errors:161 | DB:38,202
+2026-04-29 08:15:20,058 [INFO] [33.9%] Processed:21,400/63,173 | Valid:9,850 | Sealed:11,389 | Errors:161 | DB:38,401
+2026-04-29 08:18:42,244 [INFO] [34.1%] Processed:21,550/63,173 | Valid:9,997 | Sealed:11,392 | Errors:161 | DB:38,548
+2026-04-29 08:19:45,962 [INFO] [34.2%] Processed:21,600/63,173 | Valid:10,047 | Sealed:11,392 | Errors:161 | DB:38,598
+2026-04-29 08:24:16,893 [INFO] [34.5%] Processed:21,800/63,173 | Valid:10,244 | Sealed:11,395 | Errors:161 | DB:38,795
+2026-04-29 08:28:47,632 [INFO] [34.8%] Processed:22,000/63,173 | Valid:10,442 | Sealed:11,397 | Errors:161 | DB:38,993
+2026-04-29 08:29:54,921 [INFO] [34.9%] Processed:22,050/63,173 | Valid:10,492 | Sealed:11,397 | Errors:161 | DB:39,043
+2026-04-29 08:33:14,303 [INFO] [35.1%] Processed:22,200/63,173 | Valid:10,640 | Sealed:11,399 | Errors:161 | DB:39,191
+2026-04-29 08:37:30,498 [INFO] [35.5%] Processed:22,400/63,173 | Valid:10,839 | Sealed:11,400 | Errors:161 | DB:39,390
+2026-04-29 08:40:36,070 [INFO] [35.7%] Processed:22,550/63,173 | Valid:10,987 | Sealed:11,402 | Errors:161 | DB:39,538
+2026-04-29 08:41:33,515 [INFO] [35.8%] Processed:22,600/63,173 | Valid:11,035 | Sealed:11,403 | Errors:162 | DB:39,586
+2026-04-29 08:45:57,912 [INFO] [36.1%] Processed:22,800/63,173 | Valid:11,234 | Sealed:11,404 | Errors:162 | DB:39,785
+2026-04-29 08:50:07,745 [INFO] [36.4%] Processed:23,000/63,173 | Valid:11,431 | Sealed:11,407 | Errors:162 | DB:39,982
+2026-04-29 08:51:15,392 [INFO] [36.5%] Processed:23,050/63,173 | Valid:11,481 | Sealed:11,407 | Errors:162 | DB:40,032
+2026-04-29 08:54:28,295 [INFO] [36.7%] Processed:23,200/63,173 | Valid:11,629 | Sealed:11,409 | Errors:162 | DB:40,180
+2026-04-29 08:58:48,475 [INFO] [37.0%] Processed:23,400/63,173 | Valid:11,827 | Sealed:11,411 | Errors:162 | DB:40,378
+2026-04-29 09:02:16,446 [INFO] [37.3%] Processed:23,550/63,173 | Valid:11,973 | Sealed:11,415 | Errors:162 | DB:40,524
+2026-04-29 09:03:19,791 [INFO] [37.4%] Processed:23,600/63,173 | Valid:12,020 | Sealed:11,418 | Errors:162 | DB:40,571
+2026-04-29 09:07:37,335 [INFO] [37.7%] Processed:23,800/63,173 | Valid:12,211 | Sealed:11,427 | Errors:162 | DB:40,762
+2026-04-29 09:11:52,127 [INFO] [38.0%] Processed:24,000/63,173 | Valid:12,408 | Sealed:11,430 | Errors:162 | DB:40,959
+2026-04-29 09:12:52,188 [INFO] [38.1%] Processed:24,050/63,173 | Valid:12,455 | Sealed:11,431 | Errors:164 | DB:41,006
+2026-04-29 09:16:01,862 [INFO] [38.3%] Processed:24,200/63,173 | Valid:12,601 | Sealed:11,435 | Errors:164 | DB:41,152
+2026-04-29 09:20:11,121 [INFO] [38.6%] Processed:24,400/63,173 | Valid:12,791 | Sealed:11,445 | Errors:164 | DB:41,342
+2026-04-29 09:23:12,251 [INFO] [38.9%] Processed:24,550/63,173 | Valid:12,939 | Sealed:11,447 | Errors:164 | DB:41,490
+2026-04-29 09:24:12,749 [INFO] [38.9%] Processed:24,600/63,173 | Valid:12,986 | Sealed:11,450 | Errors:164 | DB:41,537
+2026-04-29 09:28:22,940 [INFO] [39.3%] Processed:24,800/63,173 | Valid:13,182 | Sealed:11,454 | Errors:164 | DB:41,733
+2026-04-29 09:32:37,001 [INFO] [39.6%] Processed:25,000/63,173 | Valid:13,377 | Sealed:11,459 | Errors:164 | DB:41,928
+2026-04-29 09:33:39,274 [INFO] [39.7%] Processed:25,050/63,173 | Valid:13,423 | Sealed:11,463 | Errors:164 | DB:41,974
+2026-04-29 09:36:51,538 [INFO] [39.9%] Processed:25,200/63,173 | Valid:13,566 | Sealed:11,470 | Errors:164 | DB:42,117
+2026-04-29 09:41:17,641 [INFO] [40.2%] Processed:25,400/63,173 | Valid:13,755 | Sealed:11,481 | Errors:164 | DB:42,306
+2026-04-29 09:44:27,332 [INFO] [40.4%] Processed:25,550/63,173 | Valid:13,891 | Sealed:11,495 | Errors:164 | DB:42,442
+2026-04-29 09:45:39,530 [INFO] [40.5%] Processed:25,600/63,173 | Valid:13,937 | Sealed:11,499 | Errors:164 | DB:42,488
+2026-04-29 09:50:31,636 [INFO] [40.8%] Processed:25,800/63,173 | Valid:14,134 | Sealed:11,502 | Errors:164 | DB:42,685
+2026-04-29 09:54:52,873 [INFO] [41.2%] Processed:26,000/63,173 | Valid:14,327 | Sealed:11,509 | Errors:164 | DB:42,878
+2026-04-29 09:55:55,017 [INFO] [41.2%] Processed:26,050/63,173 | Valid:14,377 | Sealed:11,509 | Errors:164 | DB:42,928
+2026-04-29 09:59:12,752 [INFO] [41.5%] Processed:26,200/63,173 | Valid:14,522 | Sealed:11,514 | Errors:164 | DB:43,073
+2026-04-29 10:03:24,053 [INFO] [41.8%] Processed:26,400/63,173 | Valid:14,713 | Sealed:11,523 | Errors:164 | DB:43,264
+2026-04-29 10:06:36,493 [INFO] [42.0%] Processed:26,550/63,173 | Valid:14,861 | Sealed:11,525 | Errors:164 | DB:43,412
+2026-04-29 10:07:38,240 [INFO] [42.1%] Processed:26,600/63,173 | Valid:14,909 | Sealed:11,525 | Errors:166 | DB:43,460
+2026-04-29 10:12:10,202 [INFO] [42.4%] Processed:26,800/63,173 | Valid:15,099 | Sealed:11,535 | Errors:166 | DB:43,650
+2026-04-29 10:16:28,899 [INFO] [42.7%] Processed:27,000/63,173 | Valid:15,297 | Sealed:11,537 | Errors:166 | DB:43,848
+2026-04-29 10:17:33,372 [INFO] [42.8%] Processed:27,050/63,173 | Valid:15,345 | Sealed:11,539 | Errors:166 | DB:43,896
+2026-04-29 10:20:41,175 [INFO] [43.1%] Processed:27,200/63,173 | Valid:15,489 | Sealed:11,545 | Errors:166 | DB:44,040
+2026-04-29 10:24:49,996 [INFO] [43.4%] Processed:27,400/63,173 | Valid:15,682 | Sealed:11,552 | Errors:166 | DB:44,233
+2026-04-29 10:27:51,507 [INFO] [43.6%] Processed:27,550/63,173 | Valid:15,828 | Sealed:11,556 | Errors:166 | DB:44,379
+2026-04-29 10:28:54,200 [INFO] [43.7%] Processed:27,600/63,173 | Valid:15,873 | Sealed:11,561 | Errors:166 | DB:44,424
+2026-04-29 10:32:59,250 [INFO] [44.0%] Processed:27,800/63,173 | Valid:16,062 | Sealed:11,571 | Errors:167 | DB:44,613
+2026-04-29 10:37:24,042 [INFO] [44.3%] Processed:28,000/63,173 | Valid:16,252 | Sealed:11,581 | Errors:167 | DB:44,803
+2026-04-29 10:38:35,975 [INFO] [44.4%] Processed:28,050/63,173 | Valid:16,299 | Sealed:11,584 | Errors:167 | DB:44,850
+2026-04-29 10:41:34,797 [INFO] [44.6%] Processed:28,200/63,173 | Valid:16,445 | Sealed:11,588 | Errors:167 | DB:44,996
+2026-04-29 10:42:27,676 [INFO] Stopped. Run again to resume from last CRN.
+2026-04-29 10:42:27,676 [INFO] ============================================================
+2026-04-29 10:42:27,676 [INFO] DONE. Valid:16,458 | Sealed:11,590 | Errors:167
+2026-04-29 10:42:27,676 [INFO] Total in DB: 45,010
+2026-04-29 10:42:27,676 [INFO] Next: python phase3_build_excel.py
+2026-04-29 10:45:02,761 [INFO] ============================================================
+2026-04-29 10:45:02,761 [INFO] COMBINED SCRAPER v3 — CRN 61,513 to 96,470
+2026-04-29 10:45:02,764 [INFO] Range: 34,958 | Workers: 5 | ETA: 3.3h
+2026-04-29 10:45:02,765 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-29 10:45:02,765 [INFO] ============================================================
+2026-04-29 10:46:57,306 [INFO] [0.3%] Done:100/34,958 | Valid:95 | Sealed:5 | Errors:0 | DB_cases:45,104 | Parties:143,516
+2026-04-29 10:49:00,606 [INFO] [0.6%] Done:200/34,958 | Valid:188 | Sealed:12 | Errors:0 | DB_cases:45,197 | Parties:143,862
+2026-04-29 10:51:07,170 [INFO] [0.9%] Done:300/34,958 | Valid:286 | Sealed:14 | Errors:0 | DB_cases:45,295 | Parties:144,254
+2026-04-29 10:53:16,625 [INFO] [1.1%] Done:400/34,958 | Valid:383 | Sealed:17 | Errors:0 | DB_cases:45,392 | Parties:144,640
+2026-04-29 10:55:20,557 [INFO] [1.4%] Done:500/34,958 | Valid:480 | Sealed:20 | Errors:0 | DB_cases:45,489 | Parties:145,057
+2026-04-29 10:57:25,747 [INFO] [1.7%] Done:600/34,958 | Valid:578 | Sealed:22 | Errors:0 | DB_cases:45,587 | Parties:145,468
+2026-04-29 10:59:05,530 [INFO] [2.0%] Done:700/34,958 | Valid:609 | Sealed:27 | Errors:64 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:00:34,084 [INFO] [2.3%] Done:800/34,958 | Valid:609 | Sealed:27 | Errors:164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:02:02,361 [INFO] [2.6%] Done:900/34,958 | Valid:609 | Sealed:27 | Errors:264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:03:30,826 [INFO] [2.9%] Done:1,000/34,958 | Valid:609 | Sealed:27 | Errors:364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:05:01,466 [INFO] [3.1%] Done:1,100/34,958 | Valid:609 | Sealed:27 | Errors:464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:06:31,667 [INFO] [3.4%] Done:1,200/34,958 | Valid:609 | Sealed:27 | Errors:564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:08:00,560 [INFO] [3.7%] Done:1,300/34,958 | Valid:609 | Sealed:27 | Errors:664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:09:30,394 [INFO] [4.0%] Done:1,400/34,958 | Valid:609 | Sealed:27 | Errors:764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:10:58,758 [INFO] [4.3%] Done:1,500/34,958 | Valid:609 | Sealed:27 | Errors:864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:12:29,449 [INFO] [4.6%] Done:1,600/34,958 | Valid:609 | Sealed:27 | Errors:964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:13:57,751 [INFO] [4.9%] Done:1,700/34,958 | Valid:609 | Sealed:27 | Errors:1064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:15:25,635 [INFO] [5.1%] Done:1,800/34,958 | Valid:609 | Sealed:27 | Errors:1164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:16:56,042 [INFO] [5.4%] Done:1,900/34,958 | Valid:609 | Sealed:27 | Errors:1264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:18:26,242 [INFO] [5.7%] Done:2,000/34,958 | Valid:609 | Sealed:27 | Errors:1364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:20:00,794 [INFO] [6.0%] Done:2,100/34,958 | Valid:609 | Sealed:27 | Errors:1464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:21:28,280 [INFO] [6.3%] Done:2,200/34,958 | Valid:609 | Sealed:27 | Errors:1564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:22:57,383 [INFO] [6.6%] Done:2,300/34,958 | Valid:609 | Sealed:27 | Errors:1664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:24:27,062 [INFO] [6.9%] Done:2,400/34,958 | Valid:609 | Sealed:27 | Errors:1764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:25:57,802 [INFO] [7.2%] Done:2,500/34,958 | Valid:609 | Sealed:27 | Errors:1864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:27:26,503 [INFO] [7.4%] Done:2,600/34,958 | Valid:609 | Sealed:27 | Errors:1964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:28:54,717 [INFO] [7.7%] Done:2,700/34,958 | Valid:609 | Sealed:27 | Errors:2064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:30:23,314 [INFO] [8.0%] Done:2,800/34,958 | Valid:609 | Sealed:27 | Errors:2164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:31:50,877 [INFO] [8.3%] Done:2,900/34,958 | Valid:609 | Sealed:27 | Errors:2264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:33:18,883 [INFO] [8.6%] Done:3,000/34,958 | Valid:609 | Sealed:27 | Errors:2364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:34:48,235 [INFO] [8.9%] Done:3,100/34,958 | Valid:609 | Sealed:27 | Errors:2464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:36:16,620 [INFO] [9.2%] Done:3,200/34,958 | Valid:609 | Sealed:27 | Errors:2564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:37:44,681 [INFO] [9.4%] Done:3,300/34,958 | Valid:609 | Sealed:27 | Errors:2664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:39:12,734 [INFO] [9.7%] Done:3,400/34,958 | Valid:609 | Sealed:27 | Errors:2764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:40:43,644 [INFO] [10.0%] Done:3,500/34,958 | Valid:609 | Sealed:27 | Errors:2864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:42:14,160 [INFO] [10.3%] Done:3,600/34,958 | Valid:609 | Sealed:27 | Errors:2964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:43:42,341 [INFO] [10.6%] Done:3,700/34,958 | Valid:609 | Sealed:27 | Errors:3064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:45:10,291 [INFO] [10.9%] Done:3,800/34,958 | Valid:609 | Sealed:27 | Errors:3164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:46:41,240 [INFO] [11.2%] Done:3,900/34,958 | Valid:609 | Sealed:27 | Errors:3264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:48:11,956 [INFO] [11.4%] Done:4,000/34,958 | Valid:609 | Sealed:27 | Errors:3364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:49:40,563 [INFO] [11.7%] Done:4,100/34,958 | Valid:609 | Sealed:27 | Errors:3464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:51:07,060 [INFO] [12.0%] Done:4,200/34,958 | Valid:609 | Sealed:27 | Errors:3564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:52:35,373 [INFO] [12.3%] Done:4,300/34,958 | Valid:609 | Sealed:27 | Errors:3664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:54:06,170 [INFO] [12.6%] Done:4,400/34,958 | Valid:609 | Sealed:27 | Errors:3764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:55:35,939 [INFO] [12.9%] Done:4,500/34,958 | Valid:609 | Sealed:27 | Errors:3864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:57:04,696 [INFO] [13.2%] Done:4,600/34,958 | Valid:609 | Sealed:27 | Errors:3964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 11:58:33,081 [INFO] [13.4%] Done:4,700/34,958 | Valid:609 | Sealed:27 | Errors:4064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:00:03,397 [INFO] [13.7%] Done:4,800/34,958 | Valid:609 | Sealed:27 | Errors:4164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:01:33,053 [INFO] [14.0%] Done:4,900/34,958 | Valid:609 | Sealed:27 | Errors:4264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:03:02,104 [INFO] [14.3%] Done:5,000/34,958 | Valid:609 | Sealed:27 | Errors:4364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:04:31,289 [INFO] [14.6%] Done:5,100/34,958 | Valid:609 | Sealed:27 | Errors:4464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:06:01,507 [INFO] [14.9%] Done:5,200/34,958 | Valid:609 | Sealed:27 | Errors:4564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:07:29,245 [INFO] [15.2%] Done:5,300/34,958 | Valid:609 | Sealed:27 | Errors:4664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:08:57,706 [INFO] [15.4%] Done:5,400/34,958 | Valid:609 | Sealed:27 | Errors:4764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:10:27,570 [INFO] [15.7%] Done:5,500/34,958 | Valid:609 | Sealed:27 | Errors:4864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:11:53,505 [INFO] [16.0%] Done:5,600/34,958 | Valid:609 | Sealed:27 | Errors:4964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:13:24,015 [INFO] [16.3%] Done:5,700/34,958 | Valid:609 | Sealed:27 | Errors:5064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:14:51,587 [INFO] [16.6%] Done:5,800/34,958 | Valid:609 | Sealed:27 | Errors:5164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:16:21,967 [INFO] [16.9%] Done:5,900/34,958 | Valid:609 | Sealed:27 | Errors:5264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:17:51,295 [INFO] [17.2%] Done:6,000/34,958 | Valid:609 | Sealed:27 | Errors:5364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:19:21,345 [INFO] [17.4%] Done:6,100/34,958 | Valid:609 | Sealed:27 | Errors:5464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:20:48,593 [INFO] [17.7%] Done:6,200/34,958 | Valid:609 | Sealed:27 | Errors:5564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:22:18,123 [INFO] [18.0%] Done:6,300/34,958 | Valid:609 | Sealed:27 | Errors:5664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:23:48,244 [INFO] [18.3%] Done:6,400/34,958 | Valid:609 | Sealed:27 | Errors:5764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:25:16,393 [INFO] [18.6%] Done:6,500/34,958 | Valid:609 | Sealed:27 | Errors:5864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:26:44,809 [INFO] [18.9%] Done:6,600/34,958 | Valid:609 | Sealed:27 | Errors:5964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:28:13,980 [INFO] [19.2%] Done:6,700/34,958 | Valid:609 | Sealed:27 | Errors:6064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:29:43,175 [INFO] [19.5%] Done:6,800/34,958 | Valid:609 | Sealed:27 | Errors:6164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:31:12,715 [INFO] [19.7%] Done:6,900/34,958 | Valid:609 | Sealed:27 | Errors:6264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:32:40,353 [INFO] [20.0%] Done:7,000/34,958 | Valid:609 | Sealed:27 | Errors:6364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:34:11,217 [INFO] [20.3%] Done:7,100/34,958 | Valid:609 | Sealed:27 | Errors:6464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:35:41,088 [INFO] [20.6%] Done:7,200/34,958 | Valid:609 | Sealed:27 | Errors:6564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:37:07,631 [INFO] [20.9%] Done:7,300/34,958 | Valid:609 | Sealed:27 | Errors:6664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:38:37,122 [INFO] [21.2%] Done:7,400/34,958 | Valid:609 | Sealed:27 | Errors:6764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:40:02,860 [INFO] [21.5%] Done:7,500/34,958 | Valid:609 | Sealed:27 | Errors:6864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:41:32,341 [INFO] [21.7%] Done:7,600/34,958 | Valid:609 | Sealed:27 | Errors:6964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:43:04,075 [INFO] [22.0%] Done:7,700/34,958 | Valid:609 | Sealed:27 | Errors:7064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:44:34,948 [INFO] [22.3%] Done:7,800/34,958 | Valid:609 | Sealed:27 | Errors:7164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:46:01,832 [INFO] [22.6%] Done:7,900/34,958 | Valid:609 | Sealed:27 | Errors:7264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:47:29,273 [INFO] [22.9%] Done:8,000/34,958 | Valid:609 | Sealed:27 | Errors:7364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:49:01,193 [INFO] [23.2%] Done:8,100/34,958 | Valid:609 | Sealed:27 | Errors:7464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:50:32,927 [INFO] [23.5%] Done:8,200/34,958 | Valid:609 | Sealed:27 | Errors:7564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:52:02,781 [INFO] [23.7%] Done:8,300/34,958 | Valid:609 | Sealed:27 | Errors:7664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:53:31,975 [INFO] [24.0%] Done:8,400/34,958 | Valid:609 | Sealed:27 | Errors:7764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:55:00,693 [INFO] [24.3%] Done:8,500/34,958 | Valid:609 | Sealed:27 | Errors:7864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:56:27,719 [INFO] [24.6%] Done:8,600/34,958 | Valid:609 | Sealed:27 | Errors:7964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 12:58:42,758 [INFO] [24.9%] Done:8,700/34,958 | Valid:609 | Sealed:27 | Errors:8064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:00:09,667 [INFO] [25.2%] Done:8,800/34,958 | Valid:609 | Sealed:27 | Errors:8164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:01:36,504 [INFO] [25.5%] Done:8,900/34,958 | Valid:609 | Sealed:27 | Errors:8264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:03:02,891 [INFO] [25.7%] Done:9,000/34,958 | Valid:609 | Sealed:27 | Errors:8364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:04:28,353 [INFO] [26.0%] Done:9,100/34,958 | Valid:609 | Sealed:27 | Errors:8464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:05:54,477 [INFO] [26.3%] Done:9,200/34,958 | Valid:609 | Sealed:27 | Errors:8564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:07:21,134 [INFO] [26.6%] Done:9,300/34,958 | Valid:609 | Sealed:27 | Errors:8664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:08:47,682 [INFO] [26.9%] Done:9,400/34,958 | Valid:609 | Sealed:27 | Errors:8764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:10:14,616 [INFO] [27.2%] Done:9,500/34,958 | Valid:609 | Sealed:27 | Errors:8864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:11:42,765 [INFO] [27.5%] Done:9,600/34,958 | Valid:609 | Sealed:27 | Errors:8964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:13:08,483 [INFO] [27.7%] Done:9,700/34,958 | Valid:609 | Sealed:27 | Errors:9064 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:14:34,183 [INFO] [28.0%] Done:9,800/34,958 | Valid:609 | Sealed:27 | Errors:9164 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:16:01,961 [INFO] [28.3%] Done:9,900/34,958 | Valid:609 | Sealed:27 | Errors:9264 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:17:28,638 [INFO] [28.6%] Done:10,000/34,958 | Valid:609 | Sealed:27 | Errors:9364 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:18:54,323 [INFO] [28.9%] Done:10,100/34,958 | Valid:609 | Sealed:27 | Errors:9464 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:20:19,548 [INFO] [29.2%] Done:10,200/34,958 | Valid:609 | Sealed:27 | Errors:9564 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:21:47,414 [INFO] [29.5%] Done:10,300/34,958 | Valid:609 | Sealed:27 | Errors:9664 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:23:12,913 [INFO] [29.7%] Done:10,400/34,958 | Valid:609 | Sealed:27 | Errors:9764 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:24:40,139 [INFO] [30.0%] Done:10,500/34,958 | Valid:609 | Sealed:27 | Errors:9864 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:26:06,345 [INFO] [30.3%] Done:10,600/34,958 | Valid:609 | Sealed:27 | Errors:9964 | DB_cases:45,618 | Parties:145,607
+2026-04-29 13:27:56,350 [INFO] [30.6%] Done:10,700/34,958 | Valid:678 | Sealed:29 | Errors:9993 | DB_cases:45,687 | Parties:145,842
+2026-04-29 13:29:58,647 [INFO] [30.9%] Done:10,800/34,958 | Valid:773 | Sealed:34 | Errors:9993 | DB_cases:45,782 | Parties:146,144
+2026-04-29 13:31:58,699 [INFO] [31.2%] Done:10,900/34,958 | Valid:865 | Sealed:42 | Errors:9993 | DB_cases:45,874 | Parties:146,474
+2026-04-29 13:33:53,407 [INFO] [31.5%] Done:11,000/34,958 | Valid:960 | Sealed:47 | Errors:9993 | DB_cases:45,969 | Parties:146,856
+2026-04-29 13:35:50,675 [INFO] [31.8%] Done:11,100/34,958 | Valid:1,054 | Sealed:53 | Errors:9993 | DB_cases:46,063 | Parties:147,208
+2026-04-29 13:37:45,660 [INFO] [32.0%] Done:11,200/34,958 | Valid:1,152 | Sealed:55 | Errors:9993 | DB_cases:46,161 | Parties:147,534
+2026-04-29 13:39:40,376 [INFO] [32.3%] Done:11,300/34,958 | Valid:1,241 | Sealed:65 | Errors:9994 | DB_cases:46,250 | Parties:147,876
+2026-04-29 13:41:42,107 [INFO] [32.6%] Done:11,400/34,958 | Valid:1,335 | Sealed:71 | Errors:9994 | DB_cases:46,344 | Parties:148,212
+2026-04-29 13:43:42,991 [INFO] [32.9%] Done:11,500/34,958 | Valid:1,430 | Sealed:76 | Errors:9994 | DB_cases:46,439 | Parties:148,564
+2026-04-29 13:45:52,339 [INFO] [33.2%] Done:11,600/34,958 | Valid:1,526 | Sealed:80 | Errors:9994 | DB_cases:46,535 | Parties:149,015
+2026-04-29 13:47:52,346 [INFO] [33.5%] Done:11,700/34,958 | Valid:1,620 | Sealed:86 | Errors:9994 | DB_cases:46,629 | Parties:149,386
+2026-04-29 13:49:51,626 [INFO] [33.8%] Done:11,800/34,958 | Valid:1,717 | Sealed:89 | Errors:9994 | DB_cases:46,726 | Parties:149,685
+2026-04-29 13:51:45,268 [INFO] [34.0%] Done:11,900/34,958 | Valid:1,804 | Sealed:102 | Errors:9994 | DB_cases:46,813 | Parties:149,974
+2026-04-29 13:53:40,663 [INFO] [34.3%] Done:12,000/34,958 | Valid:1,898 | Sealed:108 | Errors:9994 | DB_cases:46,907 | Parties:150,341
+2026-04-29 13:55:37,057 [INFO] [34.6%] Done:12,100/34,958 | Valid:1,995 | Sealed:111 | Errors:9994 | DB_cases:47,004 | Parties:150,695
+2026-04-29 13:57:28,576 [INFO] [34.9%] Done:12,200/34,958 | Valid:2,088 | Sealed:118 | Errors:9994 | DB_cases:47,097 | Parties:151,180
+2026-04-29 13:59:21,872 [INFO] [35.2%] Done:12,300/34,958 | Valid:2,183 | Sealed:123 | Errors:9994 | DB_cases:47,192 | Parties:151,503
+2026-04-29 14:01:19,910 [INFO] [35.5%] Done:12,400/34,958 | Valid:2,276 | Sealed:130 | Errors:9994 | DB_cases:47,285 | Parties:151,830
+2026-04-29 14:03:14,467 [INFO] [35.8%] Done:12,500/34,958 | Valid:2,373 | Sealed:133 | Errors:9994 | DB_cases:47,382 | Parties:152,159
+2026-04-29 14:05:11,471 [INFO] [36.0%] Done:12,600/34,958 | Valid:2,465 | Sealed:141 | Errors:9994 | DB_cases:47,474 | Parties:152,501
+2026-04-29 14:07:14,871 [INFO] [36.3%] Done:12,700/34,958 | Valid:2,561 | Sealed:145 | Errors:9994 | DB_cases:47,570 | Parties:152,853
+2026-04-29 14:09:13,175 [INFO] [36.6%] Done:12,800/34,958 | Valid:2,653 | Sealed:153 | Errors:9994 | DB_cases:47,662 | Parties:153,249
+2026-04-29 14:11:11,042 [INFO] [36.9%] Done:12,900/34,958 | Valid:2,743 | Sealed:163 | Errors:9994 | DB_cases:47,752 | Parties:153,605
+2026-04-29 14:13:12,222 [INFO] [37.2%] Done:13,000/34,958 | Valid:2,836 | Sealed:170 | Errors:9994 | DB_cases:47,845 | Parties:153,940
+2026-04-29 14:15:11,680 [INFO] [37.5%] Done:13,100/34,958 | Valid:2,932 | Sealed:173 | Errors:9995 | DB_cases:47,941 | Parties:154,377
+2026-04-29 14:17:16,988 [INFO] [37.8%] Done:13,200/34,958 | Valid:3,027 | Sealed:178 | Errors:9995 | DB_cases:48,036 | Parties:154,798
+2026-04-29 14:19:15,783 [INFO] [38.0%] Done:13,300/34,958 | Valid:3,122 | Sealed:183 | Errors:9995 | DB_cases:48,131 | Parties:155,140
+2026-04-29 14:21:13,935 [INFO] [38.3%] Done:13,400/34,958 | Valid:3,209 | Sealed:196 | Errors:9995 | DB_cases:48,218 | Parties:155,452
+2026-04-29 14:23:09,373 [INFO] [38.6%] Done:13,500/34,958 | Valid:3,295 | Sealed:210 | Errors:9995 | DB_cases:48,304 | Parties:155,825
+2026-04-29 14:25:03,188 [INFO] [38.9%] Done:13,600/34,958 | Valid:3,385 | Sealed:220 | Errors:9995 | DB_cases:48,394 | Parties:156,170
+2026-04-29 14:27:00,832 [INFO] [39.2%] Done:13,700/34,958 | Valid:3,478 | Sealed:227 | Errors:9995 | DB_cases:48,487 | Parties:156,536
+2026-04-29 14:28:54,811 [INFO] [39.5%] Done:13,800/34,958 | Valid:3,568 | Sealed:237 | Errors:9995 | DB_cases:48,577 | Parties:156,938
+2026-04-29 14:30:50,829 [INFO] [39.8%] Done:13,900/34,958 | Valid:3,661 | Sealed:244 | Errors:9995 | DB_cases:48,670 | Parties:157,241
+2026-04-29 14:32:54,640 [INFO] [40.0%] Done:14,000/34,958 | Valid:3,755 | Sealed:250 | Errors:9995 | DB_cases:48,764 | Parties:157,645
+2026-04-29 14:34:48,549 [INFO] [40.3%] Done:14,100/34,958 | Valid:3,843 | Sealed:262 | Errors:9995 | DB_cases:48,852 | Parties:158,009
+2026-04-29 14:36:46,994 [INFO] [40.6%] Done:14,200/34,958 | Valid:3,936 | Sealed:269 | Errors:9995 | DB_cases:48,945 | Parties:158,338
+2026-04-29 14:38:42,756 [INFO] [40.9%] Done:14,300/34,958 | Valid:4,033 | Sealed:272 | Errors:9995 | DB_cases:49,042 | Parties:158,754
+2026-04-29 14:40:40,669 [INFO] [41.2%] Done:14,400/34,958 | Valid:4,126 | Sealed:279 | Errors:9995 | DB_cases:49,135 | Parties:159,095
+2026-04-29 14:42:35,473 [INFO] [41.5%] Done:14,500/34,958 | Valid:4,218 | Sealed:287 | Errors:9995 | DB_cases:49,227 | Parties:159,417
+2026-04-29 14:44:29,348 [INFO] [41.8%] Done:14,600/34,958 | Valid:4,311 | Sealed:294 | Errors:9995 | DB_cases:49,320 | Parties:159,810
+2026-04-29 14:46:27,964 [INFO] [42.1%] Done:14,700/34,958 | Valid:4,407 | Sealed:298 | Errors:9995 | DB_cases:49,416 | Parties:160,264
+2026-04-29 14:48:21,070 [INFO] [42.3%] Done:14,800/34,958 | Valid:4,498 | Sealed:307 | Errors:9995 | DB_cases:49,507 | Parties:160,595
+2026-04-29 14:50:15,079 [INFO] [42.6%] Done:14,900/34,958 | Valid:4,582 | Sealed:323 | Errors:9995 | DB_cases:49,591 | Parties:160,898
+2026-04-29 14:52:13,774 [INFO] [42.9%] Done:15,000/34,958 | Valid:4,670 | Sealed:335 | Errors:9995 | DB_cases:49,679 | Parties:161,234
+2026-04-29 14:54:13,245 [INFO] [43.2%] Done:15,100/34,958 | Valid:4,763 | Sealed:342 | Errors:9995 | DB_cases:49,772 | Parties:161,576
+2026-04-29 14:56:06,781 [INFO] [43.5%] Done:15,200/34,958 | Valid:4,851 | Sealed:354 | Errors:9995 | DB_cases:49,860 | Parties:161,871
+2026-04-29 14:58:02,371 [INFO] [43.8%] Done:15,300/34,958 | Valid:4,943 | Sealed:362 | Errors:9995 | DB_cases:49,952 | Parties:162,247
+2026-04-29 15:00:00,836 [INFO] [44.1%] Done:15,400/34,958 | Valid:5,033 | Sealed:372 | Errors:9995 | DB_cases:50,042 | Parties:162,632
+2026-04-29 15:02:28,059 [INFO] [44.3%] Done:15,500/34,958 | Valid:5,126 | Sealed:379 | Errors:9995 | DB_cases:50,135 | Parties:162,962
+2026-04-29 15:04:23,035 [INFO] [44.6%] Done:15,600/34,958 | Valid:5,219 | Sealed:386 | Errors:9995 | DB_cases:50,228 | Parties:163,327
+2026-04-29 15:06:27,559 [INFO] [44.9%] Done:15,700/34,958 | Valid:5,313 | Sealed:392 | Errors:9995 | DB_cases:50,322 | Parties:163,708
+2026-04-29 15:08:27,990 [INFO] [45.2%] Done:15,800/34,958 | Valid:5,405 | Sealed:400 | Errors:9995 | DB_cases:50,414 | Parties:164,146
+2026-04-29 15:10:25,808 [INFO] [45.5%] Done:15,900/34,958 | Valid:5,496 | Sealed:409 | Errors:9995 | DB_cases:50,505 | Parties:164,487
+2026-04-29 15:12:20,165 [INFO] [45.8%] Done:16,000/34,958 | Valid:5,580 | Sealed:425 | Errors:9995 | DB_cases:50,589 | Parties:164,826
+2026-04-29 15:14:15,832 [INFO] [46.1%] Done:16,100/34,958 | Valid:5,673 | Sealed:432 | Errors:9995 | DB_cases:50,682 | Parties:165,157
+2026-04-29 15:16:12,886 [INFO] [46.3%] Done:16,200/34,958 | Valid:5,764 | Sealed:441 | Errors:9995 | DB_cases:50,773 | Parties:165,494
+2026-04-29 15:18:14,294 [INFO] [46.6%] Done:16,300/34,958 | Valid:5,856 | Sealed:449 | Errors:9995 | DB_cases:50,865 | Parties:165,874
+2026-04-29 15:20:11,769 [INFO] [46.9%] Done:16,400/34,958 | Valid:5,950 | Sealed:455 | Errors:9995 | DB_cases:50,959 | Parties:166,190
+2026-04-29 15:22:06,931 [INFO] [47.2%] Done:16,500/34,958 | Valid:6,044 | Sealed:461 | Errors:9995 | DB_cases:51,053 | Parties:166,528
+2026-04-29 15:24:10,967 [INFO] [47.5%] Done:16,600/34,958 | Valid:6,141 | Sealed:464 | Errors:9995 | DB_cases:51,150 | Parties:166,887
+2026-04-29 15:26:16,721 [INFO] [47.8%] Done:16,700/34,958 | Valid:6,239 | Sealed:466 | Errors:9995 | DB_cases:51,248 | Parties:167,227
+2026-04-29 15:28:16,296 [INFO] [48.1%] Done:16,800/34,958 | Valid:6,336 | Sealed:469 | Errors:9995 | DB_cases:51,345 | Parties:167,532
+2026-04-29 15:30:21,458 [INFO] [48.3%] Done:16,900/34,958 | Valid:6,436 | Sealed:469 | Errors:9995 | DB_cases:51,445 | Parties:167,926
+2026-04-29 15:32:26,506 [INFO] [48.6%] Done:17,000/34,958 | Valid:6,531 | Sealed:474 | Errors:9995 | DB_cases:51,540 | Parties:168,306
+2026-04-29 15:34:22,091 [INFO] [48.9%] Done:17,100/34,958 | Valid:6,621 | Sealed:484 | Errors:9995 | DB_cases:51,630 | Parties:168,576
+2026-04-29 15:36:21,817 [INFO] [49.2%] Done:17,200/34,958 | Valid:6,714 | Sealed:491 | Errors:9995 | DB_cases:51,723 | Parties:168,941
+2026-04-29 15:38:26,427 [INFO] [49.5%] Done:17,300/34,958 | Valid:6,810 | Sealed:495 | Errors:9995 | DB_cases:51,819 | Parties:169,311
+2026-04-29 15:40:34,932 [INFO] [49.8%] Done:17,400/34,958 | Valid:6,906 | Sealed:499 | Errors:9995 | DB_cases:51,915 | Parties:169,714
+2026-04-29 15:42:41,821 [INFO] [50.1%] Done:17,500/34,958 | Valid:7,004 | Sealed:501 | Errors:9995 | DB_cases:52,013 | Parties:170,109
+2026-04-29 15:44:40,342 [INFO] [50.3%] Done:17,600/34,958 | Valid:7,099 | Sealed:506 | Errors:9995 | DB_cases:52,108 | Parties:170,444
+2026-04-29 15:46:40,840 [INFO] [50.6%] Done:17,700/34,958 | Valid:7,196 | Sealed:509 | Errors:9995 | DB_cases:52,205 | Parties:170,818
+2026-04-29 15:48:42,961 [INFO] [50.9%] Done:17,800/34,958 | Valid:7,290 | Sealed:515 | Errors:9995 | DB_cases:52,299 | Parties:171,199
+2026-04-29 15:50:47,537 [INFO] [51.2%] Done:17,900/34,958 | Valid:7,390 | Sealed:515 | Errors:9995 | DB_cases:52,399 | Parties:171,665
+2026-04-29 15:52:52,230 [INFO] [51.5%] Done:18,000/34,958 | Valid:7,486 | Sealed:519 | Errors:9995 | DB_cases:52,495 | Parties:171,982
+2026-04-29 15:54:49,287 [INFO] [51.8%] Done:18,100/34,958 | Valid:7,576 | Sealed:529 | Errors:9995 | DB_cases:52,585 | Parties:172,281
+2026-04-29 15:56:46,947 [INFO] [52.1%] Done:18,200/34,958 | Valid:7,667 | Sealed:538 | Errors:9995 | DB_cases:52,676 | Parties:172,638
+2026-04-29 15:58:39,669 [INFO] [52.3%] Done:18,300/34,958 | Valid:7,757 | Sealed:548 | Errors:9995 | DB_cases:52,766 | Parties:172,998
+2026-04-29 16:00:34,134 [INFO] [52.6%] Done:18,400/34,958 | Valid:7,832 | Sealed:573 | Errors:9995 | DB_cases:52,841 | Parties:173,373
+2026-04-29 16:02:31,831 [INFO] [52.9%] Done:18,500/34,958 | Valid:7,920 | Sealed:585 | Errors:9995 | DB_cases:52,929 | Parties:173,692
+2026-04-29 16:04:27,815 [INFO] [53.2%] Done:18,600/34,958 | Valid:8,008 | Sealed:597 | Errors:9995 | DB_cases:53,017 | Parties:173,963
+2026-04-29 16:06:29,906 [INFO] [53.5%] Done:18,700/34,958 | Valid:8,097 | Sealed:608 | Errors:9995 | DB_cases:53,106 | Parties:174,304
+2026-04-29 16:08:24,911 [INFO] [53.8%] Done:18,800/34,958 | Valid:8,178 | Sealed:627 | Errors:9995 | DB_cases:53,187 | Parties:174,625
+2026-04-29 16:10:18,410 [INFO] [54.1%] Done:18,900/34,958 | Valid:8,251 | Sealed:634 | Errors:10015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:11:43,620 [INFO] [54.4%] Done:19,000/34,958 | Valid:8,251 | Sealed:634 | Errors:10115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:13:08,926 [INFO] [54.6%] Done:19,100/34,958 | Valid:8,251 | Sealed:634 | Errors:10215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:14:35,455 [INFO] [54.9%] Done:19,200/34,958 | Valid:8,251 | Sealed:634 | Errors:10315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:16:02,642 [INFO] [55.2%] Done:19,300/34,958 | Valid:8,251 | Sealed:634 | Errors:10415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:17:29,716 [INFO] [55.5%] Done:19,400/34,958 | Valid:8,251 | Sealed:634 | Errors:10515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:18:57,839 [INFO] [55.8%] Done:19,500/34,958 | Valid:8,251 | Sealed:634 | Errors:10615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:20:23,439 [INFO] [56.1%] Done:19,600/34,958 | Valid:8,251 | Sealed:634 | Errors:10715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:21:49,643 [INFO] [56.4%] Done:19,700/34,958 | Valid:8,251 | Sealed:634 | Errors:10815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:23:15,364 [INFO] [56.6%] Done:19,800/34,958 | Valid:8,251 | Sealed:634 | Errors:10915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:24:41,455 [INFO] [56.9%] Done:19,900/34,958 | Valid:8,251 | Sealed:634 | Errors:11015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:26:09,060 [INFO] [57.2%] Done:20,000/34,958 | Valid:8,251 | Sealed:634 | Errors:11115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:27:33,582 [INFO] [57.5%] Done:20,100/34,958 | Valid:8,251 | Sealed:634 | Errors:11215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:29:01,293 [INFO] [57.8%] Done:20,200/34,958 | Valid:8,251 | Sealed:634 | Errors:11315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:30:28,922 [INFO] [58.1%] Done:20,300/34,958 | Valid:8,251 | Sealed:634 | Errors:11415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:31:57,865 [INFO] [58.4%] Done:20,400/34,958 | Valid:8,251 | Sealed:634 | Errors:11515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:33:21,897 [INFO] [58.6%] Done:20,500/34,958 | Valid:8,251 | Sealed:634 | Errors:11615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:34:50,584 [INFO] [58.9%] Done:20,600/34,958 | Valid:8,251 | Sealed:634 | Errors:11715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:36:16,525 [INFO] [59.2%] Done:20,700/34,958 | Valid:8,251 | Sealed:634 | Errors:11815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:37:43,523 [INFO] [59.5%] Done:20,800/34,958 | Valid:8,251 | Sealed:634 | Errors:11915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:39:11,544 [INFO] [59.8%] Done:20,900/34,958 | Valid:8,251 | Sealed:634 | Errors:12015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:40:41,560 [INFO] [60.1%] Done:21,000/34,958 | Valid:8,251 | Sealed:634 | Errors:12115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:42:09,194 [INFO] [60.4%] Done:21,100/34,958 | Valid:8,251 | Sealed:634 | Errors:12215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:43:38,156 [INFO] [60.6%] Done:21,200/34,958 | Valid:8,251 | Sealed:634 | Errors:12315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:45:09,598 [INFO] [60.9%] Done:21,300/34,958 | Valid:8,251 | Sealed:634 | Errors:12415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:46:41,171 [INFO] [61.2%] Done:21,400/34,958 | Valid:8,251 | Sealed:634 | Errors:12515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:48:12,179 [INFO] [61.5%] Done:21,500/34,958 | Valid:8,251 | Sealed:634 | Errors:12615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:49:39,035 [INFO] [61.8%] Done:21,600/34,958 | Valid:8,251 | Sealed:634 | Errors:12715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:51:06,300 [INFO] [62.1%] Done:21,700/34,958 | Valid:8,251 | Sealed:634 | Errors:12815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:52:35,711 [INFO] [62.4%] Done:21,800/34,958 | Valid:8,251 | Sealed:634 | Errors:12915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:54:04,138 [INFO] [62.6%] Done:21,900/34,958 | Valid:8,251 | Sealed:634 | Errors:13015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:55:31,510 [INFO] [62.9%] Done:22,000/34,958 | Valid:8,251 | Sealed:634 | Errors:13115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:56:58,239 [INFO] [63.2%] Done:22,100/34,958 | Valid:8,251 | Sealed:634 | Errors:13215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:58:27,350 [INFO] [63.5%] Done:22,200/34,958 | Valid:8,251 | Sealed:634 | Errors:13315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 16:59:55,136 [INFO] [63.8%] Done:22,300/34,958 | Valid:8,251 | Sealed:634 | Errors:13415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:01:24,317 [INFO] [64.1%] Done:22,400/34,958 | Valid:8,251 | Sealed:634 | Errors:13515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:02:51,994 [INFO] [64.4%] Done:22,500/34,958 | Valid:8,251 | Sealed:634 | Errors:13615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:04:21,659 [INFO] [64.6%] Done:22,600/34,958 | Valid:8,251 | Sealed:634 | Errors:13715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:05:50,726 [INFO] [64.9%] Done:22,700/34,958 | Valid:8,251 | Sealed:634 | Errors:13815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:07:20,540 [INFO] [65.2%] Done:22,800/34,958 | Valid:8,251 | Sealed:634 | Errors:13915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:08:47,573 [INFO] [65.5%] Done:22,900/34,958 | Valid:8,251 | Sealed:634 | Errors:14015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:10:17,374 [INFO] [65.8%] Done:23,000/34,958 | Valid:8,251 | Sealed:634 | Errors:14115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:11:44,878 [INFO] [66.1%] Done:23,100/34,958 | Valid:8,251 | Sealed:634 | Errors:14215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:13:12,923 [INFO] [66.4%] Done:23,200/34,958 | Valid:8,251 | Sealed:634 | Errors:14315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:14:43,859 [INFO] [66.7%] Done:23,300/34,958 | Valid:8,251 | Sealed:634 | Errors:14415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:16:12,151 [INFO] [66.9%] Done:23,400/34,958 | Valid:8,251 | Sealed:634 | Errors:14515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:17:40,700 [INFO] [67.2%] Done:23,500/34,958 | Valid:8,251 | Sealed:634 | Errors:14615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:19:11,012 [INFO] [67.5%] Done:23,600/34,958 | Valid:8,251 | Sealed:634 | Errors:14715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:20:41,965 [INFO] [67.8%] Done:23,700/34,958 | Valid:8,251 | Sealed:634 | Errors:14815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:22:12,682 [INFO] [68.1%] Done:23,800/34,958 | Valid:8,251 | Sealed:634 | Errors:14915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:23:43,822 [INFO] [68.4%] Done:23,900/34,958 | Valid:8,251 | Sealed:634 | Errors:15015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:25:11,054 [INFO] [68.7%] Done:24,000/34,958 | Valid:8,251 | Sealed:634 | Errors:15115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:26:42,045 [INFO] [68.9%] Done:24,100/34,958 | Valid:8,251 | Sealed:634 | Errors:15215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:28:10,324 [INFO] [69.2%] Done:24,200/34,958 | Valid:8,251 | Sealed:634 | Errors:15315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:29:39,296 [INFO] [69.5%] Done:24,300/34,958 | Valid:8,251 | Sealed:634 | Errors:15415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:31:06,581 [INFO] [69.8%] Done:24,400/34,958 | Valid:8,251 | Sealed:634 | Errors:15515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:32:37,823 [INFO] [70.1%] Done:24,500/34,958 | Valid:8,251 | Sealed:634 | Errors:15615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:34:08,333 [INFO] [70.4%] Done:24,600/34,958 | Valid:8,251 | Sealed:634 | Errors:15715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:35:36,666 [INFO] [70.7%] Done:24,700/34,958 | Valid:8,251 | Sealed:634 | Errors:15815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:37:03,880 [INFO] [70.9%] Done:24,800/34,958 | Valid:8,251 | Sealed:634 | Errors:15915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:38:35,763 [INFO] [71.2%] Done:24,900/34,958 | Valid:8,251 | Sealed:634 | Errors:16015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:40:06,886 [INFO] [71.5%] Done:25,000/34,958 | Valid:8,251 | Sealed:634 | Errors:16115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:41:37,499 [INFO] [71.8%] Done:25,100/34,958 | Valid:8,251 | Sealed:634 | Errors:16215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:43:05,450 [INFO] [72.1%] Done:25,200/34,958 | Valid:8,251 | Sealed:634 | Errors:16315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:44:35,432 [INFO] [72.4%] Done:25,300/34,958 | Valid:8,251 | Sealed:634 | Errors:16415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:46:04,640 [INFO] [72.7%] Done:25,400/34,958 | Valid:8,251 | Sealed:634 | Errors:16515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:47:32,843 [INFO] [72.9%] Done:25,500/34,958 | Valid:8,251 | Sealed:634 | Errors:16615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:49:03,043 [INFO] [73.2%] Done:25,600/34,958 | Valid:8,251 | Sealed:634 | Errors:16715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:50:31,761 [INFO] [73.5%] Done:25,700/34,958 | Valid:8,251 | Sealed:634 | Errors:16815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:51:59,799 [INFO] [73.8%] Done:25,800/34,958 | Valid:8,251 | Sealed:634 | Errors:16915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:53:27,245 [INFO] [74.1%] Done:25,900/34,958 | Valid:8,251 | Sealed:634 | Errors:17015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:54:54,790 [INFO] [74.4%] Done:26,000/34,958 | Valid:8,251 | Sealed:634 | Errors:17115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:56:24,947 [INFO] [74.7%] Done:26,100/34,958 | Valid:8,251 | Sealed:634 | Errors:17215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:57:55,926 [INFO] [74.9%] Done:26,200/34,958 | Valid:8,251 | Sealed:634 | Errors:17315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 17:59:25,505 [INFO] [75.2%] Done:26,300/34,958 | Valid:8,251 | Sealed:634 | Errors:17415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:00:54,174 [INFO] [75.5%] Done:26,400/34,958 | Valid:8,251 | Sealed:634 | Errors:17515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:02:22,085 [INFO] [75.8%] Done:26,500/34,958 | Valid:8,251 | Sealed:634 | Errors:17615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:03:48,460 [INFO] [76.1%] Done:26,600/34,958 | Valid:8,251 | Sealed:634 | Errors:17715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:05:17,024 [INFO] [76.4%] Done:26,700/34,958 | Valid:8,251 | Sealed:634 | Errors:17815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:06:44,955 [INFO] [76.7%] Done:26,800/34,958 | Valid:8,251 | Sealed:634 | Errors:17915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:08:13,281 [INFO] [76.9%] Done:26,900/34,958 | Valid:8,251 | Sealed:634 | Errors:18015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:09:41,386 [INFO] [77.2%] Done:27,000/34,958 | Valid:8,251 | Sealed:634 | Errors:18115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:11:10,071 [INFO] [77.5%] Done:27,100/34,958 | Valid:8,251 | Sealed:634 | Errors:18215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:12:37,351 [INFO] [77.8%] Done:27,200/34,958 | Valid:8,251 | Sealed:634 | Errors:18315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:14:05,251 [INFO] [78.1%] Done:27,300/34,958 | Valid:8,251 | Sealed:634 | Errors:18415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:15:31,124 [INFO] [78.4%] Done:27,400/34,958 | Valid:8,251 | Sealed:634 | Errors:18515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:17:01,323 [INFO] [78.7%] Done:27,500/34,958 | Valid:8,251 | Sealed:634 | Errors:18615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:18:30,339 [INFO] [79.0%] Done:27,600/34,958 | Valid:8,251 | Sealed:634 | Errors:18715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:20:03,024 [INFO] [79.2%] Done:27,700/34,958 | Valid:8,251 | Sealed:634 | Errors:18815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:21:31,660 [INFO] [79.5%] Done:27,800/34,958 | Valid:8,251 | Sealed:634 | Errors:18915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:22:59,727 [INFO] [79.8%] Done:27,900/34,958 | Valid:8,251 | Sealed:634 | Errors:19015 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:24:28,874 [INFO] [80.1%] Done:28,000/34,958 | Valid:8,251 | Sealed:634 | Errors:19115 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:25:57,082 [INFO] [80.4%] Done:28,100/34,958 | Valid:8,251 | Sealed:634 | Errors:19215 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:27:23,821 [INFO] [80.7%] Done:28,200/34,958 | Valid:8,251 | Sealed:634 | Errors:19315 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:28:51,336 [INFO] [81.0%] Done:28,300/34,958 | Valid:8,251 | Sealed:634 | Errors:19415 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:30:18,479 [INFO] [81.2%] Done:28,400/34,958 | Valid:8,251 | Sealed:634 | Errors:19515 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:31:46,249 [INFO] [81.5%] Done:28,500/34,958 | Valid:8,251 | Sealed:634 | Errors:19615 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:33:14,598 [INFO] [81.8%] Done:28,600/34,958 | Valid:8,251 | Sealed:634 | Errors:19715 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:34:42,506 [INFO] [82.1%] Done:28,700/34,958 | Valid:8,251 | Sealed:634 | Errors:19815 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:36:10,824 [INFO] [82.4%] Done:28,800/34,958 | Valid:8,251 | Sealed:634 | Errors:19915 | DB_cases:53,260 | Parties:174,925
+2026-04-29 18:38:00,140 [INFO] [82.7%] Done:28,900/34,958 | Valid:8,266 | Sealed:640 | Errors:19994 | DB_cases:53,275 | Parties:174,973
+2026-04-29 18:39:58,972 [INFO] [83.0%] Done:29,000/34,958 | Valid:8,352 | Sealed:654 | Errors:19994 | DB_cases:53,361 | Parties:175,239
+2026-04-29 18:41:58,899 [INFO] [83.2%] Done:29,100/34,958 | Valid:8,437 | Sealed:669 | Errors:19994 | DB_cases:53,446 | Parties:175,537
+2026-04-29 18:43:52,915 [INFO] [83.5%] Done:29,200/34,958 | Valid:8,528 | Sealed:678 | Errors:19994 | DB_cases:53,537 | Parties:175,930
+2026-04-29 18:45:50,478 [INFO] [83.8%] Done:29,300/34,958 | Valid:8,619 | Sealed:687 | Errors:19994 | DB_cases:53,628 | Parties:176,233
+2026-04-29 18:47:47,319 [INFO] [84.1%] Done:29,400/34,958 | Valid:8,715 | Sealed:691 | Errors:19994 | DB_cases:53,724 | Parties:176,692
+2026-04-29 18:49:46,511 [INFO] [84.4%] Done:29,500/34,958 | Valid:8,806 | Sealed:700 | Errors:19994 | DB_cases:53,815 | Parties:177,032
+2026-04-29 18:51:49,938 [INFO] [84.7%] Done:29,600/34,958 | Valid:8,898 | Sealed:708 | Errors:19994 | DB_cases:53,907 | Parties:177,428
+2026-04-29 18:53:47,449 [INFO] [85.0%] Done:29,700/34,958 | Valid:8,983 | Sealed:723 | Errors:19994 | DB_cases:53,992 | Parties:177,723
+2026-04-29 18:55:43,153 [INFO] [85.2%] Done:29,800/34,958 | Valid:9,074 | Sealed:732 | Errors:19994 | DB_cases:54,083 | Parties:178,078
+2026-04-29 18:57:34,268 [INFO] [85.5%] Done:29,900/34,958 | Valid:9,159 | Sealed:747 | Errors:19994 | DB_cases:54,168 | Parties:178,388
+2026-04-29 18:59:35,755 [INFO] [85.8%] Done:30,000/34,958 | Valid:9,253 | Sealed:753 | Errors:19994 | DB_cases:54,262 | Parties:178,836
+2026-04-29 19:01:39,558 [INFO] [86.1%] Done:30,100/34,958 | Valid:9,349 | Sealed:757 | Errors:19994 | DB_cases:54,358 | Parties:179,192
+2026-04-29 19:03:33,979 [INFO] [86.4%] Done:30,200/34,958 | Valid:9,433 | Sealed:773 | Errors:19994 | DB_cases:54,442 | Parties:179,523
+2026-04-29 19:05:33,622 [INFO] [86.7%] Done:30,300/34,958 | Valid:9,528 | Sealed:778 | Errors:19994 | DB_cases:54,537 | Parties:179,859
+2026-04-29 19:07:32,627 [INFO] [87.0%] Done:30,400/34,958 | Valid:9,619 | Sealed:787 | Errors:19994 | DB_cases:54,628 | Parties:180,167
+2026-04-29 19:09:29,233 [INFO] [87.2%] Done:30,500/34,958 | Valid:9,707 | Sealed:799 | Errors:19994 | DB_cases:54,716 | Parties:180,500
+2026-04-29 19:11:26,702 [INFO] [87.5%] Done:30,600/34,958 | Valid:9,796 | Sealed:810 | Errors:19994 | DB_cases:54,805 | Parties:180,802
+2026-04-29 19:13:20,682 [INFO] [87.8%] Done:30,700/34,958 | Valid:9,884 | Sealed:822 | Errors:19994 | DB_cases:54,893 | Parties:181,103
+2026-04-29 19:15:22,290 [INFO] [88.1%] Done:30,800/34,958 | Valid:9,971 | Sealed:830 | Errors:19999 | DB_cases:54,980 | Parties:181,430
+2026-04-29 19:17:24,228 [INFO] [88.4%] Done:30,900/34,958 | Valid:10,062 | Sealed:839 | Errors:19999 | DB_cases:55,071 | Parties:181,749
+2026-04-29 19:19:21,069 [INFO] [88.7%] Done:31,000/34,958 | Valid:10,154 | Sealed:847 | Errors:19999 | DB_cases:55,163 | Parties:182,049
+2026-04-29 19:21:21,242 [INFO] [89.0%] Done:31,100/34,958 | Valid:10,249 | Sealed:852 | Errors:19999 | DB_cases:55,258 | Parties:182,427
+2026-04-29 19:23:24,621 [INFO] [89.2%] Done:31,200/34,958 | Valid:10,345 | Sealed:856 | Errors:19999 | DB_cases:55,354 | Parties:182,802
+2026-04-29 19:25:22,221 [INFO] [89.5%] Done:31,300/34,958 | Valid:10,436 | Sealed:865 | Errors:19999 | DB_cases:55,445 | Parties:183,172
+2026-04-29 19:27:18,399 [INFO] [89.8%] Done:31,400/34,958 | Valid:10,525 | Sealed:876 | Errors:19999 | DB_cases:55,534 | Parties:183,509
+2026-04-29 19:29:13,084 [INFO] [90.1%] Done:31,500/34,958 | Valid:10,617 | Sealed:884 | Errors:19999 | DB_cases:55,626 | Parties:183,997
+2026-04-29 19:31:16,173 [INFO] [90.4%] Done:31,600/34,958 | Valid:10,711 | Sealed:890 | Errors:19999 | DB_cases:55,720 | Parties:184,295
+2026-04-29 19:33:05,702 [INFO] [90.7%] Done:31,700/34,958 | Valid:10,794 | Sealed:907 | Errors:19999 | DB_cases:55,803 | Parties:184,625
+2026-04-29 19:35:02,961 [INFO] [91.0%] Done:31,800/34,958 | Valid:10,885 | Sealed:916 | Errors:19999 | DB_cases:55,894 | Parties:184,997
+2026-04-29 19:36:57,243 [INFO] [91.3%] Done:31,900/34,958 | Valid:10,980 | Sealed:921 | Errors:19999 | DB_cases:55,989 | Parties:185,384
+2026-04-29 19:38:54,658 [INFO] [91.5%] Done:32,000/34,958 | Valid:11,072 | Sealed:929 | Errors:19999 | DB_cases:56,081 | Parties:185,743
+2026-04-29 19:40:51,140 [INFO] [91.8%] Done:32,100/34,958 | Valid:11,163 | Sealed:938 | Errors:19999 | DB_cases:56,172 | Parties:186,086
+2026-04-29 19:42:44,244 [INFO] [92.1%] Done:32,200/34,958 | Valid:11,253 | Sealed:947 | Errors:20000 | DB_cases:56,262 | Parties:186,391
+2026-04-29 19:44:40,669 [INFO] [92.4%] Done:32,300/34,958 | Valid:11,345 | Sealed:955 | Errors:20000 | DB_cases:56,354 | Parties:186,714
+2026-04-29 19:46:35,978 [INFO] [92.7%] Done:32,400/34,958 | Valid:11,437 | Sealed:962 | Errors:20001 | DB_cases:56,446 | Parties:187,033
+2026-04-29 19:48:29,540 [INFO] [93.0%] Done:32,500/34,958 | Valid:11,527 | Sealed:972 | Errors:20001 | DB_cases:56,536 | Parties:187,367
+2026-04-29 19:50:06,324 [INFO] [93.3%] Done:32,600/34,958 | Valid:11,563 | Sealed:978 | Errors:20059 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:51:39,512 [INFO] [93.5%] Done:32,700/34,958 | Valid:11,563 | Sealed:978 | Errors:20159 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:53:06,815 [INFO] [93.8%] Done:32,800/34,958 | Valid:11,563 | Sealed:978 | Errors:20259 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:54:36,651 [INFO] [94.1%] Done:32,900/34,958 | Valid:11,563 | Sealed:978 | Errors:20359 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:56:03,333 [INFO] [94.4%] Done:33,000/34,958 | Valid:11,563 | Sealed:978 | Errors:20459 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:57:32,436 [INFO] [94.7%] Done:33,100/34,958 | Valid:11,563 | Sealed:978 | Errors:20559 | DB_cases:56,572 | Parties:187,525
+2026-04-29 19:59:02,369 [INFO] [95.0%] Done:33,200/34,958 | Valid:11,563 | Sealed:978 | Errors:20659 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:00:31,936 [INFO] [95.3%] Done:33,300/34,958 | Valid:11,563 | Sealed:978 | Errors:20759 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:02:01,352 [INFO] [95.5%] Done:33,400/34,958 | Valid:11,563 | Sealed:978 | Errors:20859 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:03:28,897 [INFO] [95.8%] Done:33,500/34,958 | Valid:11,563 | Sealed:978 | Errors:20959 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:04:57,357 [INFO] [96.1%] Done:33,600/34,958 | Valid:11,563 | Sealed:978 | Errors:21059 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:06:27,932 [INFO] [96.4%] Done:33,700/34,958 | Valid:11,563 | Sealed:978 | Errors:21159 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:07:54,758 [INFO] [96.7%] Done:33,800/34,958 | Valid:11,563 | Sealed:978 | Errors:21259 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:09:26,899 [INFO] [97.0%] Done:33,900/34,958 | Valid:11,563 | Sealed:978 | Errors:21359 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:10:57,951 [INFO] [97.3%] Done:34,000/34,958 | Valid:11,563 | Sealed:978 | Errors:21459 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:12:27,190 [INFO] [97.5%] Done:34,100/34,958 | Valid:11,563 | Sealed:978 | Errors:21559 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:13:56,804 [INFO] [97.8%] Done:34,200/34,958 | Valid:11,563 | Sealed:978 | Errors:21659 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:15:27,662 [INFO] [98.1%] Done:34,300/34,958 | Valid:11,563 | Sealed:978 | Errors:21759 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:16:54,069 [INFO] [98.4%] Done:34,400/34,958 | Valid:11,563 | Sealed:978 | Errors:21859 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:18:23,617 [INFO] [98.7%] Done:34,500/34,958 | Valid:11,563 | Sealed:978 | Errors:21959 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:19:51,449 [INFO] [99.0%] Done:34,600/34,958 | Valid:11,563 | Sealed:978 | Errors:22059 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:21:19,768 [INFO] [99.3%] Done:34,700/34,958 | Valid:11,563 | Sealed:978 | Errors:22159 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:22:48,051 [INFO] [99.5%] Done:34,800/34,958 | Valid:11,563 | Sealed:978 | Errors:22259 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:24:16,219 [INFO] [99.8%] Done:34,900/34,958 | Valid:11,563 | Sealed:978 | Errors:22359 | DB_cases:56,572 | Parties:187,525
+2026-04-29 20:25:08,617 [INFO] ============================================================
+2026-04-29 20:25:08,627 [INFO] DONE. Valid:11,563 | Sealed:978 | Errors:22417
+2026-04-29 20:25:08,630 [INFO] DB: 56,572 cases | 187,525 party rows
+2026-04-29 20:25:08,633 [INFO] Next: python phase3_build_excel.py
+2026-04-30 01:39:01,224 [INFO] ============================================================
+2026-04-30 01:39:01,265 [INFO] COMBINED SCRAPER v3 — CRN 94,055 to 96,470
+2026-04-30 01:39:01,265 [INFO] Range: 2,416 | Workers: 5 | ETA: 0.2h
+2026-04-30 01:39:01,266 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-30 01:39:01,266 [INFO] ============================================================
+2026-04-30 01:40:35,840 [WARNING] CRN 94058: max_retries
+2026-04-30 01:40:35,840 [WARNING] CRN 94056: max_retries
+2026-04-30 01:40:36,574 [WARNING] CRN 94057: max_retries
+2026-04-30 01:40:36,682 [WARNING] CRN 94055: max_retries
+2026-04-30 01:40:36,853 [WARNING] CRN 94059: max_retries
+2026-04-30 01:42:10,377 [WARNING] CRN 94061: max_retries
+2026-04-30 01:42:10,578 [WARNING] CRN 94060: max_retries
+2026-04-30 01:42:11,652 [WARNING] CRN 94064: max_retries
+2026-04-30 01:42:11,684 [WARNING] CRN 94063: max_retries
+2026-04-30 01:42:11,981 [WARNING] CRN 94062: max_retries
+2026-04-30 01:42:54,789 [INFO] ============================================================
+2026-04-30 01:42:54,789 [INFO] COMBINED SCRAPER v3 — CRN 94,074 to 96,470
+2026-04-30 01:42:54,790 [INFO] Range: 2,397 | Workers: 5 | ETA: 0.2h
+2026-04-30 01:42:54,790 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-30 01:42:54,791 [INFO] ============================================================
+2026-04-30 01:44:10,542 [INFO] [4.2%] Done:100/2,397 | Valid:0 | Sealed:100 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:45:26,211 [INFO] [8.3%] Done:200/2,397 | Valid:0 | Sealed:200 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:46:41,754 [INFO] [12.5%] Done:300/2,397 | Valid:0 | Sealed:300 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:47:56,418 [INFO] [16.7%] Done:400/2,397 | Valid:0 | Sealed:400 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:49:10,543 [INFO] [20.9%] Done:500/2,397 | Valid:0 | Sealed:500 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:50:25,423 [INFO] [25.0%] Done:600/2,397 | Valid:0 | Sealed:600 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:51:40,601 [INFO] [29.2%] Done:700/2,397 | Valid:0 | Sealed:700 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:52:58,555 [INFO] [33.4%] Done:800/2,397 | Valid:0 | Sealed:800 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:54:12,227 [INFO] [37.5%] Done:900/2,397 | Valid:0 | Sealed:900 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:55:28,259 [INFO] [41.7%] Done:1,000/2,397 | Valid:0 | Sealed:1,000 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:56:41,893 [INFO] [45.9%] Done:1,100/2,397 | Valid:0 | Sealed:1,100 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:57:56,097 [INFO] [50.1%] Done:1,200/2,397 | Valid:0 | Sealed:1,200 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 01:59:10,790 [INFO] [54.2%] Done:1,300/2,397 | Valid:0 | Sealed:1,300 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:00:24,206 [INFO] [58.4%] Done:1,400/2,397 | Valid:0 | Sealed:1,400 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:01:37,868 [INFO] [62.6%] Done:1,500/2,397 | Valid:0 | Sealed:1,500 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:02:52,705 [INFO] [66.8%] Done:1,600/2,397 | Valid:0 | Sealed:1,600 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:04:07,614 [INFO] [70.9%] Done:1,700/2,397 | Valid:0 | Sealed:1,700 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:05:22,489 [INFO] [75.1%] Done:1,800/2,397 | Valid:0 | Sealed:1,800 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:06:39,234 [INFO] [79.3%] Done:1,900/2,397 | Valid:0 | Sealed:1,900 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:07:53,742 [INFO] [83.4%] Done:2,000/2,397 | Valid:0 | Sealed:2,000 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:09:09,199 [INFO] [87.6%] Done:2,100/2,397 | Valid:0 | Sealed:2,100 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:10:25,361 [INFO] [91.8%] Done:2,200/2,397 | Valid:0 | Sealed:2,200 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:11:40,485 [INFO] [96.0%] Done:2,300/2,397 | Valid:0 | Sealed:2,300 | Errors:0 | DB_cases:56,572 | Parties:187,525
+2026-04-30 02:12:55,138 [INFO] ============================================================
+2026-04-30 02:12:55,138 [INFO] DONE. Valid:0 | Sealed:2,397 | Errors:0
+2026-04-30 02:12:55,140 [INFO] DB: 56,572 cases | 187,525 party rows
+2026-04-30 02:12:55,141 [INFO] Next: python phase3_build_excel.py
+2026-04-30 18:51:11,897 [INFO] ============================================================
+2026-04-30 18:51:11,919 [INFO] COMBINED SCRAPER v3 — CRN 96,471 to 96,470
+2026-04-30 18:51:11,920 [INFO] Range: 0 | Workers: 5 | ETA: 0.0h
+2026-04-30 18:51:11,920 [INFO] Ctrl+C anytime — auto-resume dari CRN terakhir
+2026-04-30 18:51:11,920 [INFO] ============================================================
+2026-04-30 18:51:11,959 [INFO] ============================================================
+2026-04-30 18:51:11,960 [INFO] DONE. Valid:0 | Sealed:0 | Errors:0
+2026-04-30 18:51:11,960 [INFO] DB: 0 cases | 187,590 party rows
+2026-04-30 18:51:11,961 [INFO] Next: python phase3_build_excel.py
+2026-04-30 18:55:31,007 [INFO] ============================================================
+2026-04-30 18:55:31,008 [INFO] RE-SCRAPE MODE — 56,598 pending CRNs in DB
+2026-04-30 18:55:31,008 [INFO] Workers: 5 | ETA: 5.3h
+2026-04-30 18:55:31,008 [INFO] Ctrl+C anytime — auto-resume
+2026-04-30 18:55:31,008 [INFO] ============================================================
+2026-04-30 18:57:27,258 [INFO] [0.2%] Done:100/56,598 | Valid:100 | Sealed:0 | Errors:0 | DB_cases:100 | Parties:187,590
+2026-04-30 18:59:29,612 [INFO] [0.4%] Done:200/56,598 | Valid:200 | Sealed:0 | Errors:0 | DB_cases:200 | Parties:187,590
+2026-04-30 19:01:40,964 [INFO] [0.5%] Done:300/56,598 | Valid:300 | Sealed:0 | Errors:0 | DB_cases:300 | Parties:187,590
+2026-04-30 19:03:46,290 [INFO] [0.7%] Done:400/56,598 | Valid:400 | Sealed:0 | Errors:0 | DB_cases:400 | Parties:187,590
+2026-04-30 19:05:49,779 [INFO] [0.9%] Done:500/56,598 | Valid:500 | Sealed:0 | Errors:0 | DB_cases:500 | Parties:187,590
+2026-04-30 19:08:04,933 [INFO] [1.1%] Done:600/56,598 | Valid:600 | Sealed:0 | Errors:0 | DB_cases:600 | Parties:187,590
+2026-04-30 19:10:15,628 [INFO] [1.2%] Done:700/56,598 | Valid:700 | Sealed:0 | Errors:0 | DB_cases:700 | Parties:187,590
+2026-04-30 19:12:18,096 [INFO] [1.4%] Done:800/56,598 | Valid:800 | Sealed:0 | Errors:0 | DB_cases:800 | Parties:187,590
+2026-04-30 19:14:14,080 [INFO] [1.6%] Done:900/56,598 | Valid:900 | Sealed:0 | Errors:0 | DB_cases:900 | Parties:187,590
+2026-04-30 19:16:11,883 [INFO] [1.8%] Done:1,000/56,598 | Valid:1,000 | Sealed:0 | Errors:0 | DB_cases:1,000 | Parties:187,590
+2026-04-30 19:18:13,210 [INFO] [1.9%] Done:1,100/56,598 | Valid:1,100 | Sealed:0 | Errors:0 | DB_cases:1,100 | Parties:187,590
+2026-04-30 19:20:37,783 [INFO] [2.1%] Done:1,200/56,598 | Valid:1,200 | Sealed:0 | Errors:0 | DB_cases:1,200 | Parties:187,590
+2026-04-30 19:22:40,877 [INFO] [2.3%] Done:1,300/56,598 | Valid:1,300 | Sealed:0 | Errors:0 | DB_cases:1,300 | Parties:187,590
+2026-04-30 19:24:38,222 [INFO] [2.5%] Done:1,400/56,598 | Valid:1,400 | Sealed:0 | Errors:0 | DB_cases:1,400 | Parties:187,590
+2026-04-30 19:26:45,336 [INFO] [2.7%] Done:1,500/56,598 | Valid:1,500 | Sealed:0 | Errors:0 | DB_cases:1,500 | Parties:187,590
+2026-04-30 19:28:48,814 [INFO] [2.8%] Done:1,600/56,598 | Valid:1,600 | Sealed:0 | Errors:0 | DB_cases:1,600 | Parties:187,590
+2026-04-30 19:30:55,687 [INFO] [3.0%] Done:1,700/56,598 | Valid:1,700 | Sealed:0 | Errors:0 | DB_cases:1,700 | Parties:187,590
+2026-04-30 19:33:04,724 [INFO] [3.2%] Done:1,800/56,598 | Valid:1,800 | Sealed:0 | Errors:0 | DB_cases:1,800 | Parties:187,590
+2026-04-30 19:35:15,241 [INFO] [3.4%] Done:1,900/56,598 | Valid:1,900 | Sealed:0 | Errors:0 | DB_cases:1,900 | Parties:187,590
+2026-04-30 19:37:23,734 [INFO] [3.5%] Done:2,000/56,598 | Valid:2,000 | Sealed:0 | Errors:0 | DB_cases:2,000 | Parties:187,590
+2026-04-30 19:39:25,522 [INFO] [3.7%] Done:2,100/56,598 | Valid:2,100 | Sealed:0 | Errors:0 | DB_cases:2,100 | Parties:187,590
+2026-04-30 19:41:35,541 [INFO] [3.9%] Done:2,200/56,598 | Valid:2,200 | Sealed:0 | Errors:0 | DB_cases:2,200 | Parties:187,590
+2026-04-30 19:43:38,768 [INFO] [4.1%] Done:2,300/56,598 | Valid:2,300 | Sealed:0 | Errors:0 | DB_cases:2,300 | Parties:187,590
+2026-04-30 19:45:46,009 [INFO] [4.2%] Done:2,400/56,598 | Valid:2,400 | Sealed:0 | Errors:0 | DB_cases:2,400 | Parties:187,590
+2026-04-30 19:47:46,578 [INFO] [4.4%] Done:2,500/56,598 | Valid:2,500 | Sealed:0 | Errors:0 | DB_cases:2,500 | Parties:187,590
+2026-04-30 19:49:55,635 [INFO] [4.6%] Done:2,600/56,598 | Valid:2,600 | Sealed:0 | Errors:0 | DB_cases:2,600 | Parties:187,590
+2026-04-30 19:51:58,419 [INFO] [4.8%] Done:2,700/56,598 | Valid:2,700 | Sealed:0 | Errors:0 | DB_cases:2,700 | Parties:187,590
+2026-04-30 19:53:58,318 [INFO] [4.9%] Done:2,800/56,598 | Valid:2,800 | Sealed:0 | Errors:0 | DB_cases:2,800 | Parties:187,590
+2026-04-30 19:56:01,905 [INFO] [5.1%] Done:2,900/56,598 | Valid:2,900 | Sealed:0 | Errors:0 | DB_cases:2,900 | Parties:187,590
+2026-04-30 19:58:03,365 [INFO] [5.3%] Done:3,000/56,598 | Valid:3,000 | Sealed:0 | Errors:0 | DB_cases:3,000 | Parties:187,590
+2026-04-30 20:00:09,486 [INFO] [5.5%] Done:3,100/56,598 | Valid:3,100 | Sealed:0 | Errors:0 | DB_cases:3,100 | Parties:187,590
+2026-04-30 20:02:13,224 [INFO] [5.7%] Done:3,200/56,598 | Valid:3,200 | Sealed:0 | Errors:0 | DB_cases:3,200 | Parties:187,590
+2026-04-30 20:04:18,582 [INFO] [5.8%] Done:3,300/56,598 | Valid:3,300 | Sealed:0 | Errors:0 | DB_cases:3,300 | Parties:187,590
+2026-04-30 20:06:15,908 [INFO] [6.0%] Done:3,400/56,598 | Valid:3,400 | Sealed:0 | Errors:0 | DB_cases:3,400 | Parties:187,590
+2026-04-30 20:08:16,342 [INFO] [6.2%] Done:3,500/56,598 | Valid:3,500 | Sealed:0 | Errors:0 | DB_cases:3,500 | Parties:187,590
+2026-04-30 20:10:16,845 [INFO] [6.4%] Done:3,600/56,598 | Valid:3,600 | Sealed:0 | Errors:0 | DB_cases:3,600 | Parties:187,590
+2026-04-30 20:12:16,754 [INFO] [6.5%] Done:3,700/56,598 | Valid:3,700 | Sealed:0 | Errors:0 | DB_cases:3,700 | Parties:187,590
+2026-04-30 20:14:26,221 [INFO] [6.7%] Done:3,800/56,598 | Valid:3,800 | Sealed:0 | Errors:0 | DB_cases:3,800 | Parties:187,590
+2026-04-30 20:16:37,358 [INFO] [6.9%] Done:3,900/56,598 | Valid:3,900 | Sealed:0 | Errors:0 | DB_cases:3,900 | Parties:187,590
+2026-04-30 20:18:42,730 [INFO] [7.1%] Done:4,000/56,598 | Valid:4,000 | Sealed:0 | Errors:0 | DB_cases:4,000 | Parties:187,590
+2026-04-30 20:20:49,490 [INFO] [7.2%] Done:4,100/56,598 | Valid:4,100 | Sealed:0 | Errors:0 | DB_cases:4,100 | Parties:187,590
+2026-04-30 20:22:56,207 [INFO] [7.4%] Done:4,200/56,598 | Valid:4,200 | Sealed:0 | Errors:0 | DB_cases:4,200 | Parties:187,590
+2026-04-30 20:25:13,050 [INFO] [7.6%] Done:4,300/56,598 | Valid:4,300 | Sealed:0 | Errors:0 | DB_cases:4,300 | Parties:187,590
+2026-04-30 20:27:25,424 [INFO] [7.8%] Done:4,400/56,598 | Valid:4,400 | Sealed:0 | Errors:0 | DB_cases:4,400 | Parties:187,590
+2026-04-30 20:29:28,047 [INFO] [8.0%] Done:4,500/56,598 | Valid:4,500 | Sealed:0 | Errors:0 | DB_cases:4,500 | Parties:187,590
+2026-04-30 20:31:51,227 [INFO] [8.1%] Done:4,600/56,598 | Valid:4,600 | Sealed:0 | Errors:0 | DB_cases:4,600 | Parties:187,590
+2026-04-30 20:33:56,107 [INFO] [8.3%] Done:4,700/56,598 | Valid:4,700 | Sealed:0 | Errors:0 | DB_cases:4,700 | Parties:187,590
+2026-04-30 20:35:58,463 [INFO] [8.5%] Done:4,800/56,598 | Valid:4,800 | Sealed:0 | Errors:0 | DB_cases:4,800 | Parties:187,590
+2026-04-30 20:37:59,265 [INFO] [8.7%] Done:4,900/56,598 | Valid:4,900 | Sealed:0 | Errors:0 | DB_cases:4,900 | Parties:187,590
+2026-04-30 20:39:57,374 [INFO] [8.8%] Done:5,000/56,598 | Valid:5,000 | Sealed:0 | Errors:0 | DB_cases:5,000 | Parties:187,590
+2026-04-30 20:42:00,196 [INFO] [9.0%] Done:5,100/56,598 | Valid:5,100 | Sealed:0 | Errors:0 | DB_cases:5,100 | Parties:187,590
+2026-04-30 20:44:00,113 [INFO] [9.2%] Done:5,200/56,598 | Valid:5,200 | Sealed:0 | Errors:0 | DB_cases:5,200 | Parties:187,590
+2026-04-30 20:46:07,403 [INFO] [9.4%] Done:5,300/56,598 | Valid:5,300 | Sealed:0 | Errors:0 | DB_cases:5,300 | Parties:187,590
+2026-04-30 20:48:17,891 [INFO] [9.5%] Done:5,400/56,598 | Valid:5,400 | Sealed:0 | Errors:0 | DB_cases:5,400 | Parties:187,590
+2026-04-30 20:50:35,396 [INFO] [9.7%] Done:5,500/56,598 | Valid:5,500 | Sealed:0 | Errors:0 | DB_cases:5,500 | Parties:187,590
+2026-04-30 20:52:54,982 [INFO] [9.9%] Done:5,600/56,598 | Valid:5,600 | Sealed:0 | Errors:0 | DB_cases:5,600 | Parties:187,590
+2026-04-30 20:55:06,337 [INFO] [10.1%] Done:5,700/56,598 | Valid:5,700 | Sealed:0 | Errors:0 | DB_cases:5,700 | Parties:187,590
+2026-04-30 20:57:16,633 [INFO] [10.2%] Done:5,800/56,598 | Valid:5,800 | Sealed:0 | Errors:0 | DB_cases:5,800 | Parties:187,590
+2026-04-30 20:59:34,012 [INFO] [10.4%] Done:5,900/56,598 | Valid:5,900 | Sealed:0 | Errors:0 | DB_cases:5,900 | Parties:187,590
+2026-04-30 21:01:43,091 [INFO] [10.6%] Done:6,000/56,598 | Valid:6,000 | Sealed:0 | Errors:0 | DB_cases:6,000 | Parties:187,590
+2026-04-30 21:03:48,449 [INFO] [10.8%] Done:6,100/56,598 | Valid:6,100 | Sealed:0 | Errors:0 | DB_cases:6,100 | Parties:187,590
+2026-04-30 21:05:58,625 [INFO] [11.0%] Done:6,200/56,598 | Valid:6,200 | Sealed:0 | Errors:0 | DB_cases:6,200 | Parties:187,590
+2026-04-30 21:08:10,502 [INFO] [11.1%] Done:6,300/56,598 | Valid:6,300 | Sealed:0 | Errors:0 | DB_cases:6,300 | Parties:187,590
+2026-04-30 21:10:20,124 [INFO] [11.3%] Done:6,400/56,598 | Valid:6,400 | Sealed:0 | Errors:0 | DB_cases:6,400 | Parties:187,590
+2026-04-30 21:12:34,853 [INFO] [11.5%] Done:6,500/56,598 | Valid:6,500 | Sealed:0 | Errors:0 | DB_cases:6,500 | Parties:187,590
+2026-04-30 21:14:34,237 [INFO] [11.7%] Done:6,600/56,598 | Valid:6,600 | Sealed:0 | Errors:0 | DB_cases:6,600 | Parties:187,590
+2026-04-30 21:16:47,953 [INFO] [11.8%] Done:6,700/56,598 | Valid:6,700 | Sealed:0 | Errors:0 | DB_cases:6,700 | Parties:187,590
+2026-04-30 21:19:07,268 [INFO] [12.0%] Done:6,800/56,598 | Valid:6,800 | Sealed:0 | Errors:0 | DB_cases:6,800 | Parties:187,590
+2026-04-30 21:21:15,454 [INFO] [12.2%] Done:6,900/56,598 | Valid:6,900 | Sealed:0 | Errors:0 | DB_cases:6,900 | Parties:187,590
+2026-04-30 21:23:19,297 [INFO] [12.4%] Done:7,000/56,598 | Valid:7,000 | Sealed:0 | Errors:0 | DB_cases:7,000 | Parties:187,590
+2026-04-30 21:25:18,126 [INFO] [12.5%] Done:7,100/56,598 | Valid:7,100 | Sealed:0 | Errors:0 | DB_cases:7,100 | Parties:187,590
+2026-04-30 21:27:29,616 [INFO] [12.7%] Done:7,200/56,598 | Valid:7,200 | Sealed:0 | Errors:0 | DB_cases:7,200 | Parties:187,590
+2026-04-30 21:29:50,755 [INFO] [12.9%] Done:7,300/56,598 | Valid:7,300 | Sealed:0 | Errors:0 | DB_cases:7,300 | Parties:187,590
+2026-04-30 21:32:03,273 [INFO] [13.1%] Done:7,400/56,598 | Valid:7,400 | Sealed:0 | Errors:0 | DB_cases:7,400 | Parties:187,590
+2026-04-30 21:34:04,015 [INFO] [13.3%] Done:7,500/56,598 | Valid:7,500 | Sealed:0 | Errors:0 | DB_cases:7,500 | Parties:187,590
+2026-04-30 21:36:13,825 [INFO] [13.4%] Done:7,600/56,598 | Valid:7,600 | Sealed:0 | Errors:0 | DB_cases:7,600 | Parties:187,590
+2026-04-30 21:38:21,970 [INFO] [13.6%] Done:7,700/56,598 | Valid:7,700 | Sealed:0 | Errors:0 | DB_cases:7,700 | Parties:187,590
+2026-04-30 21:40:33,711 [INFO] [13.8%] Done:7,800/56,598 | Valid:7,800 | Sealed:0 | Errors:0 | DB_cases:7,800 | Parties:187,590
+2026-04-30 21:42:45,937 [INFO] [14.0%] Done:7,900/56,598 | Valid:7,900 | Sealed:0 | Errors:0 | DB_cases:7,900 | Parties:187,590
+2026-04-30 21:44:57,386 [INFO] [14.1%] Done:8,000/56,598 | Valid:8,000 | Sealed:0 | Errors:0 | DB_cases:8,000 | Parties:187,590
+2026-04-30 21:47:07,720 [INFO] [14.3%] Done:8,100/56,598 | Valid:8,100 | Sealed:0 | Errors:0 | DB_cases:8,100 | Parties:187,590
+2026-04-30 21:49:34,675 [INFO] [14.5%] Done:8,200/56,598 | Valid:8,200 | Sealed:0 | Errors:0 | DB_cases:8,200 | Parties:187,590
+2026-04-30 21:51:45,781 [INFO] [14.7%] Done:8,300/56,598 | Valid:8,300 | Sealed:0 | Errors:0 | DB_cases:8,300 | Parties:187,590
+2026-04-30 21:54:00,878 [INFO] [14.8%] Done:8,400/56,598 | Valid:8,400 | Sealed:0 | Errors:0 | DB_cases:8,400 | Parties:187,590
+2026-04-30 21:56:24,324 [INFO] [15.0%] Done:8,500/56,598 | Valid:8,500 | Sealed:0 | Errors:0 | DB_cases:8,500 | Parties:187,590
+2026-04-30 21:58:52,975 [INFO] [15.2%] Done:8,600/56,598 | Valid:8,600 | Sealed:0 | Errors:0 | DB_cases:8,600 | Parties:187,590
+2026-04-30 22:01:30,314 [INFO] [15.4%] Done:8,700/56,598 | Valid:8,700 | Sealed:0 | Errors:0 | DB_cases:8,700 | Parties:187,590
+2026-04-30 22:03:53,124 [INFO] [15.5%] Done:8,800/56,598 | Valid:8,800 | Sealed:0 | Errors:0 | DB_cases:8,800 | Parties:187,590
+2026-04-30 22:06:02,806 [INFO] [15.7%] Done:8,900/56,598 | Valid:8,900 | Sealed:0 | Errors:0 | DB_cases:8,900 | Parties:187,590
+2026-04-30 22:08:14,183 [INFO] [15.9%] Done:9,000/56,598 | Valid:9,000 | Sealed:0 | Errors:0 | DB_cases:9,000 | Parties:187,590
+2026-04-30 22:10:35,213 [INFO] [16.1%] Done:9,100/56,598 | Valid:9,100 | Sealed:0 | Errors:0 | DB_cases:9,100 | Parties:187,590
+2026-04-30 22:12:57,256 [INFO] [16.3%] Done:9,200/56,598 | Valid:9,200 | Sealed:0 | Errors:0 | DB_cases:9,200 | Parties:187,590
+2026-04-30 22:15:13,197 [INFO] [16.4%] Done:9,300/56,598 | Valid:9,300 | Sealed:0 | Errors:0 | DB_cases:9,300 | Parties:187,590
+2026-04-30 22:17:30,034 [INFO] [16.6%] Done:9,400/56,598 | Valid:9,400 | Sealed:0 | Errors:0 | DB_cases:9,400 | Parties:187,590
+2026-04-30 22:19:55,318 [INFO] [16.8%] Done:9,500/56,598 | Valid:9,500 | Sealed:0 | Errors:0 | DB_cases:9,500 | Parties:187,590
+2026-04-30 22:22:08,536 [INFO] [17.0%] Done:9,600/56,598 | Valid:9,600 | Sealed:0 | Errors:0 | DB_cases:9,600 | Parties:187,590
+2026-04-30 22:24:36,178 [INFO] [17.1%] Done:9,700/56,598 | Valid:9,700 | Sealed:0 | Errors:0 | DB_cases:9,700 | Parties:187,590
+2026-04-30 22:27:07,850 [INFO] [17.3%] Done:9,800/56,598 | Valid:9,800 | Sealed:0 | Errors:0 | DB_cases:9,800 | Parties:187,590
+2026-04-30 22:30:26,573 [INFO] [17.5%] Done:9,900/56,598 | Valid:9,900 | Sealed:0 | Errors:0 | DB_cases:9,900 | Parties:187,590
+2026-04-30 22:32:57,515 [INFO] [17.7%] Done:10,000/56,598 | Valid:10,000 | Sealed:0 | Errors:0 | DB_cases:10,000 | Parties:187,590
+2026-04-30 22:35:16,565 [INFO] [17.8%] Done:10,100/56,598 | Valid:10,100 | Sealed:0 | Errors:0 | DB_cases:10,100 | Parties:187,590
+2026-04-30 22:37:37,886 [INFO] [18.0%] Done:10,200/56,598 | Valid:10,200 | Sealed:0 | Errors:0 | DB_cases:10,200 | Parties:187,590
+2026-04-30 22:39:55,479 [INFO] [18.2%] Done:10,300/56,598 | Valid:10,300 | Sealed:0 | Errors:0 | DB_cases:10,300 | Parties:187,590
+2026-04-30 22:42:14,599 [INFO] [18.4%] Done:10,400/56,598 | Valid:10,400 | Sealed:0 | Errors:0 | DB_cases:10,400 | Parties:187,590
+2026-04-30 22:44:36,817 [INFO] [18.6%] Done:10,500/56,598 | Valid:10,500 | Sealed:0 | Errors:0 | DB_cases:10,500 | Parties:187,590
+2026-04-30 22:47:05,102 [INFO] [18.7%] Done:10,600/56,598 | Valid:10,600 | Sealed:0 | Errors:0 | DB_cases:10,600 | Parties:187,590
+2026-04-30 22:49:53,582 [INFO] [18.9%] Done:10,700/56,598 | Valid:10,700 | Sealed:0 | Errors:0 | DB_cases:10,700 | Parties:187,590
+2026-04-30 22:52:40,004 [INFO] [19.1%] Done:10,800/56,598 | Valid:10,800 | Sealed:0 | Errors:0 | DB_cases:10,800 | Parties:187,598
+2026-04-30 22:55:17,505 [INFO] [19.3%] Done:10,900/56,598 | Valid:10,900 | Sealed:0 | Errors:0 | DB_cases:10,900 | Parties:187,598
+2026-04-30 22:57:38,759 [INFO] [19.4%] Done:11,000/56,598 | Valid:11,000 | Sealed:0 | Errors:0 | DB_cases:11,000 | Parties:187,598
+2026-04-30 23:00:12,943 [INFO] [19.6%] Done:11,100/56,598 | Valid:11,100 | Sealed:0 | Errors:0 | DB_cases:11,100 | Parties:187,598
+2026-04-30 23:02:42,533 [INFO] [19.8%] Done:11,200/56,598 | Valid:11,200 | Sealed:0 | Errors:0 | DB_cases:11,200 | Parties:187,598
+2026-04-30 23:05:19,179 [INFO] [20.0%] Done:11,300/56,598 | Valid:11,300 | Sealed:0 | Errors:0 | DB_cases:11,300 | Parties:187,598
+2026-04-30 23:07:45,734 [INFO] [20.1%] Done:11,400/56,598 | Valid:11,400 | Sealed:0 | Errors:0 | DB_cases:11,400 | Parties:187,598
+2026-04-30 23:10:13,563 [INFO] [20.3%] Done:11,500/56,598 | Valid:11,500 | Sealed:0 | Errors:0 | DB_cases:11,500 | Parties:187,598
+2026-04-30 23:12:28,875 [INFO] [20.5%] Done:11,600/56,598 | Valid:11,600 | Sealed:0 | Errors:0 | DB_cases:11,600 | Parties:187,598
+2026-04-30 23:14:56,096 [INFO] [20.7%] Done:11,700/56,598 | Valid:11,700 | Sealed:0 | Errors:0 | DB_cases:11,700 | Parties:187,598
+2026-04-30 23:17:35,194 [INFO] [20.8%] Done:11,800/56,598 | Valid:11,800 | Sealed:0 | Errors:0 | DB_cases:11,800 | Parties:187,598
+2026-04-30 23:19:49,223 [INFO] [21.0%] Done:11,900/56,598 | Valid:11,900 | Sealed:0 | Errors:0 | DB_cases:11,900 | Parties:187,598
+2026-04-30 23:22:10,732 [INFO] [21.2%] Done:12,000/56,598 | Valid:12,000 | Sealed:0 | Errors:0 | DB_cases:12,000 | Parties:187,598
+2026-04-30 23:24:25,272 [INFO] [21.4%] Done:12,100/56,598 | Valid:12,100 | Sealed:0 | Errors:0 | DB_cases:12,100 | Parties:187,598
+2026-04-30 23:26:46,931 [INFO] [21.6%] Done:12,200/56,598 | Valid:12,200 | Sealed:0 | Errors:0 | DB_cases:12,200 | Parties:187,598
+2026-04-30 23:29:46,978 [INFO] [21.7%] Done:12,300/56,598 | Valid:12,300 | Sealed:0 | Errors:0 | DB_cases:12,300 | Parties:187,598
+2026-04-30 23:32:43,662 [INFO] [21.9%] Done:12,400/56,598 | Valid:12,400 | Sealed:0 | Errors:0 | DB_cases:12,400 | Parties:187,598
+2026-04-30 23:35:21,078 [INFO] [22.1%] Done:12,500/56,598 | Valid:12,500 | Sealed:0 | Errors:0 | DB_cases:12,500 | Parties:187,598
+2026-04-30 23:37:50,306 [INFO] [22.3%] Done:12,600/56,598 | Valid:12,600 | Sealed:0 | Errors:0 | DB_cases:12,600 | Parties:187,598
+2026-04-30 23:40:21,008 [INFO] [22.4%] Done:12,700/56,598 | Valid:12,700 | Sealed:0 | Errors:0 | DB_cases:12,700 | Parties:187,598
+2026-04-30 23:42:49,833 [INFO] [22.6%] Done:12,800/56,598 | Valid:12,800 | Sealed:0 | Errors:0 | DB_cases:12,800 | Parties:187,598
+2026-04-30 23:45:15,252 [INFO] [22.8%] Done:12,900/56,598 | Valid:12,900 | Sealed:0 | Errors:0 | DB_cases:12,900 | Parties:187,598
+2026-04-30 23:47:44,504 [INFO] [23.0%] Done:13,000/56,598 | Valid:13,000 | Sealed:0 | Errors:0 | DB_cases:13,000 | Parties:187,598
+2026-04-30 23:49:56,775 [INFO] [23.1%] Done:13,100/56,598 | Valid:13,100 | Sealed:0 | Errors:0 | DB_cases:13,100 | Parties:187,598
+2026-04-30 23:52:21,650 [INFO] [23.3%] Done:13,200/56,598 | Valid:13,200 | Sealed:0 | Errors:0 | DB_cases:13,200 | Parties:187,598
+2026-04-30 23:54:44,608 [INFO] [23.5%] Done:13,300/56,598 | Valid:13,300 | Sealed:0 | Errors:0 | DB_cases:13,300 | Parties:187,598
+2026-04-30 23:56:59,427 [INFO] [23.7%] Done:13,400/56,598 | Valid:13,400 | Sealed:0 | Errors:0 | DB_cases:13,400 | Parties:187,598
+2026-04-30 23:59:21,594 [INFO] [23.9%] Done:13,500/56,598 | Valid:13,500 | Sealed:0 | Errors:0 | DB_cases:13,500 | Parties:187,598
+2026-05-01 00:01:47,164 [INFO] [24.0%] Done:13,600/56,598 | Valid:13,600 | Sealed:0 | Errors:0 | DB_cases:13,600 | Parties:187,598
+2026-05-01 00:04:16,138 [INFO] [24.2%] Done:13,700/56,598 | Valid:13,700 | Sealed:0 | Errors:0 | DB_cases:13,700 | Parties:187,598
+2026-05-01 00:06:55,686 [INFO] [24.4%] Done:13,800/56,598 | Valid:13,800 | Sealed:0 | Errors:0 | DB_cases:13,800 | Parties:187,598
+2026-05-01 00:09:19,967 [INFO] [24.6%] Done:13,900/56,598 | Valid:13,900 | Sealed:0 | Errors:0 | DB_cases:13,900 | Parties:187,598
+2026-05-01 00:11:37,619 [INFO] [24.7%] Done:14,000/56,598 | Valid:14,000 | Sealed:0 | Errors:0 | DB_cases:14,000 | Parties:187,598
+2026-05-01 00:13:53,359 [INFO] [24.9%] Done:14,100/56,598 | Valid:14,100 | Sealed:0 | Errors:0 | DB_cases:14,100 | Parties:187,598
+2026-05-01 00:16:12,959 [INFO] [25.1%] Done:14,200/56,598 | Valid:14,200 | Sealed:0 | Errors:0 | DB_cases:14,200 | Parties:187,598
+2026-05-01 00:18:46,218 [INFO] [25.3%] Done:14,300/56,598 | Valid:14,300 | Sealed:0 | Errors:0 | DB_cases:14,300 | Parties:187,598
+2026-05-01 00:21:19,714 [INFO] [25.4%] Done:14,400/56,598 | Valid:14,400 | Sealed:0 | Errors:0 | DB_cases:14,400 | Parties:187,598
+2026-05-01 00:23:36,460 [INFO] [25.6%] Done:14,500/56,598 | Valid:14,500 | Sealed:0 | Errors:0 | DB_cases:14,500 | Parties:187,598
+2026-05-01 00:26:03,347 [INFO] [25.8%] Done:14,600/56,598 | Valid:14,600 | Sealed:0 | Errors:0 | DB_cases:14,600 | Parties:187,598
+2026-05-01 00:28:35,309 [INFO] [26.0%] Done:14,700/56,598 | Valid:14,700 | Sealed:0 | Errors:0 | DB_cases:14,700 | Parties:187,598
+2026-05-01 00:31:13,266 [INFO] [26.1%] Done:14,800/56,598 | Valid:14,800 | Sealed:0 | Errors:0 | DB_cases:14,800 | Parties:187,598
+2026-05-01 00:33:53,142 [INFO] [26.3%] Done:14,900/56,598 | Valid:14,900 | Sealed:0 | Errors:0 | DB_cases:14,900 | Parties:187,598
+2026-05-01 00:36:25,273 [INFO] [26.5%] Done:15,000/56,598 | Valid:15,000 | Sealed:0 | Errors:0 | DB_cases:15,000 | Parties:187,598
+2026-05-01 00:39:16,569 [INFO] [26.7%] Done:15,100/56,598 | Valid:15,100 | Sealed:0 | Errors:0 | DB_cases:15,100 | Parties:187,598
+2026-05-01 00:41:58,698 [INFO] [26.9%] Done:15,200/56,598 | Valid:15,200 | Sealed:0 | Errors:0 | DB_cases:15,200 | Parties:187,598
+2026-05-01 00:44:39,117 [INFO] [27.0%] Done:15,300/56,598 | Valid:15,300 | Sealed:0 | Errors:0 | DB_cases:15,300 | Parties:187,598
+2026-05-01 00:47:55,195 [INFO] [27.2%] Done:15,400/56,598 | Valid:15,400 | Sealed:0 | Errors:0 | DB_cases:15,400 | Parties:187,598
+2026-05-01 00:50:22,344 [INFO] [27.4%] Done:15,500/56,598 | Valid:15,500 | Sealed:0 | Errors:0 | DB_cases:15,500 | Parties:187,598
+2026-05-01 00:52:51,234 [INFO] [27.6%] Done:15,600/56,598 | Valid:15,600 | Sealed:0 | Errors:0 | DB_cases:15,600 | Parties:187,598
+2026-05-01 00:55:40,018 [INFO] [27.7%] Done:15,700/56,598 | Valid:15,700 | Sealed:0 | Errors:0 | DB_cases:15,700 | Parties:187,598
+2026-05-01 00:58:34,748 [INFO] [27.9%] Done:15,800/56,598 | Valid:15,800 | Sealed:0 | Errors:0 | DB_cases:15,800 | Parties:187,598
+2026-05-01 01:01:24,454 [INFO] [28.1%] Done:15,900/56,598 | Valid:15,900 | Sealed:0 | Errors:0 | DB_cases:15,900 | Parties:187,598
+2026-05-01 01:04:10,053 [INFO] [28.3%] Done:16,000/56,598 | Valid:16,000 | Sealed:0 | Errors:0 | DB_cases:16,000 | Parties:187,598
+2026-05-01 01:06:39,229 [INFO] [28.4%] Done:16,100/56,598 | Valid:16,100 | Sealed:0 | Errors:0 | DB_cases:16,100 | Parties:187,598
+2026-05-01 01:09:12,165 [INFO] [28.6%] Done:16,200/56,598 | Valid:16,200 | Sealed:0 | Errors:0 | DB_cases:16,200 | Parties:187,598
+2026-05-01 01:11:42,769 [INFO] [28.8%] Done:16,300/56,598 | Valid:16,300 | Sealed:0 | Errors:0 | DB_cases:16,300 | Parties:187,598
+2026-05-01 01:14:34,301 [INFO] [29.0%] Done:16,400/56,598 | Valid:16,400 | Sealed:0 | Errors:0 | DB_cases:16,400 | Parties:187,598
+2026-05-01 01:17:06,653 [INFO] [29.2%] Done:16,500/56,598 | Valid:16,500 | Sealed:0 | Errors:0 | DB_cases:16,500 | Parties:187,598
+2026-05-01 01:19:28,222 [INFO] [29.3%] Done:16,600/56,598 | Valid:16,600 | Sealed:0 | Errors:0 | DB_cases:16,600 | Parties:187,598
+2026-05-01 01:21:44,137 [INFO] [29.5%] Done:16,700/56,598 | Valid:16,700 | Sealed:0 | Errors:0 | DB_cases:16,700 | Parties:187,598
+2026-05-01 01:24:11,585 [INFO] [29.7%] Done:16,800/56,598 | Valid:16,800 | Sealed:0 | Errors:0 | DB_cases:16,800 | Parties:187,598
+2026-05-01 01:26:34,520 [INFO] [29.9%] Done:16,900/56,598 | Valid:16,900 | Sealed:0 | Errors:0 | DB_cases:16,900 | Parties:187,598
+2026-05-01 01:29:32,021 [INFO] [30.0%] Done:17,000/56,598 | Valid:17,000 | Sealed:0 | Errors:0 | DB_cases:17,000 | Parties:187,598
+2026-05-01 01:32:24,806 [INFO] [30.2%] Done:17,100/56,598 | Valid:17,100 | Sealed:0 | Errors:0 | DB_cases:17,100 | Parties:187,598
+2026-05-01 01:34:40,616 [INFO] [30.4%] Done:17,200/56,598 | Valid:17,200 | Sealed:0 | Errors:0 | DB_cases:17,200 | Parties:187,598
+2026-05-01 01:37:02,514 [INFO] [30.6%] Done:17,300/56,598 | Valid:17,300 | Sealed:0 | Errors:0 | DB_cases:17,300 | Parties:187,598
+2026-05-01 01:39:34,838 [INFO] [30.7%] Done:17,400/56,598 | Valid:17,400 | Sealed:0 | Errors:0 | DB_cases:17,400 | Parties:187,598
+2026-05-01 01:42:00,965 [INFO] [30.9%] Done:17,500/56,598 | Valid:17,500 | Sealed:0 | Errors:0 | DB_cases:17,500 | Parties:187,598
+2026-05-01 01:44:22,465 [INFO] [31.1%] Done:17,600/56,598 | Valid:17,600 | Sealed:0 | Errors:0 | DB_cases:17,600 | Parties:187,598
+2026-05-01 01:46:40,111 [INFO] [31.3%] Done:17,700/56,598 | Valid:17,700 | Sealed:0 | Errors:0 | DB_cases:17,700 | Parties:187,598
+2026-05-01 01:48:57,779 [INFO] [31.4%] Done:17,800/56,598 | Valid:17,800 | Sealed:0 | Errors:0 | DB_cases:17,800 | Parties:187,598
+2026-05-01 01:51:18,936 [INFO] [31.6%] Done:17,900/56,598 | Valid:17,900 | Sealed:0 | Errors:0 | DB_cases:17,900 | Parties:187,598
+2026-05-01 01:53:36,933 [INFO] [31.8%] Done:18,000/56,598 | Valid:18,000 | Sealed:0 | Errors:0 | DB_cases:18,000 | Parties:187,598
+2026-05-01 01:56:00,088 [INFO] [32.0%] Done:18,100/56,598 | Valid:18,100 | Sealed:0 | Errors:0 | DB_cases:18,100 | Parties:187,598
+2026-05-01 01:58:17,720 [INFO] [32.2%] Done:18,200/56,598 | Valid:18,200 | Sealed:0 | Errors:0 | DB_cases:18,200 | Parties:187,598
+2026-05-01 02:00:44,281 [INFO] [32.3%] Done:18,300/56,598 | Valid:18,300 | Sealed:0 | Errors:0 | DB_cases:18,300 | Parties:187,598
+2026-05-01 02:03:21,705 [INFO] [32.5%] Done:18,400/56,598 | Valid:18,400 | Sealed:0 | Errors:0 | DB_cases:18,400 | Parties:187,598
+2026-05-01 02:05:59,664 [INFO] [32.7%] Done:18,500/56,598 | Valid:18,500 | Sealed:0 | Errors:0 | DB_cases:18,500 | Parties:187,598
+2026-05-01 02:08:38,826 [INFO] [32.9%] Done:18,600/56,598 | Valid:18,600 | Sealed:0 | Errors:0 | DB_cases:18,600 | Parties:187,598
+2026-05-01 02:11:11,562 [INFO] [33.0%] Done:18,700/56,598 | Valid:18,700 | Sealed:0 | Errors:0 | DB_cases:18,700 | Parties:187,598
+2026-05-01 02:13:44,098 [INFO] [33.2%] Done:18,800/56,598 | Valid:18,800 | Sealed:0 | Errors:0 | DB_cases:18,800 | Parties:187,598
+2026-05-01 02:16:46,014 [INFO] [33.4%] Done:18,900/56,598 | Valid:18,900 | Sealed:0 | Errors:0 | DB_cases:18,900 | Parties:187,598
+2026-05-01 02:19:35,032 [INFO] [33.6%] Done:19,000/56,598 | Valid:19,000 | Sealed:0 | Errors:0 | DB_cases:19,000 | Parties:187,598
+2026-05-01 02:22:01,726 [INFO] [33.7%] Done:19,100/56,598 | Valid:19,100 | Sealed:0 | Errors:0 | DB_cases:19,100 | Parties:187,598
+2026-05-01 02:24:29,524 [INFO] [33.9%] Done:19,200/56,598 | Valid:19,200 | Sealed:0 | Errors:0 | DB_cases:19,200 | Parties:187,598
+2026-05-01 02:26:55,077 [INFO] [34.1%] Done:19,300/56,598 | Valid:19,300 | Sealed:0 | Errors:0 | DB_cases:19,300 | Parties:187,598
+2026-05-01 02:29:24,237 [INFO] [34.3%] Done:19,400/56,598 | Valid:19,400 | Sealed:0 | Errors:0 | DB_cases:19,400 | Parties:187,598
+2026-05-01 02:31:51,651 [INFO] [34.5%] Done:19,500/56,598 | Valid:19,500 | Sealed:0 | Errors:0 | DB_cases:19,500 | Parties:187,598
+2026-05-01 02:34:23,282 [INFO] [34.6%] Done:19,600/56,598 | Valid:19,600 | Sealed:0 | Errors:0 | DB_cases:19,600 | Parties:187,598
+2026-05-01 02:36:40,777 [INFO] [34.8%] Done:19,700/56,598 | Valid:19,700 | Sealed:0 | Errors:0 | DB_cases:19,700 | Parties:187,598
+2026-05-01 02:39:29,626 [INFO] [35.0%] Done:19,800/56,598 | Valid:19,800 | Sealed:0 | Errors:0 | DB_cases:19,800 | Parties:187,598
+2026-05-01 02:41:56,958 [INFO] [35.2%] Done:19,900/56,598 | Valid:19,900 | Sealed:0 | Errors:0 | DB_cases:19,900 | Parties:187,598
+2026-05-01 02:44:08,703 [INFO] [35.3%] Done:20,000/56,598 | Valid:20,000 | Sealed:0 | Errors:0 | DB_cases:20,000 | Parties:187,598
+2026-05-01 02:46:24,396 [INFO] [35.5%] Done:20,100/56,598 | Valid:20,100 | Sealed:0 | Errors:0 | DB_cases:20,100 | Parties:187,598
+2026-05-01 02:48:50,235 [INFO] [35.7%] Done:20,200/56,598 | Valid:20,200 | Sealed:0 | Errors:0 | DB_cases:20,200 | Parties:187,598
+2026-05-01 02:51:12,636 [INFO] [35.9%] Done:20,300/56,598 | Valid:20,300 | Sealed:0 | Errors:0 | DB_cases:20,300 | Parties:187,598
+2026-05-01 02:53:38,311 [INFO] [36.0%] Done:20,400/56,598 | Valid:20,400 | Sealed:0 | Errors:0 | DB_cases:20,400 | Parties:187,598
+2026-05-01 02:56:18,452 [INFO] [36.2%] Done:20,500/56,598 | Valid:20,500 | Sealed:0 | Errors:0 | DB_cases:20,500 | Parties:187,598
+2026-05-01 02:58:58,670 [INFO] [36.4%] Done:20,600/56,598 | Valid:20,600 | Sealed:0 | Errors:0 | DB_cases:20,600 | Parties:187,598
+2026-05-01 03:01:46,701 [INFO] [36.6%] Done:20,700/56,598 | Valid:20,700 | Sealed:0 | Errors:0 | DB_cases:20,700 | Parties:187,598
+2026-05-01 03:04:19,441 [INFO] [36.8%] Done:20,800/56,598 | Valid:20,800 | Sealed:0 | Errors:0 | DB_cases:20,800 | Parties:187,598
+2026-05-01 03:07:03,419 [INFO] [36.9%] Done:20,900/56,598 | Valid:20,900 | Sealed:0 | Errors:0 | DB_cases:20,900 | Parties:187,598
+2026-05-01 03:09:38,677 [INFO] [37.1%] Done:21,000/56,598 | Valid:21,000 | Sealed:0 | Errors:0 | DB_cases:21,000 | Parties:187,598
+2026-05-01 03:12:16,990 [INFO] [37.3%] Done:21,100/56,598 | Valid:21,100 | Sealed:0 | Errors:0 | DB_cases:21,100 | Parties:187,598
+2026-05-01 03:14:53,579 [INFO] [37.5%] Done:21,200/56,598 | Valid:21,200 | Sealed:0 | Errors:0 | DB_cases:21,200 | Parties:187,598
+2026-05-01 03:17:22,606 [INFO] [37.6%] Done:21,300/56,598 | Valid:21,300 | Sealed:0 | Errors:0 | DB_cases:21,300 | Parties:187,598
+2026-05-01 03:19:56,874 [INFO] [37.8%] Done:21,400/56,598 | Valid:21,400 | Sealed:0 | Errors:0 | DB_cases:21,400 | Parties:187,598
+2026-05-01 03:22:13,371 [INFO] [38.0%] Done:21,500/56,598 | Valid:21,500 | Sealed:0 | Errors:0 | DB_cases:21,500 | Parties:187,598
+2026-05-01 03:24:48,957 [INFO] [38.2%] Done:21,600/56,598 | Valid:21,600 | Sealed:0 | Errors:0 | DB_cases:21,600 | Parties:187,598
+2026-05-01 03:27:23,113 [INFO] [38.3%] Done:21,700/56,598 | Valid:21,700 | Sealed:0 | Errors:0 | DB_cases:21,700 | Parties:187,598
+2026-05-01 03:29:49,264 [INFO] [38.5%] Done:21,800/56,598 | Valid:21,800 | Sealed:0 | Errors:0 | DB_cases:21,800 | Parties:187,598
+2026-05-01 03:32:26,672 [INFO] [38.7%] Done:21,900/56,598 | Valid:21,900 | Sealed:0 | Errors:0 | DB_cases:21,900 | Parties:187,598
+2026-05-01 03:34:48,205 [INFO] [38.9%] Done:22,000/56,598 | Valid:22,000 | Sealed:0 | Errors:0 | DB_cases:22,000 | Parties:187,598
+2026-05-01 03:37:09,895 [INFO] [39.0%] Done:22,100/56,598 | Valid:22,100 | Sealed:0 | Errors:0 | DB_cases:22,100 | Parties:187,598
+2026-05-01 03:39:33,797 [INFO] [39.2%] Done:22,200/56,598 | Valid:22,200 | Sealed:0 | Errors:0 | DB_cases:22,200 | Parties:187,598
+2026-05-01 03:42:05,341 [INFO] [39.4%] Done:22,300/56,598 | Valid:22,300 | Sealed:0 | Errors:0 | DB_cases:22,300 | Parties:187,598
+2026-05-01 03:44:25,016 [INFO] [39.6%] Done:22,400/56,598 | Valid:22,400 | Sealed:0 | Errors:0 | DB_cases:22,400 | Parties:187,598
+2026-05-01 03:46:53,249 [INFO] [39.8%] Done:22,500/56,598 | Valid:22,500 | Sealed:0 | Errors:0 | DB_cases:22,500 | Parties:187,598
+2026-05-01 03:49:18,522 [INFO] [39.9%] Done:22,600/56,598 | Valid:22,600 | Sealed:0 | Errors:0 | DB_cases:22,600 | Parties:187,598
+2026-05-01 03:51:44,145 [INFO] [40.1%] Done:22,700/56,598 | Valid:22,700 | Sealed:0 | Errors:0 | DB_cases:22,700 | Parties:187,598
+2026-05-01 03:54:05,191 [INFO] [40.3%] Done:22,800/56,598 | Valid:22,800 | Sealed:0 | Errors:0 | DB_cases:22,800 | Parties:187,598
+2026-05-01 03:56:30,096 [INFO] [40.5%] Done:22,900/56,598 | Valid:22,900 | Sealed:0 | Errors:0 | DB_cases:22,900 | Parties:187,598
+2026-05-01 03:59:21,848 [INFO] [40.6%] Done:23,000/56,598 | Valid:23,000 | Sealed:0 | Errors:0 | DB_cases:23,000 | Parties:187,598
+2026-05-01 04:01:50,808 [INFO] [40.8%] Done:23,100/56,598 | Valid:23,100 | Sealed:0 | Errors:0 | DB_cases:23,100 | Parties:187,598
+2026-05-01 04:04:10,356 [INFO] [41.0%] Done:23,200/56,598 | Valid:23,200 | Sealed:0 | Errors:0 | DB_cases:23,200 | Parties:187,598
+2026-05-01 04:06:49,767 [INFO] [41.2%] Done:23,300/56,598 | Valid:23,300 | Sealed:0 | Errors:0 | DB_cases:23,300 | Parties:187,598
+2026-05-01 04:09:24,153 [INFO] [41.3%] Done:23,400/56,598 | Valid:23,400 | Sealed:0 | Errors:0 | DB_cases:23,400 | Parties:187,598
+2026-05-01 04:12:01,140 [INFO] [41.5%] Done:23,500/56,598 | Valid:23,500 | Sealed:0 | Errors:0 | DB_cases:23,500 | Parties:187,598
+2026-05-01 04:14:24,943 [INFO] [41.7%] Done:23,600/56,598 | Valid:23,600 | Sealed:0 | Errors:0 | DB_cases:23,600 | Parties:187,598
+2026-05-01 04:17:07,231 [INFO] [41.9%] Done:23,700/56,598 | Valid:23,700 | Sealed:0 | Errors:0 | DB_cases:23,700 | Parties:187,598
+2026-05-01 04:19:44,231 [INFO] [42.1%] Done:23,800/56,598 | Valid:23,800 | Sealed:0 | Errors:0 | DB_cases:23,800 | Parties:187,598
+2026-05-01 04:22:08,851 [INFO] [42.2%] Done:23,900/56,598 | Valid:23,900 | Sealed:0 | Errors:0 | DB_cases:23,900 | Parties:187,598
+2026-05-01 04:24:31,483 [INFO] [42.4%] Done:24,000/56,598 | Valid:24,000 | Sealed:0 | Errors:0 | DB_cases:24,000 | Parties:187,598
+2026-05-01 04:27:13,488 [INFO] [42.6%] Done:24,100/56,598 | Valid:24,100 | Sealed:0 | Errors:0 | DB_cases:24,100 | Parties:187,598
+2026-05-01 04:29:54,055 [INFO] [42.8%] Done:24,200/56,598 | Valid:24,200 | Sealed:0 | Errors:0 | DB_cases:24,200 | Parties:187,598
+2026-05-01 04:32:34,418 [INFO] [42.9%] Done:24,300/56,598 | Valid:24,300 | Sealed:0 | Errors:0 | DB_cases:24,300 | Parties:187,598
+2026-05-01 04:35:18,401 [INFO] [43.1%] Done:24,400/56,598 | Valid:24,400 | Sealed:0 | Errors:0 | DB_cases:24,400 | Parties:187,598
+2026-05-01 04:37:55,277 [INFO] [43.3%] Done:24,500/56,598 | Valid:24,500 | Sealed:0 | Errors:0 | DB_cases:24,500 | Parties:187,598
+2026-05-01 04:40:20,659 [INFO] [43.5%] Done:24,600/56,598 | Valid:24,600 | Sealed:0 | Errors:0 | DB_cases:24,600 | Parties:187,598
+2026-05-01 04:42:38,725 [INFO] [43.6%] Done:24,700/56,598 | Valid:24,700 | Sealed:0 | Errors:0 | DB_cases:24,700 | Parties:187,598
+2026-05-01 04:45:06,501 [INFO] [43.8%] Done:24,800/56,598 | Valid:24,800 | Sealed:0 | Errors:0 | DB_cases:24,800 | Parties:187,598
+2026-05-01 04:47:36,840 [INFO] [44.0%] Done:24,900/56,598 | Valid:24,900 | Sealed:0 | Errors:0 | DB_cases:24,900 | Parties:187,598
+2026-05-01 04:50:15,445 [INFO] [44.2%] Done:25,000/56,598 | Valid:25,000 | Sealed:0 | Errors:0 | DB_cases:25,000 | Parties:187,598
+2026-05-01 04:52:37,908 [INFO] [44.3%] Done:25,100/56,598 | Valid:25,100 | Sealed:0 | Errors:0 | DB_cases:25,100 | Parties:187,598
+2026-05-01 04:55:04,683 [INFO] [44.5%] Done:25,200/56,598 | Valid:25,200 | Sealed:0 | Errors:0 | DB_cases:25,200 | Parties:187,598
+2026-05-01 04:57:19,235 [INFO] [44.7%] Done:25,300/56,598 | Valid:25,300 | Sealed:0 | Errors:0 | DB_cases:25,300 | Parties:187,598
+2026-05-01 04:59:41,902 [INFO] [44.9%] Done:25,400/56,598 | Valid:25,400 | Sealed:0 | Errors:0 | DB_cases:25,400 | Parties:187,598
+2026-05-01 05:02:09,100 [INFO] [45.1%] Done:25,500/56,598 | Valid:25,500 | Sealed:0 | Errors:0 | DB_cases:25,500 | Parties:187,598
+2026-05-01 05:04:31,070 [INFO] [45.2%] Done:25,600/56,598 | Valid:25,600 | Sealed:0 | Errors:0 | DB_cases:25,600 | Parties:187,598
+2026-05-01 05:07:01,799 [INFO] [45.4%] Done:25,700/56,598 | Valid:25,700 | Sealed:0 | Errors:0 | DB_cases:25,700 | Parties:187,598
+2026-05-01 05:09:06,984 [INFO] [45.6%] Done:25,800/56,598 | Valid:25,800 | Sealed:0 | Errors:0 | DB_cases:25,800 | Parties:187,598
+2026-05-01 05:11:15,753 [INFO] [45.8%] Done:25,900/56,598 | Valid:25,900 | Sealed:0 | Errors:0 | DB_cases:25,900 | Parties:187,598
+2026-05-01 05:13:27,087 [INFO] [45.9%] Done:26,000/56,598 | Valid:26,000 | Sealed:0 | Errors:0 | DB_cases:26,000 | Parties:187,598
+2026-05-01 05:15:52,751 [INFO] [46.1%] Done:26,100/56,598 | Valid:26,100 | Sealed:0 | Errors:0 | DB_cases:26,100 | Parties:187,598
+2026-05-01 05:18:18,620 [INFO] [46.3%] Done:26,200/56,598 | Valid:26,200 | Sealed:0 | Errors:0 | DB_cases:26,200 | Parties:187,598
+2026-05-01 05:20:34,950 [INFO] [46.5%] Done:26,300/56,598 | Valid:26,300 | Sealed:0 | Errors:0 | DB_cases:26,300 | Parties:187,598
+2026-05-01 05:22:44,715 [INFO] [46.6%] Done:26,400/56,598 | Valid:26,400 | Sealed:0 | Errors:0 | DB_cases:26,400 | Parties:187,598
+2026-05-01 05:24:54,221 [INFO] [46.8%] Done:26,500/56,598 | Valid:26,500 | Sealed:0 | Errors:0 | DB_cases:26,500 | Parties:187,598
+2026-05-01 05:27:09,452 [INFO] [47.0%] Done:26,600/56,598 | Valid:26,600 | Sealed:0 | Errors:0 | DB_cases:26,600 | Parties:187,598
+2026-05-01 05:29:25,169 [INFO] [47.2%] Done:26,700/56,598 | Valid:26,700 | Sealed:0 | Errors:0 | DB_cases:26,700 | Parties:187,598
+2026-05-01 05:31:47,207 [INFO] [47.4%] Done:26,800/56,598 | Valid:26,800 | Sealed:0 | Errors:0 | DB_cases:26,800 | Parties:187,598
+2026-05-01 05:34:04,998 [INFO] [47.5%] Done:26,900/56,598 | Valid:26,900 | Sealed:0 | Errors:0 | DB_cases:26,900 | Parties:187,598
+2026-05-01 05:36:21,280 [INFO] [47.7%] Done:27,000/56,598 | Valid:27,000 | Sealed:0 | Errors:0 | DB_cases:27,000 | Parties:187,598
+2026-05-01 05:38:38,571 [INFO] [47.9%] Done:27,100/56,598 | Valid:27,100 | Sealed:0 | Errors:0 | DB_cases:27,100 | Parties:187,598
+2026-05-01 05:41:03,505 [INFO] [48.1%] Done:27,200/56,598 | Valid:27,200 | Sealed:0 | Errors:0 | DB_cases:27,200 | Parties:187,598
+2026-05-01 05:43:16,383 [INFO] [48.2%] Done:27,300/56,598 | Valid:27,300 | Sealed:0 | Errors:0 | DB_cases:27,300 | Parties:187,598
+2026-05-01 05:45:33,016 [INFO] [48.4%] Done:27,400/56,598 | Valid:27,400 | Sealed:0 | Errors:0 | DB_cases:27,400 | Parties:187,598
+2026-05-01 05:47:48,385 [INFO] [48.6%] Done:27,500/56,598 | Valid:27,500 | Sealed:0 | Errors:0 | DB_cases:27,500 | Parties:187,598
+2026-05-01 05:50:03,531 [INFO] [48.8%] Done:27,600/56,598 | Valid:27,600 | Sealed:0 | Errors:0 | DB_cases:27,600 | Parties:187,598
+2026-05-01 05:52:22,644 [INFO] [48.9%] Done:27,700/56,598 | Valid:27,700 | Sealed:0 | Errors:0 | DB_cases:27,700 | Parties:187,598
+2026-05-01 05:54:30,784 [INFO] [49.1%] Done:27,800/56,598 | Valid:27,800 | Sealed:0 | Errors:0 | DB_cases:27,800 | Parties:187,598
+2026-05-01 05:56:57,839 [INFO] [49.3%] Done:27,900/56,598 | Valid:27,900 | Sealed:0 | Errors:0 | DB_cases:27,900 | Parties:187,598
+2026-05-01 05:59:18,950 [INFO] [49.5%] Done:28,000/56,598 | Valid:28,000 | Sealed:0 | Errors:0 | DB_cases:28,000 | Parties:187,598
+2026-05-01 06:01:39,240 [INFO] [49.6%] Done:28,100/56,598 | Valid:28,100 | Sealed:0 | Errors:0 | DB_cases:28,100 | Parties:187,598
+2026-05-01 06:04:11,562 [INFO] [49.8%] Done:28,200/56,598 | Valid:28,200 | Sealed:0 | Errors:0 | DB_cases:28,200 | Parties:187,598
+2026-05-01 06:06:48,170 [INFO] [50.0%] Done:28,300/56,598 | Valid:28,300 | Sealed:0 | Errors:0 | DB_cases:28,300 | Parties:187,598
+2026-05-01 06:09:03,460 [INFO] [50.2%] Done:28,400/56,598 | Valid:28,400 | Sealed:0 | Errors:0 | DB_cases:28,400 | Parties:187,598
+2026-05-01 06:11:24,809 [INFO] [50.4%] Done:28,500/56,598 | Valid:28,500 | Sealed:0 | Errors:0 | DB_cases:28,500 | Parties:187,598
+2026-05-01 06:13:37,513 [INFO] [50.5%] Done:28,600/56,598 | Valid:28,600 | Sealed:0 | Errors:0 | DB_cases:28,600 | Parties:187,598
+2026-05-01 06:15:53,492 [INFO] [50.7%] Done:28,700/56,598 | Valid:28,700 | Sealed:0 | Errors:0 | DB_cases:28,700 | Parties:187,598
+2026-05-01 06:18:18,083 [INFO] [50.9%] Done:28,800/56,598 | Valid:28,800 | Sealed:0 | Errors:0 | DB_cases:28,800 | Parties:187,598
+2026-05-01 06:20:46,414 [INFO] [51.1%] Done:28,900/56,598 | Valid:28,900 | Sealed:0 | Errors:0 | DB_cases:28,900 | Parties:187,598
+2026-05-01 06:23:02,130 [INFO] [51.2%] Done:29,000/56,598 | Valid:29,000 | Sealed:0 | Errors:0 | DB_cases:29,000 | Parties:187,598
+2026-05-01 06:25:16,641 [INFO] [51.4%] Done:29,100/56,598 | Valid:29,100 | Sealed:0 | Errors:0 | DB_cases:29,100 | Parties:187,598
+2026-05-01 06:27:32,669 [INFO] [51.6%] Done:29,200/56,598 | Valid:29,200 | Sealed:0 | Errors:0 | DB_cases:29,200 | Parties:187,598
+2026-05-01 06:29:49,793 [INFO] [51.8%] Done:29,300/56,598 | Valid:29,300 | Sealed:0 | Errors:0 | DB_cases:29,300 | Parties:187,598
+2026-05-01 06:32:00,774 [INFO] [51.9%] Done:29,400/56,598 | Valid:29,400 | Sealed:0 | Errors:0 | DB_cases:29,400 | Parties:187,598
+2026-05-01 06:34:16,530 [INFO] [52.1%] Done:29,500/56,598 | Valid:29,500 | Sealed:0 | Errors:0 | DB_cases:29,500 | Parties:187,598
+2026-05-01 06:36:24,326 [INFO] [52.3%] Done:29,600/56,598 | Valid:29,600 | Sealed:0 | Errors:0 | DB_cases:29,600 | Parties:187,598
+2026-05-01 06:38:34,991 [INFO] [52.5%] Done:29,700/56,598 | Valid:29,700 | Sealed:0 | Errors:0 | DB_cases:29,700 | Parties:187,598
+2026-05-01 06:40:42,461 [INFO] [52.7%] Done:29,800/56,598 | Valid:29,800 | Sealed:0 | Errors:0 | DB_cases:29,800 | Parties:187,598
+2026-05-01 06:42:50,627 [INFO] [52.8%] Done:29,900/56,598 | Valid:29,900 | Sealed:0 | Errors:0 | DB_cases:29,900 | Parties:187,598
+2026-05-01 06:45:00,854 [INFO] [53.0%] Done:30,000/56,598 | Valid:30,000 | Sealed:0 | Errors:0 | DB_cases:30,000 | Parties:187,598
+2026-05-01 06:47:08,071 [INFO] [53.2%] Done:30,100/56,598 | Valid:30,100 | Sealed:0 | Errors:0 | DB_cases:30,100 | Parties:187,598
+2026-05-01 06:49:17,258 [INFO] [53.4%] Done:30,200/56,598 | Valid:30,200 | Sealed:0 | Errors:0 | DB_cases:30,200 | Parties:187,598
+2026-05-01 06:51:23,154 [INFO] [53.5%] Done:30,300/56,598 | Valid:30,300 | Sealed:0 | Errors:0 | DB_cases:30,300 | Parties:187,598
+2026-05-01 06:53:43,919 [INFO] [53.7%] Done:30,400/56,598 | Valid:30,400 | Sealed:0 | Errors:0 | DB_cases:30,400 | Parties:187,598
+2026-05-01 06:55:57,080 [INFO] [53.9%] Done:30,500/56,598 | Valid:30,500 | Sealed:0 | Errors:0 | DB_cases:30,500 | Parties:187,598
+2026-05-01 06:58:17,632 [INFO] [54.1%] Done:30,600/56,598 | Valid:30,600 | Sealed:0 | Errors:0 | DB_cases:30,600 | Parties:187,598
+2026-05-01 07:00:31,737 [INFO] [54.2%] Done:30,700/56,598 | Valid:30,700 | Sealed:0 | Errors:0 | DB_cases:30,700 | Parties:187,598
+2026-05-01 07:02:42,709 [INFO] [54.4%] Done:30,800/56,598 | Valid:30,800 | Sealed:0 | Errors:0 | DB_cases:30,800 | Parties:187,598
+2026-05-01 07:04:46,634 [INFO] [54.6%] Done:30,900/56,598 | Valid:30,900 | Sealed:0 | Errors:0 | DB_cases:30,900 | Parties:187,598
+2026-05-01 07:06:51,184 [INFO] [54.8%] Done:31,000/56,598 | Valid:31,000 | Sealed:0 | Errors:0 | DB_cases:31,000 | Parties:187,598
+2026-05-01 07:09:04,470 [INFO] [54.9%] Done:31,100/56,598 | Valid:31,100 | Sealed:0 | Errors:0 | DB_cases:31,100 | Parties:187,598
+2026-05-01 07:11:16,496 [INFO] [55.1%] Done:31,200/56,598 | Valid:31,200 | Sealed:0 | Errors:0 | DB_cases:31,200 | Parties:187,598
+2026-05-01 07:13:21,583 [INFO] [55.3%] Done:31,300/56,598 | Valid:31,300 | Sealed:0 | Errors:0 | DB_cases:31,300 | Parties:187,598
+2026-05-01 07:15:27,078 [INFO] [55.5%] Done:31,400/56,598 | Valid:31,400 | Sealed:0 | Errors:0 | DB_cases:31,400 | Parties:187,598
+2026-05-01 07:17:36,599 [INFO] [55.7%] Done:31,500/56,598 | Valid:31,500 | Sealed:0 | Errors:0 | DB_cases:31,500 | Parties:187,598
+2026-05-01 07:19:45,384 [INFO] [55.8%] Done:31,600/56,598 | Valid:31,600 | Sealed:0 | Errors:0 | DB_cases:31,600 | Parties:187,598
+2026-05-01 07:21:59,756 [INFO] [56.0%] Done:31,700/56,598 | Valid:31,700 | Sealed:0 | Errors:0 | DB_cases:31,700 | Parties:187,598
+2026-05-01 07:24:10,856 [INFO] [56.2%] Done:31,800/56,598 | Valid:31,800 | Sealed:0 | Errors:0 | DB_cases:31,800 | Parties:187,598
+2026-05-01 07:26:17,802 [INFO] [56.4%] Done:31,900/56,598 | Valid:31,900 | Sealed:0 | Errors:0 | DB_cases:31,900 | Parties:187,598
+2026-05-01 07:28:27,547 [INFO] [56.5%] Done:32,000/56,598 | Valid:32,000 | Sealed:0 | Errors:0 | DB_cases:32,000 | Parties:187,598
+2026-05-01 07:30:36,507 [INFO] [56.7%] Done:32,100/56,598 | Valid:32,100 | Sealed:0 | Errors:0 | DB_cases:32,100 | Parties:187,598
+2026-05-01 07:32:52,112 [INFO] [56.9%] Done:32,200/56,598 | Valid:32,200 | Sealed:0 | Errors:0 | DB_cases:32,200 | Parties:187,598
+2026-05-01 07:35:12,314 [INFO] [57.1%] Done:32,300/56,598 | Valid:32,300 | Sealed:0 | Errors:0 | DB_cases:32,300 | Parties:187,598
+2026-05-01 07:37:20,987 [INFO] [57.2%] Done:32,400/56,598 | Valid:32,400 | Sealed:0 | Errors:0 | DB_cases:32,400 | Parties:187,598
+2026-05-01 07:39:45,118 [INFO] [57.4%] Done:32,500/56,598 | Valid:32,500 | Sealed:0 | Errors:0 | DB_cases:32,500 | Parties:187,598
+2026-05-01 07:41:54,966 [INFO] [57.6%] Done:32,600/56,598 | Valid:32,600 | Sealed:0 | Errors:0 | DB_cases:32,600 | Parties:187,598
+2026-05-01 07:43:58,274 [INFO] [57.8%] Done:32,700/56,598 | Valid:32,700 | Sealed:0 | Errors:0 | DB_cases:32,700 | Parties:187,598
+2026-05-01 07:46:08,876 [INFO] [58.0%] Done:32,800/56,598 | Valid:32,800 | Sealed:0 | Errors:0 | DB_cases:32,800 | Parties:187,598
+2026-05-01 07:48:17,030 [INFO] [58.1%] Done:32,900/56,598 | Valid:32,900 | Sealed:0 | Errors:0 | DB_cases:32,900 | Parties:187,598
+2026-05-01 07:50:22,339 [INFO] [58.3%] Done:33,000/56,598 | Valid:33,000 | Sealed:0 | Errors:0 | DB_cases:33,000 | Parties:187,598
+2026-05-01 07:52:23,365 [INFO] [58.5%] Done:33,100/56,598 | Valid:33,100 | Sealed:0 | Errors:0 | DB_cases:33,100 | Parties:187,598
+2026-05-01 07:54:27,259 [INFO] [58.7%] Done:33,200/56,598 | Valid:33,200 | Sealed:0 | Errors:0 | DB_cases:33,200 | Parties:187,598
+2026-05-01 07:56:47,158 [INFO] [58.8%] Done:33,300/56,598 | Valid:33,300 | Sealed:0 | Errors:0 | DB_cases:33,300 | Parties:187,598
+2026-05-01 07:58:56,132 [INFO] [59.0%] Done:33,400/56,598 | Valid:33,400 | Sealed:0 | Errors:0 | DB_cases:33,400 | Parties:187,598
+2026-05-01 08:01:18,888 [INFO] [59.2%] Done:33,500/56,598 | Valid:33,500 | Sealed:0 | Errors:0 | DB_cases:33,500 | Parties:187,598
+2026-05-01 08:03:31,477 [INFO] [59.4%] Done:33,600/56,598 | Valid:33,600 | Sealed:0 | Errors:0 | DB_cases:33,600 | Parties:187,598
+2026-05-01 08:05:42,399 [INFO] [59.5%] Done:33,700/56,598 | Valid:33,700 | Sealed:0 | Errors:0 | DB_cases:33,700 | Parties:187,598
+2026-05-01 08:07:51,322 [INFO] [59.7%] Done:33,800/56,598 | Valid:33,800 | Sealed:0 | Errors:0 | DB_cases:33,800 | Parties:187,598
+2026-05-01 08:09:59,044 [INFO] [59.9%] Done:33,900/56,598 | Valid:33,900 | Sealed:0 | Errors:0 | DB_cases:33,900 | Parties:187,598
+2026-05-01 08:12:07,723 [INFO] [60.1%] Done:34,000/56,598 | Valid:34,000 | Sealed:0 | Errors:0 | DB_cases:34,000 | Parties:187,598
+2026-05-01 08:14:26,096 [INFO] [60.2%] Done:34,100/56,598 | Valid:34,100 | Sealed:0 | Errors:0 | DB_cases:34,100 | Parties:187,598
+2026-05-01 08:16:32,019 [INFO] [60.4%] Done:34,200/56,598 | Valid:34,200 | Sealed:0 | Errors:0 | DB_cases:34,200 | Parties:187,598
+2026-05-01 08:18:46,581 [INFO] [60.6%] Done:34,300/56,598 | Valid:34,300 | Sealed:0 | Errors:0 | DB_cases:34,300 | Parties:187,598
+2026-05-01 08:20:54,633 [INFO] [60.8%] Done:34,400/56,598 | Valid:34,400 | Sealed:0 | Errors:0 | DB_cases:34,400 | Parties:187,598
+2026-05-01 08:22:57,333 [INFO] [61.0%] Done:34,500/56,598 | Valid:34,500 | Sealed:0 | Errors:0 | DB_cases:34,500 | Parties:187,598
+2026-05-01 08:25:01,924 [INFO] [61.1%] Done:34,600/56,598 | Valid:34,600 | Sealed:0 | Errors:0 | DB_cases:34,600 | Parties:187,598
+2026-05-01 08:27:07,692 [INFO] [61.3%] Done:34,700/56,598 | Valid:34,700 | Sealed:0 | Errors:0 | DB_cases:34,700 | Parties:187,598
+2026-05-01 08:29:44,966 [INFO] [61.5%] Done:34,800/56,598 | Valid:34,800 | Sealed:0 | Errors:0 | DB_cases:34,800 | Parties:187,598
+2026-05-01 08:31:49,509 [INFO] [61.7%] Done:34,900/56,598 | Valid:34,900 | Sealed:0 | Errors:0 | DB_cases:34,900 | Parties:187,598
+2026-05-01 08:33:59,501 [INFO] [61.8%] Done:35,000/56,598 | Valid:35,000 | Sealed:0 | Errors:0 | DB_cases:35,000 | Parties:187,598
+2026-05-01 08:36:03,918 [INFO] [62.0%] Done:35,100/56,598 | Valid:35,100 | Sealed:0 | Errors:0 | DB_cases:35,100 | Parties:187,598
+2026-05-01 08:38:11,945 [INFO] [62.2%] Done:35,200/56,598 | Valid:35,200 | Sealed:0 | Errors:0 | DB_cases:35,200 | Parties:187,598
+2026-05-01 08:40:24,263 [INFO] [62.4%] Done:35,300/56,598 | Valid:35,300 | Sealed:0 | Errors:0 | DB_cases:35,300 | Parties:187,598
+2026-05-01 08:42:33,605 [INFO] [62.5%] Done:35,400/56,598 | Valid:35,400 | Sealed:0 | Errors:0 | DB_cases:35,400 | Parties:187,598
+2026-05-01 08:44:43,901 [INFO] [62.7%] Done:35,500/56,598 | Valid:35,500 | Sealed:0 | Errors:0 | DB_cases:35,500 | Parties:187,598
+2026-05-01 08:46:48,061 [INFO] [62.9%] Done:35,600/56,598 | Valid:35,600 | Sealed:0 | Errors:0 | DB_cases:35,600 | Parties:187,598
+2026-05-01 08:48:58,538 [INFO] [63.1%] Done:35,700/56,598 | Valid:35,700 | Sealed:0 | Errors:0 | DB_cases:35,700 | Parties:187,598
+2026-05-01 08:51:02,878 [INFO] [63.3%] Done:35,800/56,598 | Valid:35,800 | Sealed:0 | Errors:0 | DB_cases:35,800 | Parties:187,598
+2026-05-01 10:32:23,374 [INFO] ============================================================
+2026-05-01 10:32:23,390 [INFO] RE-SCRAPE MODE — 20,701 pending CRNs in DB
+2026-05-01 10:32:23,391 [INFO] Workers: 5 | ETA: 2.0h
+2026-05-01 10:32:23,392 [INFO] Ctrl+C anytime — auto-resume
+2026-05-01 10:32:23,392 [INFO] ============================================================
+2026-05-01 10:36:22,120 [INFO] [0.5%] Done:100/20,701 | Valid:100 | Sealed:0 | Errors:0 | DB_cases:35,997 | Parties:187,598
+2026-05-01 10:38:53,092 [INFO] [1.0%] Done:200/20,701 | Valid:200 | Sealed:0 | Errors:0 | DB_cases:36,097 | Parties:187,598
+2026-05-01 10:41:04,960 [INFO] [1.4%] Done:300/20,701 | Valid:300 | Sealed:0 | Errors:0 | DB_cases:36,197 | Parties:187,598
+2026-05-01 10:43:11,812 [INFO] [1.9%] Done:400/20,701 | Valid:400 | Sealed:0 | Errors:0 | DB_cases:36,297 | Parties:187,598
+2026-05-01 10:45:40,206 [INFO] [2.4%] Done:500/20,701 | Valid:500 | Sealed:0 | Errors:0 | DB_cases:36,397 | Parties:187,598
+2026-05-01 10:47:56,563 [INFO] [2.9%] Done:600/20,701 | Valid:600 | Sealed:0 | Errors:0 | DB_cases:36,497 | Parties:187,598
+2026-05-01 10:50:01,822 [INFO] [3.4%] Done:700/20,701 | Valid:700 | Sealed:0 | Errors:0 | DB_cases:36,597 | Parties:187,598
+2026-05-01 10:52:12,865 [INFO] [3.9%] Done:800/20,701 | Valid:800 | Sealed:0 | Errors:0 | DB_cases:36,697 | Parties:187,598
+2026-05-01 10:54:26,885 [INFO] [4.3%] Done:900/20,701 | Valid:900 | Sealed:0 | Errors:0 | DB_cases:36,797 | Parties:187,598
+2026-05-01 10:56:37,696 [INFO] [4.8%] Done:1,000/20,701 | Valid:1,000 | Sealed:0 | Errors:0 | DB_cases:36,897 | Parties:187,598
+2026-05-01 10:58:54,317 [INFO] [5.3%] Done:1,100/20,701 | Valid:1,100 | Sealed:0 | Errors:0 | DB_cases:36,997 | Parties:187,598
+2026-05-01 11:01:10,516 [INFO] [5.8%] Done:1,200/20,701 | Valid:1,200 | Sealed:0 | Errors:0 | DB_cases:37,097 | Parties:187,598
+2026-05-01 11:03:25,495 [INFO] [6.3%] Done:1,300/20,701 | Valid:1,300 | Sealed:0 | Errors:0 | DB_cases:37,197 | Parties:187,598
+2026-05-01 11:05:32,766 [INFO] [6.8%] Done:1,400/20,701 | Valid:1,400 | Sealed:0 | Errors:0 | DB_cases:37,297 | Parties:187,598
+2026-05-01 11:07:48,421 [INFO] [7.2%] Done:1,500/20,701 | Valid:1,500 | Sealed:0 | Errors:0 | DB_cases:37,397 | Parties:187,598
+2026-05-01 11:09:55,947 [INFO] [7.7%] Done:1,600/20,701 | Valid:1,600 | Sealed:0 | Errors:0 | DB_cases:37,497 | Parties:187,598
+2026-05-01 11:12:06,286 [INFO] [8.2%] Done:1,700/20,701 | Valid:1,700 | Sealed:0 | Errors:0 | DB_cases:37,597 | Parties:187,598
+2026-05-01 11:14:09,905 [INFO] [8.7%] Done:1,800/20,701 | Valid:1,800 | Sealed:0 | Errors:0 | DB_cases:37,697 | Parties:187,598
+2026-05-01 11:16:19,937 [INFO] [9.2%] Done:1,900/20,701 | Valid:1,900 | Sealed:0 | Errors:0 | DB_cases:37,797 | Parties:187,598
+2026-05-01 11:18:35,257 [INFO] [9.7%] Done:2,000/20,701 | Valid:2,000 | Sealed:0 | Errors:0 | DB_cases:37,897 | Parties:187,598
+2026-05-01 11:20:44,357 [INFO] [10.1%] Done:2,100/20,701 | Valid:2,100 | Sealed:0 | Errors:0 | DB_cases:37,997 | Parties:187,598
+2026-05-01 11:22:49,869 [INFO] [10.6%] Done:2,200/20,701 | Valid:2,200 | Sealed:0 | Errors:0 | DB_cases:38,097 | Parties:187,598
+2026-05-01 11:25:08,547 [INFO] [11.1%] Done:2,300/20,701 | Valid:2,300 | Sealed:0 | Errors:0 | DB_cases:38,197 | Parties:187,598
+2026-05-01 11:27:22,231 [INFO] [11.6%] Done:2,400/20,701 | Valid:2,400 | Sealed:0 | Errors:0 | DB_cases:38,297 | Parties:187,598
+2026-05-01 11:29:33,423 [INFO] [12.1%] Done:2,500/20,701 | Valid:2,500 | Sealed:0 | Errors:0 | DB_cases:38,397 | Parties:187,598
+2026-05-01 11:31:48,757 [INFO] [12.6%] Done:2,600/20,701 | Valid:2,600 | Sealed:0 | Errors:0 | DB_cases:38,497 | Parties:187,598
+2026-05-01 11:33:58,890 [INFO] [13.0%] Done:2,700/20,701 | Valid:2,700 | Sealed:0 | Errors:0 | DB_cases:38,597 | Parties:187,598
+2026-05-01 11:36:16,102 [INFO] [13.5%] Done:2,800/20,701 | Valid:2,800 | Sealed:0 | Errors:0 | DB_cases:38,697 | Parties:187,598
+2026-05-01 11:38:25,643 [INFO] Stopped by user. Run again to auto-resume.
+2026-05-01 11:39:10,377 [INFO] ============================================================
+2026-05-01 11:39:10,378 [INFO] DONE. Valid:2,892 | Sealed:0 | Errors:0
+2026-05-01 11:39:10,378 [INFO] DB: 38,789 cases | 187,598 party rows
+2026-05-01 11:39:10,379 [INFO] Next: python phase3_build_excel.py
+2026-05-01 11:43:47,422 [INFO] ============================================================
+2026-05-01 11:43:47,459 [INFO] RE-SCRAPE MODE — 17,809 pending CRNs in DB
+2026-05-01 11:43:47,470 [INFO] Workers: 5 | ETA: 1.7h
+2026-05-01 11:43:47,486 [INFO] Ctrl+C anytime — auto-resume
+2026-05-01 11:43:47,494 [INFO] ============================================================
+2026-05-01 11:45:23,916 [WARNING] CRN 55065: max_retries
+2026-05-01 11:45:24,186 [WARNING] CRN 55068: max_retries
+2026-05-01 11:45:24,329 [WARNING] CRN 55066: max_retries
+2026-05-01 11:45:24,591 [WARNING] CRN 55069: max_retries
+2026-05-01 11:45:24,805 [WARNING] CRN 55067: max_retries
+2026-05-01 11:46:08,568 [WARNING] CRN 55073: max_retries
+2026-05-01 11:46:08,579 [WARNING] CRN 55072: max_retries
+2026-05-01 11:46:08,579 [WARNING] CRN 55070: max_retries
+2026-05-01 11:46:08,579 [WARNING] CRN 55074: max_retries
+2026-05-01 11:46:08,604 [WARNING] CRN 55071: max_retries
+2026-05-01 11:48:20,105 [INFO] ============================================================
+2026-05-01 11:48:22,512 [INFO] RE-SCRAPE MODE — 17,807 pending CRNs in DB
+2026-05-01 11:48:23,189 [INFO] Workers: 5 | ETA: 1.7h
+2026-05-01 11:48:23,198 [INFO] Ctrl+C anytime — auto-resume
+2026-05-01 11:48:23,240 [INFO] ============================================================
+2026-05-01 11:50:31,078 [INFO] [0.6%] Done:100/17,807 | Valid:100 | Sealed:0 | Errors:0 | DB_cases:38,891 | Parties:187,598
+2026-05-01 11:52:41,217 [INFO] [1.1%] Done:200/17,807 | Valid:200 | Sealed:0 | Errors:0 | DB_cases:38,991 | Parties:187,598
+2026-05-01 11:55:01,628 [INFO] [1.7%] Done:300/17,807 | Valid:300 | Sealed:0 | Errors:0 | DB_cases:39,091 | Parties:187,598
+2026-05-01 11:57:06,860 [INFO] [2.2%] Done:400/17,807 | Valid:400 | Sealed:0 | Errors:0 | DB_cases:39,191 | Parties:187,598
+2026-05-01 11:59:13,597 [INFO] [2.8%] Done:500/17,807 | Valid:500 | Sealed:0 | Errors:0 | DB_cases:39,291 | Parties:187,598
+2026-05-01 12:01:27,675 [INFO] [3.4%] Done:600/17,807 | Valid:600 | Sealed:0 | Errors:0 | DB_cases:39,391 | Parties:187,598
+2026-05-01 12:03:43,323 [INFO] [3.9%] Done:700/17,807 | Valid:700 | Sealed:0 | Errors:0 | DB_cases:39,491 | Parties:187,598
+2026-05-01 12:05:42,818 [INFO] [4.5%] Done:800/17,807 | Valid:800 | Sealed:0 | Errors:0 | DB_cases:39,591 | Parties:187,598
+2026-05-01 12:07:53,083 [INFO] [5.1%] Done:900/17,807 | Valid:900 | Sealed:0 | Errors:0 | DB_cases:39,691 | Parties:187,598
+2026-05-01 12:09:58,476 [INFO] [5.6%] Done:1,000/17,807 | Valid:1,000 | Sealed:0 | Errors:0 | DB_cases:39,791 | Parties:187,598
+2026-05-01 12:12:03,074 [INFO] [6.2%] Done:1,100/17,807 | Valid:1,100 | Sealed:0 | Errors:0 | DB_cases:39,891 | Parties:187,598
+2026-05-01 12:14:12,288 [INFO] [6.7%] Done:1,200/17,807 | Valid:1,200 | Sealed:0 | Errors:0 | DB_cases:39,991 | Parties:187,598
+2026-05-01 12:16:13,585 [INFO] [7.3%] Done:1,300/17,807 | Valid:1,300 | Sealed:0 | Errors:0 | DB_cases:40,091 | Parties:187,598
+2026-05-01 12:18:16,447 [INFO] [7.9%] Done:1,400/17,807 | Valid:1,400 | Sealed:0 | Errors:0 | DB_cases:40,191 | Parties:187,598
+2026-05-01 12:20:17,014 [INFO] [8.4%] Done:1,500/17,807 | Valid:1,500 | Sealed:0 | Errors:0 | DB_cases:40,291 | Parties:187,598
+2026-05-01 12:22:23,157 [INFO] [9.0%] Done:1,600/17,807 | Valid:1,600 | Sealed:0 | Errors:0 | DB_cases:40,391 | Parties:187,598
+2026-05-01 12:24:31,171 [INFO] [9.5%] Done:1,700/17,807 | Valid:1,700 | Sealed:0 | Errors:0 | DB_cases:40,491 | Parties:187,598
+2026-05-01 12:26:29,827 [INFO] [10.1%] Done:1,800/17,807 | Valid:1,800 | Sealed:0 | Errors:0 | DB_cases:40,591 | Parties:187,598
+2026-05-01 12:28:34,370 [INFO] [10.7%] Done:1,900/17,807 | Valid:1,900 | Sealed:0 | Errors:0 | DB_cases:40,691 | Parties:187,598
+2026-05-01 12:30:33,243 [INFO] [11.2%] Done:2,000/17,807 | Valid:2,000 | Sealed:0 | Errors:0 | DB_cases:40,791 | Parties:187,598
+2026-05-01 12:32:40,469 [INFO] [11.8%] Done:2,100/17,807 | Valid:2,100 | Sealed:0 | Errors:0 | DB_cases:40,891 | Parties:187,598
+2026-05-01 12:34:45,275 [INFO] [12.4%] Done:2,200/17,807 | Valid:2,200 | Sealed:0 | Errors:0 | DB_cases:40,991 | Parties:187,598
+2026-05-01 12:36:50,271 [INFO] [12.9%] Done:2,300/17,807 | Valid:2,300 | Sealed:0 | Errors:0 | DB_cases:41,091 | Parties:187,598
+2026-05-01 12:38:59,410 [INFO] [13.5%] Done:2,400/17,807 | Valid:2,400 | Sealed:0 | Errors:0 | DB_cases:41,191 | Parties:187,598
+2026-05-01 12:41:03,864 [INFO] [14.0%] Done:2,500/17,807 | Valid:2,500 | Sealed:0 | Errors:0 | DB_cases:41,291 | Parties:187,598
+2026-05-01 12:43:10,091 [INFO] [14.6%] Done:2,600/17,807 | Valid:2,600 | Sealed:0 | Errors:0 | DB_cases:41,391 | Parties:187,598
+2026-05-01 12:45:11,053 [INFO] [15.2%] Done:2,700/17,807 | Valid:2,700 | Sealed:0 | Errors:0 | DB_cases:41,491 | Parties:187,598
+2026-05-01 12:47:19,539 [INFO] [15.7%] Done:2,800/17,807 | Valid:2,800 | Sealed:0 | Errors:0 | DB_cases:41,591 | Parties:187,598
+2026-05-01 12:49:26,298 [INFO] [16.3%] Done:2,900/17,807 | Valid:2,900 | Sealed:0 | Errors:0 | DB_cases:41,691 | Parties:187,598
+2026-05-01 12:51:33,087 [INFO] [16.8%] Done:3,000/17,807 | Valid:3,000 | Sealed:0 | Errors:0 | DB_cases:41,791 | Parties:187,598
+2026-05-01 12:53:34,336 [INFO] [17.4%] Done:3,100/17,807 | Valid:3,100 | Sealed:0 | Errors:0 | DB_cases:41,891 | Parties:187,598
+2026-05-01 12:55:38,451 [INFO] [18.0%] Done:3,200/17,807 | Valid:3,200 | Sealed:0 | Errors:0 | DB_cases:41,991 | Parties:187,598
+2026-05-01 12:57:53,455 [INFO] [18.5%] Done:3,300/17,807 | Valid:3,300 | Sealed:0 | Errors:0 | DB_cases:42,091 | Parties:187,598
+2026-05-01 13:00:02,911 [INFO] [19.1%] Done:3,400/17,807 | Valid:3,400 | Sealed:0 | Errors:0 | DB_cases:42,191 | Parties:187,598
+2026-05-01 13:02:03,448 [INFO] [19.7%] Done:3,500/17,807 | Valid:3,500 | Sealed:0 | Errors:0 | DB_cases:42,291 | Parties:187,598
+2026-05-01 13:04:14,750 [INFO] [20.2%] Done:3,600/17,807 | Valid:3,600 | Sealed:0 | Errors:0 | DB_cases:42,391 | Parties:187,598
+2026-05-01 13:06:24,383 [INFO] [20.8%] Done:3,700/17,807 | Valid:3,700 | Sealed:0 | Errors:0 | DB_cases:42,491 | Parties:187,598
+2026-05-01 13:08:29,236 [INFO] [21.3%] Done:3,800/17,807 | Valid:3,800 | Sealed:0 | Errors:0 | DB_cases:42,591 | Parties:187,598
+2026-05-01 13:10:32,553 [INFO] [21.9%] Done:3,900/17,807 | Valid:3,900 | Sealed:0 | Errors:0 | DB_cases:42,691 | Parties:187,598
+2026-05-01 13:12:36,907 [INFO] [22.5%] Done:4,000/17,807 | Valid:4,000 | Sealed:0 | Errors:0 | DB_cases:42,791 | Parties:187,598
+2026-05-01 14:02:47,626 [INFO] ============================================================
+2026-05-01 14:02:47,664 [INFO] RE-SCRAPE MODE — 13,770 pending CRNs in DB
+2026-05-01 14:02:47,711 [INFO] Workers: 5 | ETA: 1.3h
+2026-05-01 14:02:47,711 [INFO] Ctrl+C anytime — auto-resume
+2026-05-01 14:02:47,711 [INFO] ============================================================
+2026-05-01 14:06:55,943 [INFO] Stopped by user. Run again to auto-resume.
+2026-05-01 14:06:56,283 [INFO] ============================================================
+2026-05-01 14:06:56,283 [INFO] DONE. Valid:0 | Sealed:0 | Errors:0
+2026-05-01 14:06:56,285 [INFO] DB: 42,829 cases | 187,598 party rows
+2026-05-01 14:06:56,285 [INFO] Next: python phase3_build_excel.py
+2026-05-01 14:07:13,693 [INFO] ============================================================
+2026-05-01 14:07:13,694 [INFO] RE-SCRAPE MODE — 13,770 pending CRNs in DB
+2026-05-01 14:07:13,694 [INFO] Workers: 5 | ETA: 1.3h
+2026-05-01 14:07:13,694 [INFO] Ctrl+C anytime — auto-resume
+2026-05-01 14:07:13,695 [INFO] ============================================================
+2026-05-01 14:10:54,833 [INFO] [0.7%] Done:100/13,770 | Valid:100 | Sealed:0 | Errors:0 | DB_cases:42,928 | Parties:187,598
+2026-05-01 14:13:23,704 [INFO] [1.5%] Done:200/13,770 | Valid:200 | Sealed:0 | Errors:0 | DB_cases:43,028 | Parties:187,598
+2026-05-01 14:15:33,973 [INFO] [2.2%] Done:300/13,770 | Valid:300 | Sealed:0 | Errors:0 | DB_cases:43,128 | Parties:187,598
+2026-05-01 14:17:44,064 [INFO] [2.9%] Done:400/13,770 | Valid:400 | Sealed:0 | Errors:0 | DB_cases:43,228 | Parties:187,598
+2026-05-01 14:20:07,625 [INFO] [3.6%] Done:500/13,770 | Valid:500 | Sealed:0 | Errors:0 | DB_cases:43,328 | Parties:187,598
+2026-05-01 14:22:12,307 [INFO] [4.4%] Done:600/13,770 | Valid:600 | Sealed:0 | Errors:0 | DB_cases:43,428 | Parties:187,598
+2026-05-01 14:24:14,580 [INFO] [5.1%] Done:700/13,770 | Valid:700 | Sealed:0 | Errors:0 | DB_cases:43,528 | Parties:187,598
+2026-05-01 14:26:16,769 [INFO] [5.8%] Done:800/13,770 | Valid:800 | Sealed:0 | Errors:0 | DB_cases:43,628 | Parties:187,598
+2026-05-01 14:28:26,860 [INFO] [6.5%] Done:900/13,770 | Valid:900 | Sealed:0 | Errors:0 | DB_cases:43,728 | Parties:187,598
+2026-05-01 14:30:33,600 [INFO] [7.3%] Done:1,000/13,770 | Valid:1,000 | Sealed:0 | Errors:0 | DB_cases:43,828 | Parties:187,598
+2026-05-01 14:32:44,689 [INFO] [8.0%] Done:1,100/13,770 | Valid:1,100 | Sealed:0 | Errors:0 | DB_cases:43,928 | Parties:187,598
+2026-05-01 14:35:02,305 [INFO] [8.7%] Done:1,200/13,770 | Valid:1,200 | Sealed:0 | Errors:0 | DB_cases:44,028 | Parties:187,598
+2026-05-01 14:37:09,705 [INFO] [9.4%] Done:1,300/13,770 | Valid:1,300 | Sealed:0 | Errors:0 | DB_cases:44,128 | Parties:187,598
+2026-05-01 14:39:16,189 [INFO] [10.2%] Done:1,400/13,770 | Valid:1,400 | Sealed:0 | Errors:0 | DB_cases:44,228 | Parties:187,598
+2026-05-01 14:41:13,792 [INFO] [10.9%] Done:1,500/13,770 | Valid:1,500 | Sealed:0 | Errors:0 | DB_cases:44,328 | Parties:187,598
+2026-05-01 14:43:17,305 [INFO] [11.6%] Done:1,600/13,770 | Valid:1,600 | Sealed:0 | Errors:0 | DB_cases:44,428 | Parties:187,598
+2026-05-01 14:45:22,943 [INFO] [12.3%] Done:1,700/13,770 | Valid:1,700 | Sealed:0 | Errors:0 | DB_cases:44,528 | Parties:187,598
+2026-05-01 14:47:25,730 [INFO] [13.1%] Done:1,800/13,770 | Valid:1,800 | Sealed:0 | Errors:0 | DB_cases:44,628 | Parties:187,598
+2026-05-01 14:49:29,177 [INFO] [13.8%] Done:1,900/13,770 | Valid:1,900 | Sealed:0 | Errors:0 | DB_cases:44,728 | Parties:187,598
+2026-05-01 14:51:29,199 [INFO] [14.5%] Done:2,000/13,770 | Valid:2,000 | Sealed:0 | Errors:0 | DB_cases:44,828 | Parties:187,598
+2026-05-01 14:53:38,036 [INFO] [15.3%] Done:2,100/13,770 | Valid:2,100 | Sealed:0 | Errors:0 | DB_cases:44,928 | Parties:187,598
+2026-05-01 14:55:40,671 [INFO] [16.0%] Done:2,200/13,770 | Valid:2,200 | Sealed:0 | Errors:0 | DB_cases:45,028 | Parties:187,598
+2026-05-01 14:57:41,761 [INFO] [16.7%] Done:2,300/13,770 | Valid:2,300 | Sealed:0 | Errors:0 | DB_cases:45,128 | Parties:187,598
+2026-05-01 14:59:43,910 [INFO] [17.4%] Done:2,400/13,770 | Valid:2,400 | Sealed:0 | Errors:0 | DB_cases:45,228 | Parties:187,598
+2026-05-01 15:01:44,679 [INFO] [18.2%] Done:2,500/13,770 | Valid:2,500 | Sealed:0 | Errors:0 | DB_cases:45,328 | Parties:187,598
+2026-05-01 15:03:49,576 [INFO] [18.9%] Done:2,600/13,770 | Valid:2,600 | Sealed:0 | Errors:0 | DB_cases:45,428 | Parties:187,598
+2026-05-01 15:05:55,336 [INFO] [19.6%] Done:2,700/13,770 | Valid:2,700 | Sealed:0 | Errors:0 | DB_cases:45,528 | Parties:187,598
+2026-05-01 15:08:06,955 [INFO] [20.3%] Done:2,800/13,770 | Valid:2,800 | Sealed:0 | Errors:0 | DB_cases:45,628 | Parties:187,598
+2026-05-01 15:10:08,064 [INFO] [21.1%] Done:2,900/13,770 | Valid:2,900 | Sealed:0 | Errors:0 | DB_cases:45,728 | Parties:187,598
+2026-05-01 15:12:11,352 [INFO] [21.8%] Done:3,000/13,770 | Valid:3,000 | Sealed:0 | Errors:0 | DB_cases:45,828 | Parties:187,598
+2026-05-01 15:14:20,387 [INFO] [22.5%] Done:3,100/13,770 | Valid:3,100 | Sealed:0 | Errors:0 | DB_cases:45,928 | Parties:187,598
+2026-05-01 15:16:25,362 [INFO] [23.2%] Done:3,200/13,770 | Valid:3,200 | Sealed:0 | Errors:0 | DB_cases:46,028 | Parties:187,598
+2026-05-01 15:18:28,045 [INFO] [24.0%] Done:3,300/13,770 | Valid:3,300 | Sealed:0 | Errors:0 | DB_cases:46,128 | Parties:187,598
+2026-05-01 15:20:29,153 [INFO] [24.7%] Done:3,400/13,770 | Valid:3,400 | Sealed:0 | Errors:0 | DB_cases:46,228 | Parties:187,598
+2026-05-01 15:22:33,445 [INFO] [25.4%] Done:3,500/13,770 | Valid:3,500 | Sealed:0 | Errors:0 | DB_cases:46,328 | Parties:187,598
+2026-05-01 15:24:42,133 [INFO] [26.1%] Done:3,600/13,770 | Valid:3,600 | Sealed:0 | Errors:0 | DB_cases:46,428 | Parties:187,598
+2026-05-01 15:26:51,384 [INFO] [26.9%] Done:3,700/13,770 | Valid:3,700 | Sealed:0 | Errors:0 | DB_cases:46,528 | Parties:187,598
+2026-05-01 15:29:00,861 [INFO] [27.6%] Done:3,800/13,770 | Valid:3,800 | Sealed:0 | Errors:0 | DB_cases:46,628 | Parties:187,598
+2026-05-01 15:31:06,108 [INFO] [28.3%] Done:3,900/13,770 | Valid:3,900 | Sealed:0 | Errors:0 | DB_cases:46,728 | Parties:187,598
+2026-05-01 15:33:09,961 [INFO] [29.0%] Done:4,000/13,770 | Valid:4,000 | Sealed:0 | Errors:0 | DB_cases:46,828 | Parties:187,598
+2026-05-01 15:35:14,293 [INFO] [29.8%] Done:4,100/13,770 | Valid:4,100 | Sealed:0 | Errors:0 | DB_cases:46,928 | Parties:187,598
+2026-05-01 15:37:13,090 [INFO] [30.5%] Done:4,200/13,770 | Valid:4,200 | Sealed:0 | Errors:0 | DB_cases:47,028 | Parties:187,598
+2026-05-01 15:39:15,462 [INFO] [31.2%] Done:4,300/13,770 | Valid:4,300 | Sealed:0 | Errors:0 | DB_cases:47,128 | Parties:187,598
+2026-05-01 15:41:14,290 [INFO] [32.0%] Done:4,400/13,770 | Valid:4,400 | Sealed:0 | Errors:0 | DB_cases:47,228 | Parties:187,598
+2026-05-01 15:43:16,423 [INFO] [32.7%] Done:4,500/13,770 | Valid:4,500 | Sealed:0 | Errors:0 | DB_cases:47,328 | Parties:187,598
+2026-05-01 15:45:16,725 [INFO] [33.4%] Done:4,600/13,770 | Valid:4,600 | Sealed:0 | Errors:0 | DB_cases:47,428 | Parties:187,598
+2026-05-01 15:47:16,749 [INFO] [34.1%] Done:4,700/13,770 | Valid:4,700 | Sealed:0 | Errors:0 | DB_cases:47,528 | Parties:187,598
+2026-05-01 15:49:18,032 [INFO] [34.9%] Done:4,800/13,770 | Valid:4,800 | Sealed:0 | Errors:0 | DB_cases:47,628 | Parties:187,598
+2026-05-01 15:51:18,503 [INFO] [35.6%] Done:4,900/13,770 | Valid:4,900 | Sealed:0 | Errors:0 | DB_cases:47,728 | Parties:187,598
+2026-05-01 15:53:17,331 [INFO] [36.3%] Done:5,000/13,770 | Valid:5,000 | Sealed:0 | Errors:0 | DB_cases:47,828 | Parties:187,598
+2026-05-01 15:55:19,341 [INFO] [37.0%] Done:5,100/13,770 | Valid:5,100 | Sealed:0 | Errors:0 | DB_cases:47,928 | Parties:187,598
+2026-05-01 15:57:23,683 [INFO] [37.8%] Done:5,200/13,770 | Valid:5,200 | Sealed:0 | Errors:0 | DB_cases:48,028 | Parties:187,598
+2026-05-01 15:59:26,258 [INFO] [38.5%] Done:5,300/13,770 | Valid:5,300 | Sealed:0 | Errors:0 | DB_cases:48,128 | Parties:187,598
+2026-05-01 16:01:29,051 [INFO] [39.2%] Done:5,400/13,770 | Valid:5,400 | Sealed:0 | Errors:0 | DB_cases:48,228 | Parties:187,598
+2026-05-01 16:03:31,685 [INFO] [39.9%] Done:5,500/13,770 | Valid:5,500 | Sealed:0 | Errors:0 | DB_cases:48,328 | Parties:187,598
+2026-05-01 16:05:30,742 [INFO] [40.7%] Done:5,600/13,770 | Valid:5,600 | Sealed:0 | Errors:0 | DB_cases:48,428 | Parties:187,598
+2026-05-01 16:07:28,635 [INFO] [41.4%] Done:5,700/13,770 | Valid:5,700 | Sealed:0 | Errors:0 | DB_cases:48,528 | Parties:187,598
+2026-05-01 16:09:24,126 [INFO] [42.1%] Done:5,800/13,770 | Valid:5,800 | Sealed:0 | Errors:0 | DB_cases:48,628 | Parties:187,598
+2026-05-01 16:11:25,598 [INFO] [42.8%] Done:5,900/13,770 | Valid:5,900 | Sealed:0 | Errors:0 | DB_cases:48,728 | Parties:187,598
+2026-05-01 16:13:25,869 [INFO] [43.6%] Done:6,000/13,770 | Valid:6,000 | Sealed:0 | Errors:0 | DB_cases:48,828 | Parties:187,598
+2026-05-01 16:15:31,798 [INFO] [44.3%] Done:6,100/13,770 | Valid:6,100 | Sealed:0 | Errors:0 | DB_cases:48,928 | Parties:187,598
+2026-05-01 16:17:30,825 [INFO] [45.0%] Done:6,200/13,770 | Valid:6,200 | Sealed:0 | Errors:0 | DB_cases:49,028 | Parties:187,598
+2026-05-01 16:19:31,556 [INFO] [45.8%] Done:6,300/13,770 | Valid:6,300 | Sealed:0 | Errors:0 | DB_cases:49,128 | Parties:187,598
+2026-05-01 16:21:35,484 [INFO] [46.5%] Done:6,400/13,770 | Valid:6,400 | Sealed:0 | Errors:0 | DB_cases:49,228 | Parties:187,598
+2026-05-01 16:23:37,544 [INFO] [47.2%] Done:6,500/13,770 | Valid:6,500 | Sealed:0 | Errors:0 | DB_cases:49,328 | Parties:187,598
+2026-05-01 16:25:38,547 [INFO] [47.9%] Done:6,600/13,770 | Valid:6,600 | Sealed:0 | Errors:0 | DB_cases:49,428 | Parties:187,598
+2026-05-01 16:27:36,249 [INFO] [48.7%] Done:6,700/13,770 | Valid:6,700 | Sealed:0 | Errors:0 | DB_cases:49,528 | Parties:187,598
+2026-05-01 16:29:35,982 [INFO] [49.4%] Done:6,800/13,770 | Valid:6,800 | Sealed:0 | Errors:0 | DB_cases:49,628 | Parties:187,598
+2026-05-01 16:31:37,510 [INFO] [50.1%] Done:6,900/13,770 | Valid:6,900 | Sealed:0 | Errors:0 | DB_cases:49,728 | Parties:187,598
+2026-05-01 16:33:36,724 [INFO] [50.8%] Done:7,000/13,770 | Valid:7,000 | Sealed:0 | Errors:0 | DB_cases:49,828 | Parties:187,598
+2026-05-01 16:35:38,906 [INFO] [51.6%] Done:7,100/13,770 | Valid:7,100 | Sealed:0 | Errors:0 | DB_cases:49,928 | Parties:187,598
+2026-05-01 16:37:43,843 [INFO] [52.3%] Done:7,200/13,770 | Valid:7,200 | Sealed:0 | Errors:0 | DB_cases:50,028 | Parties:187,598
+2026-05-01 16:39:46,922 [INFO] [53.0%] Done:7,300/13,770 | Valid:7,300 | Sealed:0 | Errors:0 | DB_cases:50,128 | Parties:187,598
+2026-05-01 16:41:47,191 [INFO] [53.7%] Done:7,400/13,770 | Valid:7,400 | Sealed:0 | Errors:0 | DB_cases:50,228 | Parties:187,598
+2026-05-01 16:43:53,080 [INFO] [54.5%] Done:7,500/13,770 | Valid:7,500 | Sealed:0 | Errors:0 | DB_cases:50,328 | Parties:187,598
+2026-05-01 16:45:56,059 [INFO] [55.2%] Done:7,600/13,770 | Valid:7,600 | Sealed:0 | Errors:0 | DB_cases:50,428 | Parties:187,598
+2026-05-01 16:47:55,523 [INFO] [55.9%] Done:7,700/13,770 | Valid:7,700 | Sealed:0 | Errors:0 | DB_cases:50,528 | Parties:187,598
+2026-05-01 16:49:58,239 [INFO] [56.6%] Done:7,800/13,770 | Valid:7,800 | Sealed:0 | Errors:0 | DB_cases:50,628 | Parties:187,598
+2026-05-01 16:52:03,318 [INFO] [57.4%] Done:7,900/13,770 | Valid:7,900 | Sealed:0 | Errors:0 | DB_cases:50,728 | Parties:187,598
+2026-05-01 16:54:03,374 [INFO] [58.1%] Done:8,000/13,770 | Valid:8,000 | Sealed:0 | Errors:0 | DB_cases:50,828 | Parties:187,598
+2026-05-01 16:56:07,314 [INFO] [58.8%] Done:8,100/13,770 | Valid:8,100 | Sealed:0 | Errors:0 | DB_cases:50,928 | Parties:187,598
+2026-05-01 16:58:09,311 [INFO] [59.5%] Done:8,200/13,770 | Valid:8,200 | Sealed:0 | Errors:0 | DB_cases:51,028 | Parties:187,598
+2026-05-01 17:00:14,503 [INFO] [60.3%] Done:8,300/13,770 | Valid:8,300 | Sealed:0 | Errors:0 | DB_cases:51,128 | Parties:187,598
+2026-05-01 17:02:29,873 [INFO] [61.0%] Done:8,400/13,770 | Valid:8,400 | Sealed:0 | Errors:0 | DB_cases:51,228 | Parties:187,598
+2026-05-01 17:04:38,793 [INFO] [61.7%] Done:8,500/13,770 | Valid:8,500 | Sealed:0 | Errors:0 | DB_cases:51,328 | Parties:187,598
+2026-05-01 17:06:44,007 [INFO] [62.5%] Done:8,600/13,770 | Valid:8,600 | Sealed:0 | Errors:0 | DB_cases:51,428 | Parties:187,598
+2026-05-01 17:08:56,621 [INFO] [63.2%] Done:8,700/13,770 | Valid:8,700 | Sealed:0 | Errors:0 | DB_cases:51,528 | Parties:187,598
+2026-05-01 17:11:04,566 [INFO] [63.9%] Done:8,800/13,770 | Valid:8,800 | Sealed:0 | Errors:0 | DB_cases:51,628 | Parties:187,598
+2026-05-01 17:13:09,108 [INFO] [64.6%] Done:8,900/13,770 | Valid:8,900 | Sealed:0 | Errors:0 | DB_cases:51,728 | Parties:187,598
+2026-05-01 17:15:18,080 [INFO] [65.4%] Done:9,000/13,770 | Valid:9,000 | Sealed:0 | Errors:0 | DB_cases:51,828 | Parties:187,598
+2026-05-01 17:17:34,680 [INFO] [66.1%] Done:9,100/13,770 | Valid:9,100 | Sealed:0 | Errors:0 | DB_cases:51,928 | Parties:187,598
+2026-05-01 17:19:44,612 [INFO] [66.8%] Done:9,200/13,770 | Valid:9,200 | Sealed:0 | Errors:0 | DB_cases:52,028 | Parties:187,598
+2026-05-01 17:21:41,620 [INFO] [67.5%] Done:9,300/13,770 | Valid:9,281 | Sealed:19 | Errors:0 | DB_cases:52,109 | Parties:187,598
+2026-05-01 17:24:08,120 [INFO] [68.3%] Done:9,400/13,770 | Valid:9,361 | Sealed:39 | Errors:0 | DB_cases:52,189 | Parties:187,598
+2026-05-01 17:26:16,462 [INFO] [69.0%] Done:9,500/13,770 | Valid:9,461 | Sealed:39 | Errors:0 | DB_cases:52,289 | Parties:187,598
+2026-05-01 17:28:22,650 [INFO] [69.7%] Done:9,600/13,770 | Valid:9,561 | Sealed:39 | Errors:0 | DB_cases:52,389 | Parties:187,598
+2026-05-01 17:30:38,143 [INFO] [70.4%] Done:9,700/13,770 | Valid:9,661 | Sealed:39 | Errors:0 | DB_cases:52,489 | Parties:187,598
+2026-05-01 17:32:43,467 [INFO] [71.2%] Done:9,800/13,770 | Valid:9,761 | Sealed:39 | Errors:0 | DB_cases:52,589 | Parties:187,598
+2026-05-01 17:34:48,471 [INFO] [71.9%] Done:9,900/13,770 | Valid:9,861 | Sealed:39 | Errors:0 | DB_cases:52,689 | Parties:187,598
+2026-05-01 17:36:55,838 [INFO] [72.6%] Done:10,000/13,770 | Valid:9,961 | Sealed:39 | Errors:0 | DB_cases:52,789 | Parties:187,598
+2026-05-01 17:39:03,496 [INFO] [73.3%] Done:10,100/13,770 | Valid:10,061 | Sealed:39 | Errors:0 | DB_cases:52,889 | Parties:187,598
+2026-05-01 17:41:13,107 [INFO] [74.1%] Done:10,200/13,770 | Valid:10,161 | Sealed:39 | Errors:0 | DB_cases:52,989 | Parties:187,598
+2026-05-01 17:43:21,152 [INFO] [74.8%] Done:10,300/13,770 | Valid:10,261 | Sealed:39 | Errors:0 | DB_cases:53,089 | Parties:187,598
+2026-05-01 17:45:35,657 [INFO] [75.5%] Done:10,400/13,770 | Valid:10,361 | Sealed:39 | Errors:0 | DB_cases:53,189 | Parties:187,598
+2026-05-01 17:47:46,418 [INFO] [76.3%] Done:10,500/13,770 | Valid:10,461 | Sealed:39 | Errors:0 | DB_cases:53,289 | Parties:187,598
+2026-05-01 17:49:54,800 [INFO] [77.0%] Done:10,600/13,770 | Valid:10,561 | Sealed:39 | Errors:0 | DB_cases:53,389 | Parties:187,598
+2026-05-01 17:52:03,539 [INFO] [77.7%] Done:10,700/13,770 | Valid:10,661 | Sealed:39 | Errors:0 | DB_cases:53,489 | Parties:187,598
+2026-05-01 17:54:10,371 [INFO] [78.4%] Done:10,800/13,770 | Valid:10,761 | Sealed:39 | Errors:0 | DB_cases:53,589 | Parties:187,598
+2026-05-01 17:56:19,048 [INFO] [79.2%] Done:10,900/13,770 | Valid:10,861 | Sealed:39 | Errors:0 | DB_cases:53,689 | Parties:187,598
+2026-05-01 17:58:27,509 [INFO] [79.9%] Done:11,000/13,770 | Valid:10,961 | Sealed:39 | Errors:0 | DB_cases:53,789 | Parties:187,598
+2026-05-01 18:00:45,152 [INFO] [80.6%] Done:11,100/13,770 | Valid:11,061 | Sealed:39 | Errors:0 | DB_cases:53,889 | Parties:187,598
+2026-05-01 18:02:55,376 [INFO] [81.3%] Done:11,200/13,770 | Valid:11,161 | Sealed:39 | Errors:0 | DB_cases:53,989 | Parties:187,598
+2026-05-01 18:05:09,201 [INFO] [82.1%] Done:11,300/13,770 | Valid:11,261 | Sealed:39 | Errors:0 | DB_cases:54,089 | Parties:187,598
+2026-05-01 18:07:18,047 [INFO] [82.8%] Done:11,400/13,770 | Valid:11,361 | Sealed:39 | Errors:0 | DB_cases:54,189 | Parties:187,598
+2026-05-01 18:09:24,671 [INFO] [83.5%] Done:11,500/13,770 | Valid:11,461 | Sealed:39 | Errors:0 | DB_cases:54,289 | Parties:187,598
+2026-05-01 18:11:32,863 [INFO] [84.2%] Done:11,600/13,770 | Valid:11,561 | Sealed:39 | Errors:0 | DB_cases:54,389 | Parties:187,598
+2026-05-01 18:13:38,559 [INFO] [85.0%] Done:11,700/13,770 | Valid:11,661 | Sealed:39 | Errors:0 | DB_cases:54,489 | Parties:187,598
+2026-05-01 18:15:51,762 [INFO] [85.7%] Done:11,800/13,770 | Valid:11,761 | Sealed:39 | Errors:0 | DB_cases:54,589 | Parties:187,598
+2026-05-01 18:17:57,331 [INFO] [86.4%] Done:11,900/13,770 | Valid:11,861 | Sealed:39 | Errors:0 | DB_cases:54,689 | Parties:187,598
+2026-05-01 18:20:06,363 [INFO] [87.1%] Done:12,000/13,770 | Valid:11,961 | Sealed:39 | Errors:0 | DB_cases:54,789 | Parties:187,598
+2026-05-01 18:22:15,515 [INFO] [87.9%] Done:12,100/13,770 | Valid:12,061 | Sealed:39 | Errors:0 | DB_cases:54,889 | Parties:187,598
+2026-05-01 18:24:25,369 [INFO] [88.6%] Done:12,200/13,770 | Valid:12,161 | Sealed:39 | Errors:0 | DB_cases:54,989 | Parties:187,598
+2026-05-01 18:26:35,478 [INFO] [89.3%] Done:12,300/13,770 | Valid:12,261 | Sealed:39 | Errors:0 | DB_cases:55,089 | Parties:187,598
+2026-05-01 18:28:49,780 [INFO] [90.1%] Done:12,400/13,770 | Valid:12,361 | Sealed:39 | Errors:0 | DB_cases:55,189 | Parties:187,598
+2026-05-01 18:31:06,364 [INFO] [90.8%] Done:12,500/13,770 | Valid:12,461 | Sealed:39 | Errors:0 | DB_cases:55,289 | Parties:187,598
+2026-05-01 18:33:17,601 [INFO] [91.5%] Done:12,600/13,770 | Valid:12,561 | Sealed:39 | Errors:0 | DB_cases:55,389 | Parties:187,598
+2026-05-01 18:35:32,079 [INFO] [92.2%] Done:12,700/13,770 | Valid:12,661 | Sealed:39 | Errors:0 | DB_cases:55,489 | Parties:187,598
+2026-05-01 18:37:43,902 [INFO] [93.0%] Done:12,800/13,770 | Valid:12,761 | Sealed:39 | Errors:0 | DB_cases:55,589 | Parties:187,598
+2026-05-01 18:39:58,881 [INFO] [93.7%] Done:12,900/13,770 | Valid:12,861 | Sealed:39 | Errors:0 | DB_cases:55,689 | Parties:187,598
+2026-05-01 18:42:12,657 [INFO] [94.4%] Done:13,000/13,770 | Valid:12,961 | Sealed:39 | Errors:0 | DB_cases:55,789 | Parties:187,598
+2026-05-01 18:44:23,046 [INFO] [95.1%] Done:13,100/13,770 | Valid:13,061 | Sealed:39 | Errors:0 | DB_cases:55,889 | Parties:187,598
+2026-05-01 18:46:33,626 [INFO] [95.9%] Done:13,200/13,770 | Valid:13,161 | Sealed:39 | Errors:0 | DB_cases:55,989 | Parties:187,598
+2026-05-01 18:48:46,457 [INFO] [96.6%] Done:13,300/13,770 | Valid:13,261 | Sealed:39 | Errors:0 | DB_cases:56,089 | Parties:187,598
+2026-05-01 18:50:58,409 [INFO] [97.3%] Done:13,400/13,770 | Valid:13,361 | Sealed:39 | Errors:0 | DB_cases:56,189 | Parties:187,598
+2026-05-01 18:53:08,081 [INFO] [98.0%] Done:13,500/13,770 | Valid:13,461 | Sealed:39 | Errors:0 | DB_cases:56,289 | Parties:187,598
+2026-05-01 18:55:18,220 [INFO] [98.8%] Done:13,600/13,770 | Valid:13,561 | Sealed:39 | Errors:0 | DB_cases:56,389 | Parties:187,598
+2026-05-01 18:57:27,573 [INFO] [99.5%] Done:13,700/13,770 | Valid:13,661 | Sealed:39 | Errors:0 | DB_cases:56,489 | Parties:187,598
+2026-05-01 18:59:01,712 [INFO] ============================================================
+2026-05-01 18:59:01,773 [INFO] DONE. Valid:13,731 | Sealed:39 | Errors:0
+2026-05-01 18:59:01,801 [INFO] DB: 56,559 cases | 187,598 party rows
+2026-05-01 18:59:01,858 [INFO] Next: python phase3_build_excel.py

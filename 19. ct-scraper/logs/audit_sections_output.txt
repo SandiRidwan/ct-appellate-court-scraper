@@ -1,0 +1,408 @@
+
+============================================================
+CRN 1
+============================================================
+
+[tblAppealCaseSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblAppealCaseSec" role="presentation" title="Appeal Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="3">Appeal Case Information</td>
+<td class="style35" colspan="2">
+<a href="http://www.jud.ct.gov/judmessaging/request.aspx?reqid=A2001" id="hlnkSubscribe" target="_blank">To receive an email when there is activity on this case, click here.</a>
+</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Date Filed:</td>
+<td class="style35"><span id="lblDateFiled">01/30/1991</span></td>
+<td class="style38">Response to Docket Due Date:</td>
+<td class="style39"><span id="lblResponse2Docket"> </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Appeal By:</td>
+<td class="style35"><span id="lblAppealBy">Plaintiff</span></td>
+<td class="style38">Disposition Method:</td>
+<td class="style39"><span id="lblDispMethod">Transferred                                                                                         </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Argued Date:</td>
+<td class="style35"><span id="lblArgSub"></span>&amp;nbsp&amp;nbsp&amp;nbsp<span id="lblSessionTime"></span></td>
+<td class="style38">Disposition Date:</td>
+<td class="style39"><span id="lblDispDt">04/18/1991</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Submitted on Briefs Date:</td>
+<td class="style42"><span id="lblSubmitDt"></span></td>
+<td class="style38">Cite:</td>
+<td class="style39" id="dispositionTypeCell" valign="top">
+<div>
+</div>
+<span id="lblRescript"></span>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33a">Panel:</td>
+<td class="style35"><span id="lblPanel"></span>
+</td>
+<td class="style38" rowspan="2">Petition(s) For Certification:</td>
+<td class="style44" rowspan="2" titl
+
+[tblTrialCourtInfoSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblTrialCourtInfoSec" role="presentation" title="Trial Court Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="5">Trial Court Case Information</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34b">Docket Number:</td>
+<td class="style37" colspan="3">
+<table border="0" cellpadding="3" cellspacing="0" id="dlTCDockets" role="presentation" style="border-color:Transparent;border-style:None;border-collapse:collapse;" title="Docket Number">
+<tr>
+<td style="white-space:nowrap;">
+<a href="http://civilinquiry.jud.ct.gov/CaseDetail/PublicCaseDetail.aspx?DocketNo=TTDCV880000543S" id="dlTCDockets_ctl00_hlnkDocketNumber" target="TTDCV880000543S">TTDCV880000543S</a>
+</td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34">Judgment For:</td>
+<td class="style37"> <span id="lblJudgementFor">Defendant</span> </td>
+<td class="style41">Court:</td>
+<td class="style40"><span id="lblCourt">JD COURTHOUSE AT ROCKVILLE</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34a" rowspan="2">Trial Judge(s):</td>
+<td class="style37a" rowspan="2">
+<span id="lblTrialJudge">HON. HOWARD SCHEINBLUM<br/></span></td>
+<td class="style41">Judgment Date:</td>
+<td class="style40"><span id="lblJudgementdate">01/16/1991</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style41">Case Type:</td>
+<td class="style40"><span id="lblCaseType">CIVIL - MISC/ALL OTHER</span></td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+</table>
+
+[gvActivities — first 3 rows RAW]
+<tr style="color:White;background-color:#1F3776;font-family:Arial;font-size:8pt;font-weight:bold;">
+<th align="left" scope="col">Activity</th><th align="center" scope="col">Number</th><th align="center" scope="col">Date filed</th><th align="left" scope="col">Initiated By</th><th align="left" scope="col">Description</th><th align="left" scope="col">Action</th><th align="center" scope="col">Action Date</th><th align="center" scope="col">Notice Date</th>
+</tr>
+---
+<tr style="font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl02_lblActivity">DISPOSITION</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top"> </td><td valign="top"> </td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">Court</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl02_lblDescription">Transferred                                     
+---
+<tr style="background-color:LightGoldenrodYellow;font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl03_lblActivity">TRANSFER TO</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top"> </td><td valign="top"> </td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">Court</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl03_lblDescription">Transfer C
+---
+
+============================================================
+CRN 2
+============================================================
+
+[tblAppealCaseSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblAppealCaseSec" role="presentation" title="Appeal Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="3">Appeal Case Information</td>
+<td class="style35" colspan="2">
+<a href="http://www.jud.ct.gov/judmessaging/request.aspx?reqid=A2002" id="hlnkSubscribe" target="_blank">To receive an email when there is activity on this case, click here.</a>
+</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Date Filed:</td>
+<td class="style35"><span id="lblDateFiled">02/04/1991</span></td>
+<td class="style38">Response to Docket Due Date:</td>
+<td class="style39"><span id="lblResponse2Docket"> </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Appeal By:</td>
+<td class="style35"><span id="lblAppealBy">Defendant</span></td>
+<td class="style38">Disposition Method:</td>
+<td class="style39"><span id="lblDispMethod">Transferred                                                                                         </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Argued Date:</td>
+<td class="style35"><span id="lblArgSub"></span>&amp;nbsp&amp;nbsp&amp;nbsp<span id="lblSessionTime"></span></td>
+<td class="style38">Disposition Date:</td>
+<td class="style39"><span id="lblDispDt">02/21/1991</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Submitted on Briefs Date:</td>
+<td class="style42"><span id="lblSubmitDt"></span></td>
+<td class="style38">Cite:</td>
+<td class="style39" id="dispositionTypeCell" valign="top">
+<div>
+</div>
+<span id="lblRescript"></span>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33a">Panel:</td>
+<td class="style35"><span id="lblPanel"></span>
+</td>
+<td class="style38" rowspan="2">Petition(s) For Certification:</td>
+<td class="style44" rowspan="2" titl
+
+[tblTrialCourtInfoSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblTrialCourtInfoSec" role="presentation" title="Trial Court Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="5">Trial Court Case Information</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34b">Docket Number:</td>
+<td class="style37" colspan="3">
+<table border="0" cellpadding="3" cellspacing="0" id="dlTCDockets" role="presentation" style="border-color:Transparent;border-style:None;border-collapse:collapse;" title="Docket Number">
+<tr>
+<td style="white-space:nowrap;">
+<a href="http://civilinquiry.jud.ct.gov/CaseDetail/PublicCaseDetail.aspx?DocketNo=TTDCV890000709S" id="dlTCDockets_ctl00_hlnkDocketNumber" target="TTDCV890000709S">TTDCV890000709S</a>
+</td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34">Judgment For:</td>
+<td class="style37"> <span id="lblJudgementFor">Plaintiff</span> </td>
+<td class="style41">Court:</td>
+<td class="style40"><span id="lblCourt">JD COURTHOUSE AT ROCKVILLE</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34a" rowspan="2">Trial Judge(s):</td>
+<td class="style37a" rowspan="2">
+<span id="lblTrialJudge">HON. PHILIP R. DUNN<br/></span></td>
+<td class="style41">Judgment Date:</td>
+<td class="style40"><span id="lblJudgementdate">01/29/1991</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style41">Case Type:</td>
+<td class="style40"><span id="lblCaseType">CIVIL - HAB CORPUS/PRISON/EXT</span></td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+</table>
+
+[gvActivities — first 3 rows RAW]
+<tr style="color:White;background-color:#1F3776;font-family:Arial;font-size:8pt;font-weight:bold;">
+<th align="left" scope="col">Activity</th><th align="center" scope="col">Number</th><th align="center" scope="col">Date filed</th><th align="left" scope="col">Initiated By</th><th align="left" scope="col">Description</th><th align="left" scope="col">Action</th><th align="center" scope="col">Action Date</th><th align="center" scope="col">Notice Date</th>
+</tr>
+---
+<tr style="font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl02_lblActivity">MOTION</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top">AC 902000 </td><td valign="top">2/5/1991</td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">KEITH D. LAWS </td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl02_lblDescription">Motion to Dismiss Appeal</sp
+---
+<tr style="background-color:LightGoldenrodYellow;font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl03_lblActivity">DISPOSITION</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top"> </td><td valign="top"> </td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">Court</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl03_lblDescription">Transferre
+---
+<tr style="font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl04_lblActivity">TRANSFER TO</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top"> </td><td valign="top"> </td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">Court</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl04_lblDescription">Transfer Case to </span>
+<br/>   
+             
+---
+
+============================================================
+CRN 3
+============================================================
+
+[tblAppealCaseSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblAppealCaseSec" role="presentation" title="Appeal Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="3">Appeal Case Information</td>
+<td class="style35" colspan="2">
+<a href="http://www.jud.ct.gov/judmessaging/request.aspx?reqid=A2003" id="hlnkSubscribe" target="_blank">To receive an email when there is activity on this case, click here.</a>
+</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Date Filed:</td>
+<td class="style35"><span id="lblDateFiled">02/04/1991</span></td>
+<td class="style38">Response to Docket Due Date:</td>
+<td class="style39"><span id="lblResponse2Docket"> </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Appeal By:</td>
+<td class="style35"><span id="lblAppealBy">Defendant</span></td>
+<td class="style38">Disposition Method:</td>
+<td class="style39"><span id="lblDispMethod">Party Motion                                                                                        </span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Argued Date:</td>
+<td class="style35"><span id="lblArgSub"></span>&amp;nbsp&amp;nbsp&amp;nbsp<span id="lblSessionTime"></span></td>
+<td class="style38">Disposition Date:</td>
+<td class="style39"><span id="lblDispDt">07/15/1991</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33">Submitted on Briefs Date:</td>
+<td class="style42"><span id="lblSubmitDt"></span></td>
+<td class="style38">Cite:</td>
+<td class="style39" id="dispositionTypeCell" valign="top">
+<div>
+</div>
+<span id="lblRescript"></span>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style33a">Panel:</td>
+<td class="style35"><span id="lblPanel"></span>
+</td>
+<td class="style38" rowspan="2">Petition(s) For Certification:</td>
+<td class="style44" rowspan="2" titl
+
+[tblTrialCourtInfoSec RAW HTML]
+<table border="0" cellpadding="0" cellspacing="0" id="tblTrialCourtInfoSec" role="presentation" title="Trial Court Case Information" width="100%">
+<tr>
+<td class="dividerblueCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="dividergrayCell" colspan="5"></td>
+</tr>
+<tr>
+<td class="subsectionHeaderCell" colspan="5">Trial Court Case Information</td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34b">Docket Number:</td>
+<td class="style37" colspan="3">
+<table border="0" cellpadding="3" cellspacing="0" id="dlTCDockets" role="presentation" style="border-color:Transparent;border-style:None;border-collapse:collapse;" title="Docket Number">
+<tr>
+<td style="white-space:nowrap;">
+<a href="http://civilinquiry.jud.ct.gov/CaseDetail/PublicCaseDetail.aspx?DocketNo=KNLCV890511167S" id="dlTCDockets_ctl00_hlnkDocketNumber" target="KNLCV890511167S">KNLCV890511167S</a>
+</td><td></td><td></td><td></td><td></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34">Judgment For:</td>
+<td class="style37"> <span id="lblJudgementFor">Defendant</span> </td>
+<td class="style41">Court:</td>
+<td class="style40"><span id="lblCourt">JD COURTHOUSE AT NEW LONDON</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style34a" rowspan="2">Trial Judge(s):</td>
+<td class="style37a" rowspan="2">
+<span id="lblTrialJudge">HON. ROBERT C. LEUBA<br/></span></td>
+<td class="style41">Judgment Date:</td>
+<td class="style40"><span id="lblJudgementdate">11/16/1990</span></td>
+</tr>
+<tr>
+<td class="style1"></td>
+<td class="style41">Case Type:</td>
+<td class="style40"><span id="lblCaseType">CIVIL - MV/DRV&amp;/OR PSGR V DVR</span></td>
+</tr>
+<tr>
+<td class="style19" colspan="5"></td>
+</tr>
+</table>
+
+[gvActivities — first 3 rows RAW]
+<tr style="color:White;background-color:#1F3776;font-family:Arial;font-size:8pt;font-weight:bold;">
+<th align="left" scope="col">Activity</th><th align="center" scope="col">Number</th><th align="center" scope="col">Date filed</th><th align="left" scope="col">Initiated By</th><th align="left" scope="col">Description</th><th align="left" scope="col">Action</th><th align="center" scope="col">Action Date</th><th align="center" scope="col">Notice Date</th>
+</tr>
+---
+<tr style="font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl02_lblActivity">MOTION</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top">AC 902103 </td><td valign="top">4/9/1991</td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">Court</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl02_lblDescription">Order Nisi for Failure to File Amende
+---
+<tr style="background-color:LightGoldenrodYellow;font-family:Arial;font-size:8pt;">
+<td align="left" style="width:175px;" valign="top">
+<span id="gvActivities_ctl03_lblActivity">DISPOSITION</span>
+<br/>
+</td><td style="white-space:nowrap;" valign="top"> </td><td valign="top"> </td><td align="left" class="rowpaddingbottom" style="width:175px;" valign="top">By Party</td><td align="left" class="rowpaddingbottom" style="width:165px;" valign="top">
+<span id="gvActivities_ctl03_lblDescription">Party M
+---
