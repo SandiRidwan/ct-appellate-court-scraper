@@ -30,7 +30,7 @@
 ## 📹 Demo
 
 <div align="center">
-  <a href="https://youtube.com/watch?v=YOUR_VIDEO_ID">
+  <a href="https://youtube.com/watch?v=-kWFCRtUua8">
     <img src="thumbnail.png" width="860" alt="Watch full demo on YouTube" />
   </a>
   <p><i>Click thumbnail to watch: full scraper run, monitor in action, Excel output walkthrough</i></p>
