@@ -48,6 +48,14 @@ A production-grade web scraper for the **Connecticut Judicial Branch Appellate C
 
 ---
 
+## 📹 Demo
+
+[![Watch Demo](thumbnail.png)]([https://youtube.com/watch?v=-kWFCRtUua8])
+
+> *Click to watch: full scraper run, Excel output walkthrough, and monitor in action*
+
+![Monitor Progress](demo.gif)
+
 ## 🧠 Technical Challenges Solved
 
 ### 1. TLS Fingerprint Bypass
