@@ -37,7 +37,7 @@
 ## 📹 Demo
 
 <div align="center">
-  <a href="https://youtube.com/watch?v=kWFCRtUua8">
+  <a href="https://youtube.com/watch?v=-kWFCRtUua8">
     <img src="thumbnail.png" width="860" alt="Watch full demo on YouTube" />
   </a>
   <br/>
