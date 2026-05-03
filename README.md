@@ -47,7 +47,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/etc86rt.gif" width="860" />
+  <video src="https://github.com/user-attachments/assets/9434d90e-65eb-4df4-8545-787197a4cb8b" 
+         width="860" 
+         controls 
+         autoplay 
+         loop 
+         muted>
+  </video>
 </div>
 
 ---
